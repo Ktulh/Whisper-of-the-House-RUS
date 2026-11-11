@@ -1,0 +1,968 @@
+[
+ {
+  "key": "Mail/153",
+  "zh": "—————来自售楼处的好消息—————",
+  "en": "—— Good News from GD Real Estate ——",
+  "ru": ""
+ },
+ {
+  "key": "Mail/59",
+  "zh": "——白",
+  "en": "—Bai",
+  "ru": ""
+ },
+ {
+  "key": "Mail/141",
+  "zh": "——梅洛蒂",
+  "en": "—Melody",
+  "ru": ""
+ },
+ {
+  "key": "Mail/42",
+  "zh": "         陪伴小镇多年的宝石商店璀璨星辰在经历入室盗窃事件后关闭月余。然而在热心人士帮忙下，最红找回了失踪的宝石，完善了安保系统，得以能够再次开业。\n\n         在开业式中，店主亮晶晶着重感谢了家政工<PlayerName>，“没有<PlayerName>，我们也许无法坚持过来。”",
+  "en": "\"After serving the town for many years, the Brilliant Stars Jewelry Store was forced to close for over a month following a burglary. Thanks to the help of kind-hearted locals, the stolen gems were eventually recovered, and the store's security system was fully upgraded, making its reopening possible.\n\nAt the reopening ceremony, shop owner Sparky gave special thanks to housekeeper <PlayerName>: 'Without <PlayerName>, we might not have made it through.'\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/46",
+  "zh": "         在经历了上次入室盗窃事件后，原本决定歇业的璀璨星辰宝石商店在热心市民们的帮助下重新开业，但好景不长，本该重振旗鼓的宝石商店却再次成为了窃贼的目标。据悉，店铺的四颗镇店之宝“彩虹之爱”也在此次盗窃中彻底丢失。\n\n         店主亮晶晶苦涩表示：“彩虹之爱不仅仅是宝石，也是我和璀璨星辰的灵魂。没有了它，这家店也没有继续开下去的必要了。”",
+  "en": "\"After the previous break-in, Brilliant Stars Jewelry Store had planned to cease operations. However, thanks to the help of supportive townsfolk, it reopened with hope for a fresh start. But the good times didn't last—once again, the store became the target of thieves. It is reported that all four 'Love of the Rainbow' gems were stolen in the latest heist.\n\nWith a bitter smile, Sparky remarked, 'The Love of the Rainbow isn't just a set of gems—it's the very heart of Brilliant Stars and of me. Without them, there's no reason for this store to keep going.'\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/44",
+  "zh": "         在经历了上次的入室盗窃事件后，尽管璀璨星辰宝石商店得以重新开张，但不少老顾客惊讶地发现，曾经的四颗镇店之宝“彩虹之爱”却不再完整。\n\n         随着顾客渐渐减少，璀璨星辰或将面临关门的命运。\n\n         店主亮晶晶含泪表示：“没有了彩虹之爱，店铺仿佛也失去了灵魂，或许这真的是结束的信号吧。”",
+  "en": "\"Although the Brilliant Stars Jewelry Store reopened after the previous burglary, many longtime customers were surprised to find that the store's four treasured gems, known as the 'Love of the Rainbow,' were no longer complete.\n\nWith foot traffic steadily declining, the store may soon be forced to shut its doors once again.\n\nFighting back tears, Sparky said, 'Without the Love of the Rainbow, it feels like the soul of the store is gone. Maybe… this really is the end.'\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/24",
+  "zh": "“炸弹花，霸道的冲击力，气味可使人持续分泌多巴胺。”",
+  "en": "\"Blastbloom: A powerful impact and aroma that boosts dopamine levels.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/75",
+  "zh": "“水银蓟，有净化之力。”",
+  "en": "\"Mercury thistle, with the power to purify.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/29",
+  "zh": "“银镜之露，揭开蒙尘之镜的面纱。”",
+  "en": "\"Mirror Dew: Unveils the hidden layers of any dusty or obscured mirror.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/27",
+  "zh": "“月见花，能映照出事物的真实面貌。”",
+  "en": "\"Moonflower: Reveals the true essence of objects under its illuminating glow.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/136",
+  "zh": "姓名：鱼霸\n年龄：？\n偏好：捡垃圾、搞破坏\n居住地：海边小木屋",
+  "en": "\"Name: Finlord\nAge: ?\nLikes: Picking up trash, causing destruction\nResidence: Seaside cabin\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/101",
+  "zh": "房间名称：实验基地\n房间用途：爱机斯坦进行爆破研究的实验室\n关卡氛围：冷酷 机械",
+  "en": "\"Room Name: Research Base\nRoom Function: EinSmart's lab for conducting explosion research\nStage Mood: Cold, Mechanical\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/121",
+  "zh": "房间名称：圣弗拉德米尔医院205病房\n房间用途：白老太生前病房\n关卡氛围：忧伤 治愈",
+  "en": "\"Room Name: St. Vladimir Hospital Room 205\nRoom Purpose: The ward where Lady Bai stayed before her passing\nStage Atmosphere: Sadness, Healing\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/28",
+  "zh": "“银叶草浸液，只会在夜晚发出光芒。”",
+  "en": "\"Silverleaf Elixir: A shimmering liquid that only glows at night.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/25",
+  "zh": "“燃烧剂，常见合成材料。”",
+  "en": "\"Thermal Mix: A common alchemical material.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/125",
+  "zh": "姓名：露娜\n年龄：17岁\n偏好：养狗，养植物\n居住地：复式公寓",
+  "en": "【Name】: Luna\n【Age】: 17\n【Likes】: Raising dogs, caring for plants\n【Residence】: Duplex Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Mail/104",
+  "zh": "<B>以下是在本镇生活须谨记的主要规则：</B>\n夜间禁止在街上闲逛\n房内镜子超过五面，需报备管理者\n请勿尝试找到自己家的地下二层\n地板可能会自己更换纹理，请勿尝试拍照\n请勿在3:33对着喷泉许愿\n请勿在晚上11点后称量体重",
+  "en": "<B>Main rules to remember when living in this town:</B>\n・No wandering on the streets at night\n・If there are more than five mirrors in your home, report to the administrator\n・Do not attempt to find the second basement level of your own home\n・The floor may change its pattern on its own; do not try to photograph it\n・Do not make a wish at the fountain at 3:33 a.m.\n・Weighing yourself after 11:00 p.m. is prohibited",
+  "ru": ""
+ },
+ {
+  "key": "Mail/26",
+  "zh": "“神奇礼花，使用后会偶而出现未知的幻视效果。”",
+  "en": "A firework that can intensify love effects lasting up to three days.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/60",
+  "zh": "神秘的二层？博物馆馆长<b>埃尔茨</b>回应",
+  "en": "A Mysterious Second Floor? Museum Director <b>Elts</b> Responds",
+  "ru": ""
+ },
+ {
+  "key": "Mail/94",
+  "zh": "曾经有一位流浪的雕塑家短暂停留在小镇，他留下了一些洁白、栩栩如生的雕塑，静静伫立在各个角落。雕塑家离开后，镇长决定将这些作品集中搬到公园展出。自那之后，每当夜深人静时，这些雕塑便会苏醒，一边缓慢移动，一边发出沙沙的摩擦声。偶尔，湖中央的拱门遗迹还会泛起幽幽光芒，从中走出一些形态诡异的生物。",
+  "en": "A wandering sculptor once stayed briefly in the town and left behind several white, lifelike statues that stood quietly in various corners. After the sculptor left, the mayor decided to gather the statues and display them in the park. Since then, whenever night falls and silence descends, the sculptures begin to awaken—moving slowly and making soft, rustling noises. Occasionally, a faint glow emerges from the arch ruins in the middle of the lake, and strange creatures of unusual shapes walk out from within. ",
+  "ru": ""
+ },
+ {
+  "key": "Mail/152",
+  "zh": "每周末开设养生茶的冲泡课程\n多陪陪长椅上的老人打麻将",
+  "en": "A wellness tea brewing class is held every weekend.\nSpend more time playing mahjong with the elders.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/1",
+  "zh": "据古籍记载，这是一种极为古老的法阵，传说它能将物品，甚至生命体，送往高于现实世界的时空维度。\n\n施法时，目标必须处在法阵的正中央，阵纹才会被激活。启动之际，纹路会释放出明显的能量波动，那便是法阵开始运转的征兆。\n\n无数学者曾尝试记录它的运行过程，却无人能揭示其终点。偶有极少数人成功施法，据说有人亲眼见过他们在阵纹的光芒中消失——不知去了何方，也再未归来。",
+  "en": "According to ancient texts, this is an exceptionally old magic circle, said to be capable of sending not only objects but even living beings to a dimension beyond the reality of this world.\n\nDuring the casting, the target must stand at the exact center of the circle for the sigils to activate. At the moment of initiation, the lines emit a distinct surge of energy—an omen that the circle has begun to operate.\n\nCountless scholars have tried to record its workings, yet none have been able to uncover its destination. On rare occasions, some have succeeded in casting it, and witnesses claim to have seen them vanish into the glow of the sigils—where they went is unknown, and they never returned.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/108",
+  "zh": "炼金工坊档案",
+  "en": "Alchemist's Lab Record",
+  "ru": ""
+ },
+ {
+  "key": "Mail/66",
+  "zh": "为回馈玩家的支持，我们已将3000点专属代金券直接汇入您的账户，请在游戏内查收!",
+  "en": "As a token of appreciation for the players' support, we have directly credited 3000 special coupons to your account, please check it in-game!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/30",
+  "zh": "金枝",
+  "en": "Aurobranch",
+  "ru": ""
+ },
+ {
+  "key": "Mail/13",
+  "zh": "本报记者  大智",
+  "en": "By Sage, Whisper Daily",
+  "ru": ""
+ },
+ {
+  "key": "Mail/62",
+  "zh": "本报记者  大智",
+  "en": "By Sage, Whisper Daily",
+  "ru": ""
+ },
+ {
+  "key": "Mail/87",
+  "zh": "中央大楼档案",
+  "en": "Central Building File",
+  "ru": ""
+ },
+ {
+  "key": "Mail/64",
+  "zh": "改变过去？！",
+  "en": "Change the Past?!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/105",
+  "zh": "混沌",
+  "en": "Chaos",
+  "ru": ""
+ },
+ {
+  "key": "Mail/117",
+  "zh": "雪丽尔",
+  "en": "Cheryl",
+  "ru": ""
+ },
+ {
+  "key": "Mail/119",
+  "zh": "雪丽尔管理着炼金工坊的日常，也是炼金术士伊恩的生活助手。虽然她没有动手做实验的资格，但伊恩最信任的还是她。做饭是她的爱好，就算伊恩常常废寝忘食，她也会给两个人准备一顿热乎的饭菜。多年下来，她一直静静守护着这片充满魔法的地方。",
+  "en": "Cheryl manages the daily affairs of the alchemy lab and is also the personal assistant to alchemist Ian. Though she doesn't have the qualifications to conduct experiments, Ian trusts her more than anyone else. Cooking is her passion, and even when Ian is so absorbed in his work that he forgets to eat or sleep, she still prepares a hot meal for them both. Over the years, she has quietly protected this place filled with magic.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/5",
+  "zh": "柯罗诺斯秘仪",
+  "en": "Chronos Rite",
+  "ru": ""
+ },
+ {
+  "key": "Mail/150",
+  "zh": "恭喜您对房产进行了改装，接下来可以在房间内自由更换户型",
+  "en": "Congratulations on renovating your property. From now on, you can freely change the layout inside your room.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/82",
+  "zh": "恭喜你！你已成功晋升为 <B><color=#da9f1a>[新职位/等级名称]</B></color>！\n\n你的努力和表现得到了公司高度认可，我们为你感到骄傲。\n\n为表祝贺，我们将奖励你<B><color=#b44949>[金额]</B></color>点代金券！\n\n继续加油，前方还有更多挑战等你征服！",
+  "en": "Congratulations! You've been officially promoted to <B><color=#da9f1a>[新职位/等级名称]</B></color>!\n\nYour hard work and performance have been highly recognized by the company—we're proud of you. \n\nTo celebrate, we're awarding you <B><color=#b44949>[金额]</B></color> in voucher. Keep up the great work—more challenges await you ahead! ",
+  "ru": ""
+ },
+ {
+  "key": "Mail/72",
+  "zh": "便利店      促销",
+  "en": "Convenience Store　　　Sale",
+  "ru": ""
+ },
+ {
+  "key": "Mail/58",
+  "zh": "你还算靠谱。\n小镇里那栋空房子的钥匙，\n就当是小费。\n我的猫很可爱吧？好好对他们！",
+  "en": "Cute cat, huh?\nYou're pretty reliable. The key to that empty house in town is your tip.\nBe good to my cat!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/7",
+  "zh": "每日招聘",
+  "en": "Daily Job Listings",
+  "ru": ""
+ },
+ {
+  "key": "Mail/51",
+  "zh": "每日招租",
+  "en": "Daily Rentals Available",
+  "ru": ""
+ },
+ {
+  "key": "Mail/84",
+  "zh": "每日呓语",
+  "en": "Daily Whisper",
+  "ru": ""
+ },
+ {
+  "key": "Mail/81",
+  "zh": "亲爱的— <PlayerName>",
+  "en": "Dear <PlayerName>",
+  "ru": ""
+ },
+ {
+  "key": "Mail/149",
+  "zh": "亲爱的顾客：",
+  "en": "Dear Customer,",
+  "ru": ""
+ },
+ {
+  "key": "Mail/114",
+  "zh": "爱机斯坦博士一直无法原谅自己，在爷爷生命最后的日子里沉迷工作，没能好好陪伴照料。无力的悔恨渐渐化成了失控的怒火——他开始痴迷于自制炸弹，总穿着一件沾满火药的白大褂喃喃自语，像是随时准备与全镇同归于尽。据日报统计，这位被称作“爆破狂人”的科学家已经三次把自家屋顶炸上了天。",
+  "en": "Dr. EinSmart has never forgiven himself for burying himself in work during his grandfather's final days, failing to spend time with or care for him properly. That powerless regret gradually turned into uncontrollable rage—he became obsessed with making homemade bombs, always wearing a white lab coat stained with gunpowder and muttering to himself, as if ready to take the whole town down with him. According to the Whisper Daily, this \"Demolition Maniac\" scientist has already blown his own roof off three times.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/112",
+  "zh": "爱机斯坦",
+  "en": "EinSmart",
+  "ru": ""
+ },
+ {
+  "key": "Mail/130",
+  "zh": "邪恶",
+  "en": "Evil",
+  "ru": ""
+ },
+ {
+  "key": "Mail/83",
+  "zh": "—————来自人事部的好消息—————",
+  "en": "Exciting News from the HR Department",
+  "ru": ""
+ },
+ {
+  "key": "Mail/70",
+  "zh": "传奇炼金师专访！高维世界是真实的存在吗？？",
+  "en": "Exclusive Interview with the Legendary Alchemist! Is the Higher-Dimensional World Real??",
+  "ru": ""
+ },
+ {
+  "key": "Mail/135",
+  "zh": "鱼霸",
+  "en": "Finlord",
+  "ru": ""
+ },
+ {
+  "key": "Mail/137",
+  "zh": "鱼霸是个天生不安分的家伙，在博物馆馆长埃尔茨的秘密怂恿下，在小镇上干尽了坏事。他曾假借“安装监控”的名义，悄悄在居民家中各个房间里放置能量收集器；还暗中调换了炼金工坊的法阵，害得伊恩被困其中。在医院时，他为了偷走白老太的物品和猫，竟一路追到花园，闹得满镇鸡犬不宁。",
+  "en": "Finlord is a restless troublemaker. Under the secret instigation of Eltz, he committed all kinds of misdeeds around town. Disguising his actions as \"installing surveillance,\" he secretly placed energy collectors in every room of residents' homes. He also covertly tampered with the alchemy workshop's magic circle, trapping Ian inside. At the hospital, in an attempt to steal Lady Bai's belongings, he even chased her cat all the way to the garden, throwing the entire town into chaos.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/155",
+  "zh": "GD售楼处",
+  "en": "GD Real Estate",
+  "ru": ""
+ },
+ {
+  "key": "Mail/115",
+  "zh": "长颈鹿的神迹",
+  "en": "Giraffe's Miracle",
+  "ru": ""
+ },
+ {
+  "key": "Mail/2",
+  "zh": "金枝，象征进入另一个世界的通行证。\n身体组织，代表个人的精魂。\n亚麻结绳，代表绑定或解除。\n凤凰羽毛布，代表不老和长生。",
+  "en": "Golden branch, a symbol of passage to another world.\nBody tissues, representing personal essence.\nLinen knot, symbolizing binding or release.\nPhoenix feather cloth, symbolizing immortality and eternal life.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/154",
+  "zh": "好消息！\nGD售楼处现已正式开放！\n优质房源，宜居户型，正等待你的到来。\n未来还有更多活动与惊喜优惠，欢迎常来看看！",
+  "en": "Good news!\nGD Real Estate is now officially open!\nCheck out quality homes and ideal floor plans made just for you.\nStay tuned for upcoming events and special offers!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/74",
+  "zh": "送货上门 方便快捷",
+  "en": "Home delivery – fast and easy",
+  "ru": ""
+ },
+ {
+  "key": "Mail/120",
+  "zh": "医院关卡档案",
+  "en": "Hospital Stage File",
+  "ru": ""
+ },
+ {
+  "key": "Mail/90",
+  "zh": "伊恩",
+  "en": "Ian",
+  "ru": ""
+ },
+ {
+  "key": "Mail/92",
+  "zh": "伊恩是一位痴迷炼金术的术士，一生追求超越人类极限的升华之道。在执念驱使下，他秘密献祭了最亲密的助手雪丽尔，试图通过禁忌法阵踏入更高维度。仪式最终失败。伊恩的身体崩解为二维形态，随即石化，意识永远困于那座由他亲手绘制的祭坛之中，成为一段无法抹去的诅咒。",
+  "en": "Ian was a sorcerer obsessed with alchemy, devoting his life to the pursuit of transcendence beyond human limits. Driven by obsession, he secretly sacrificed his closest assistant, Cheryl, attempting to step into a higher dimension through a forbidden ritual. The ritual ultimately failed. Ian's body collapsed into a two-dimensional form and turned to stone, his consciousness forever trapped within the altar he had drawn by his own hand—a curse that can never be erased.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/50",
+  "zh": "不小心把一块羊角包烤糊会降下一次短暂的磁暴.\n\n凌晨4点篮球场有声音，但没有人。\n\n不要靠近古井，井底藏着“掏心鬼”。",
+  "en": "If you accidentally burn a croissant, a brief magnetic storm will occur.\n\nThere's sound on the basketball court at 4 a.m., but nobody is there.\n\nAway from the old well—a \"heart-snatcher\" at the bottom.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/55",
+  "zh": "我是大智。过去几周，当我在家中或街上路过某些地点时，总会感到一种无法言喻的拉扯感——就像有一股微弱而执拗的磁场，试图左右我的思维方向。\n\n而今天早上，我再次路过博物馆，发现上方的数字已然改变。我不记得它是什么时候变的，只感到这股拉扯感越发明显了。\n\n我开始怀疑，小镇上的记忆、人的行为、甚至我的梦境，都已被这些磁场微妙地“重编”。",
+  "en": "In recent weeks, I've felt an indescribable pulling sensation whenever I pass certain spots in town or at home—as if a faint, stubborn magnetic field is trying to steer my thoughts.\n\nThis morning, as I passed the museum again, I noticed the number above it had silently changed. I can't remember when it happened, only that the pull has gotten stronger.\n\nI'm beginning to suspect that the town's memories, people's behaviors, even my dreams, are being subtly \"rewritten\" by these fields.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/133",
+  "zh": "在地下通道里，有一个可以传送的卡片。\n\n墓地的塔楼有吓人的东西。\n\n坐在椅子上，你的膝盖会弯曲。",
+  "en": "In the underground passage, a card can teleport you.\n\nThere's something frightening in the cemetery tower.\n\nWhen you sit in the chair, your knees will bend.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/45",
+  "zh": "宝石商店再次失窃，“璀璨星辰”或将停业",
+  "en": "Jewelry Store Robbed Again — Brilliant Stars May Shut Down for Good",
+  "ru": ""
+ },
+ {
+  "key": "Mail/32",
+  "zh": "亚麻结绳",
+  "en": "Linen Knotwork",
+  "ru": ""
+ },
+ {
+  "key": "Mail/124",
+  "zh": "露娜",
+  "en": "Luna",
+  "ru": ""
+ },
+ {
+  "key": "Mail/126",
+  "zh": "露娜就是个普普通通的上班族女生。她总是安安静静，在各种集体活动里当个没人注意的背景板。大家只会在同学聚会上偶然记起，当年班里好像有过这么一个模糊面孔的女同学。只有她自己知道，就算从前在宽大的校服外套下面，她的每件上衣上也都印着一只柴犬。",
+  "en": "Luna is just an ordinary office worker. She's always quiet, blending into the background during group activities. At class reunions, people might vaguely recall, \"Oh, wasn't there a girl like that in our class?\" Only she knows that, back then, under her oversized school jacket, every shirt she wore had a Shiba Inu printed on it.\n",
+  "ru": ""
+ },
+ {
+  "key": "Mail/10",
+  "zh": "30岁左右男性，棕色短发，穿紫色长袍，最后出现位置在加油站附近，请有相关消息的居民联系本报。",
+  "en": "Male, approximately 30 years old, with short brown hair wearing a purple robe. Last seen near the gas station. Pease contact our office with any leads.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/86",
+  "zh": "博物馆出现神秘数字",
+  "en": "Mysterious numbers have appeared at the museum",
+  "ru": ""
+ },
+ {
+  "key": "Mail/118",
+  "zh": "姓名：雪丽尔\n年龄：31岁\n偏好：烹饪、药膳搭配、草药识别\n居住地：炼金工坊",
+  "en": "Name: Cheryl\nAge: 31\nLikes: Cooking, herbal cuisine pairing, herb identification\nResidence: Alchemy Lab",
+  "ru": ""
+ },
+ {
+  "key": "Mail/113",
+  "zh": "姓名：爱机斯坦\n年龄：55岁\n偏好：搞小发明\n居住地：地下室",
+  "en": "Name: EinSmart\nAge: 55\nPreference: Tinkering with inventions\nResidence: Basement",
+  "ru": ""
+ },
+ {
+  "key": "Mail/131",
+  "zh": "姓名：埃尔茨\n年龄：？\n偏好：？\n居住地：博物馆顶层\n自称“第五银河观测员”，因飞船坠毁误降小镇博物馆，暂住在博物馆顶层，它偷偷安插了手下在小镇收集邪恶的负能量以便他早日回归母星。",
+  "en": "Name: Eltz\nAge: ?\nLikes: ?\nResidence: Top floor of the museum\nClaims to be the 'Observer of the Fifth Galaxy'. After his ship crashed, he accidentally landed on the museum and now resides at the top. In secret, he planted agents throughout the town to gather evil energy in hopes of returning to his home planet.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/132",
+  "zh": "姓名：戈登\n年龄：？\n偏好：钓鱼\n居住地：好味小馆\n他从不解释食材来源，只是微笑。传言他来自深海旧族，每道菜都是献祭与交易。食客虽心存疑惧，却欲罢不能。",
+  "en": "Name: Gordon\nAge: ?\nLikes: Fishing\nResidence: Tasty Diner\nThe head chef of 'Tasty Diner', but never explains where his ingredients come from. A strange rumor circulates in town—he hails from a deep-sea species, and every dish is the result of ritual sacrifice and arcane trades. Though some diners are wary, they always return for more, unable to resist.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/107",
+  "zh": "姓名：黑尔\n年龄：？\n偏好：囤积\n居住地：复式公寓\n他是一个有重度囤积癖的松鼠，喜欢收集小镇里各式各样的零食和玩具，居住据点在一个复式公寓的密室里······",
+  "en": "Name: Hale\nAge: ?\nPreference: Hoarding\nResidence: Duplex Apartment\nHe is a squirrel with a serious hoarding habit, obsessed with collecting all kinds of snacks and toys around town. His base is hidden in a secret room of a duplex apartment...",
+  "ru": ""
+ },
+ {
+  "key": "Mail/91",
+  "zh": "姓名：伊恩\n年龄：28岁\n偏好：炼金术/禁忌知识\n居住地：炼金工坊",
+  "en": "Name: Ian\nAge: 28\nPreference: Alchemy / Forbidden Knowledge\nResidence: Alchemy Lab",
+  "ru": ""
+ },
+ {
+  "key": "Mail/128",
+  "zh": "姓名：大智\n年龄：24岁\n偏好：探险、极限运动\n居住地：唐人街",
+  "en": "Name: Sage\nAge: 24\nLikes: Adventure, extreme sports\nResidence: Chinatown",
+  "ru": ""
+ },
+ {
+  "key": "Mail/106",
+  "zh": "姓名：沃德\n年龄：24岁\n偏好：工作\n居住地：小镇中央大楼\n他曾是元气科技集团的一名员工，勤勤恳恳、按时打卡、从不抱怨的上班族，默默工作多年······",
+  "en": "Name: Ward\nAge: 24\nLikes: Working\nResidence: Central Tower\nHe used to be a diligent employee of GD Tech Corporation—always punctual, never complained, and worked quietly for many years...",
+  "ru": ""
+ },
+ {
+  "key": "Mail/38",
+  "zh": "新书上架",
+  "en": "New books available.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/40",
+  "zh": "新品书籍九折起\n《民俗怪谈合集》\n《灯塔》\n《炼金师之死》\n  ......",
+  "en": "New books starting at 10% off\n\"Collection of Folklore Tales\"\n\"The Lighthouse\"\n\"The Alchemist's Demise\"\n  ......",
+  "ru": ""
+ },
+ {
+  "key": "Mail/邮箱有东西的提示",
+  "zh": "有新的邮件",
+  "en": "New Mail",
+  "ru": ""
+ },
+ {
+  "key": "Mail/邮箱没有东西的提示",
+  "zh": "暂时没有东西",
+  "en": "No items for now.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/4",
+  "zh": "注意：\n  法阵作用于人类时拥有极大风险，需仔细确认祭祀物品摆放顺序，谨慎使用。",
+  "en": "Note:\n  When the magic circle is applied to humans, it poses great risks. Carefully verify the order of sacrificial items and use with caution.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/41",
+  "zh": "老朋友归来！“璀璨星辰”即将重启营业",
+  "en": "Old Friend Returns! Brilliant Stars Jewelry Store to Reopen Soon",
+  "ru": ""
+ },
+ {
+  "key": "Mail/17",
+  "zh": "8月23日，呓语路7号公寓屋主报警称屋内有异样。警方赶到后，在卧室旁发现密室，并将躲在其中的流浪汉带至救助中心。据悉，流浪汉长期在小镇游荡，晚上通过屋主浴室进入其废弃房间内，其居住位置离房主仅一墙之隔。\n\n警方在其房间内的大量简易生活用品中找到他的工牌。但经过调查，无论是人员还是公司，在这个小镇上都并不存在。",
+  "en": "On August 23, the resident of an apartment at 7 Whisper Street reported unusual activity. Police found a hidden room beside the bedroom and a homeless man inside, later sending him to a shelter.\n\nHe had been living in an abandoned room next to the owner's, entering at night through the bathroom. Police found makeshift supplies and a work ID, but neither the man nor the company existed in town.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/19",
+  "zh": "8月23日，呓语路7号公寓屋主报警称屋内有异样。警方赶到后，在卧室旁发现密室，并将躲在其中的流浪汉带至救助中心。据悉，流浪汉长期在小镇游荡，晚上通过屋主浴室进入其废弃房间内，其居住位置离房主仅一墙之隔。\n警方在其房间内的大量简易生活用品中找到他的工牌。但经过调查，无论是人员还是公司，在这个小镇上都并不存在。",
+  "en": "On August 23rd, the resident of a rental house on Whisper Street No. 7 reported unusual activity inside their home. Upon arrival, police discovered a hidden room adjacent to the bedroom, where they found a homeless man hiding. He was removed from the premises immediately. According to reports, this man had been secretly entering the abandoned space at night through a hidden passage in the bathroom. When found, he was dressed in tattered clothes and appeared unkempt. The room was filled with makeshift living supplies, suggesting long-term occupancy. The man has since been taken to a shelter for assistance.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/98",
+  "zh": "某一天一个鱼头生物给他带去了七个情绪能量球。于是他修好了飞船，离开了小镇。之后博物馆变成了一个旅游打卡圣地，有些居民甚至还会怀念当初没有情绪的日子。",
+  "en": "One day, a fish-headed creature brought him seven emotion energy orbs. With those, he repaired his spaceship and left. Since then, the museum has become a tourist hotspot, and some residents even miss the emotionless days of the past.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/122",
+  "zh": "原始设计说明：住院期间和白老太每日相伴的流浪猫其实是外星生物，在白老太病故后，外星猫用自己的能力留住白老太的灵魂，将其变成了一窝新生的小猫。",
+  "en": "Original Design Notes: During her hospitalization, the stray cat that spent every day with Lady Bai was actually an alien lifeform. After Lady Bai passed away, the alien cat used its powers to preserve her soul, transforming it into a litter of newborn kittens.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/93",
+  "zh": "公园档案",
+  "en": "Park Records",
+  "ru": ""
+ },
+ {
+  "key": "Mail/33",
+  "zh": "凤凰羽毛布",
+  "en": "Phoenix Fabric",
+  "ru": ""
+ },
+ {
+  "key": "Mail/151",
+  "zh": "请勿勤丢垃圾\n明天的事，就留到明天吧",
+  "en": "Please do not take out the trash everyday.\nLeave tomorrow's matters for tomorrow.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/146",
+  "zh": "请勿闯入邻居住宅\n当整栋楼陷入完全的寂静，请保持呼吸平稳",
+  "en": "Please do not trespass into neighbors' homes.\nWhen the entire building falls into complete silence, please keep your breathing steady.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/116",
+  "zh": "向长颈鹿祈祷，考试就能看到隔壁的卷子",
+  "en": "Pray to the giraffe, and you might just see your neighbor's answers during a test.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/142",
+  "zh": "房产证书",
+  "en": "Property Certificate",
+  "ru": ""
+ },
+ {
+  "key": "Mail/144",
+  "zh": "房产位置",
+  "en": "Property Location",
+  "ru": ""
+ },
+ {
+  "key": "Mail/143",
+  "zh": "房产归属人",
+  "en": "Property Owner",
+  "ru": ""
+ },
+ {
+  "key": "Mail/148",
+  "zh": "房产改装通知",
+  "en": "Property Renovation Notice",
+  "ru": ""
+ },
+ {
+  "key": "Mail/53",
+  "zh": "         近日，店主三木与他的“IKA家居”家具店再次成为焦点， 时隔数月，三木终于又拿出了新的木雕作品。这些作品虽然不及三木得奖时期的作品那么完美无瑕，但却格外有趣。\n\n         我们采访了不少顾客，他们都表示能够再次从三木的木雕中感受到独特的气质了。\n\n        有雕刻爱好者向三木请教秘诀，请他推荐雕刻的工具。但他只是微微一笑，拿着一把朴素的刻刀说：“工具和技巧都不重要，真正重要的是投入的情感与想要创作的心。”据悉，这把刻刀是他初学雕刻时师傅赠予的第一把刻刀。",
+  "en": "Recently, shop owner Miki and his furniture store \"IKA Home\" have returned to the spotlight. After several months, Miki has finally released a new set of woodcarving works. While these pieces may not match the flawless perfection of his award-winning era, they carry a special charm.\n\nWe spoke with many customers, and they all expressed that they could once again feel the unique spirit in Miki's carvings.\n\nSome carving enthusiasts asked Miki for his secret and requested recommendations for carving tools. He simply smiled and held up a modest carving knife, saying, \"Tools and technique don't matter. What truly matters is the emotion you put in and your desire to create.\"  \nIt is said that this carving knife was the first one gifted to him by his master when he began learning the craft.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/48",
+  "zh": "最近，小镇居民们发现博物馆正上方出现了一个发光数字：42。\n\n这引来大量围观，众说纷纭，现场一度陷入混乱，警方不得不赶到维持秩序。\n\n直到人群散去，数字依然没有消失...",
+  "en": "Recently, townsfolk noticed a glowing number \"42\" above the museum.\n\nIt attracted a large crowd of people, sparking widespread speculation and chaos, until the police had to intervene.\n\nAfter everyone left, the number was still there...",
+  "ru": ""
+ },
+ {
+  "key": "Mail/89",
+  "zh": "居民纷纷购买相关的周边产品，将其摆满家中，却不知道这些全都是微型监控装置。",
+  "en": "Residents buy various related products and decorate their homes, but these items are actually micro surveillance devices.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/111",
+  "zh": "房间名称：炼金工坊\n房间用途：给炼金师伊恩整理工作间\n关卡氛围：神秘 忧伤",
+  "en": "Room Name: Alchemy Lab\nRoom Purpose: Organize the workspace for the alchemist Ian\nStage Mood: Mysterious, melancholic",
+  "ru": ""
+ },
+ {
+  "key": "Mail/145",
+  "zh": "居住守则",
+  "en": "Rules",
+  "ru": ""
+ },
+ {
+  "key": "Mail/127",
+  "zh": "大智",
+  "en": "Sage",
+  "ru": ""
+ },
+ {
+  "key": "Mail/129",
+  "zh": "大智是一位热爱探险的记者，正直勇敢、充满正义感，总是第一个冲进危险现场，从不畏惧阴谋与混乱。他擅长用镜头揭示真相，也善于用幽默化解紧张气氛。虽然行动常带几分脱线，偶尔惹出笑话，但他的初心始终坚定，永远站在故事的第一线。",
+  "en": "Sage is a thrill-seeking journalist with a strong sense of justice—brave, upright, and always the first to rush into danger. He's never afraid of conspiracy or chaos.\nHe's skilled at exposing the truth through his camera and has a knack for easing tension with humor.\nThough his actions can be a bit clumsy and occasionally lead to awkward moments, his intentions remain pure, and he's always on the front line of the story.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/8",
+  "zh": "现招电影服务员若干，负责提供优质的客户服务，确保观众在电影院的整体体验愉快和顺畅。请直接到前台咨询相关信息，欢迎你的加入。",
+  "en": "Seeking several movie attendants to provide excellent service and ensure a pleasant, smooth experience for theatergoers. Please inquire at the front desk for more information—we'd love to have you join us!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/12",
+  "zh": "数月前，埃尔茨先生在小镇西南发现了一个古代遗迹，而经过这段时间的考古发掘，他们从中发现了大量的古董，艺术品乃至化石！\n\n我们敬爱的文化保护者们目前正在加班加点整理与清理出土的文物，它们预计会在一周后的博物馆翻新重开日与大家亮相，届时我们想必便能一领这些代表历史的美丽造物的风彩。",
+  "en": "Several months ago, Mr. Elts made a remarkable discovery—an ancient ruin in the southwest of town. Since then, ongoing archaeological excavations have unearthed a wealth of treasures, including antiques, artworks, and even fossils! \n\nOur devoted cultural preservation team is now working tirelessly to clean and catalog these precious finds. In just one week, as the museum unveils its refreshed new look, these beautiful relics of the past will finally be on display. We warmly invite you to experience the wonder of history woven into every artifact!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/36",
+  "zh": "震惊！“墨镜帮”著名豪宅已被继承",
+  "en": "Shocking! \"Sunglasses Gang\" Mansion Inherited By Housekeeper",
+  "ru": ""
+ },
+ {
+  "key": "Mail/18",
+  "zh": "震惊！一流浪汉疑似长期居住公寓内废弃房间，现已被送至救助中心",
+  "en": "Shocking! Homeless Man Found Hiding in Abandoned Secret Room—Just One Wall Away from the Resident",
+  "ru": ""
+ },
+ {
+  "key": "Mail/20",
+  "zh": "自从搬到了呓语路7号的公寓，我就时不时丢失东西，明明门窗都锁的好好的，太奇怪了，这条街的治安员真得好好工作！！再也不住这里了！",
+  "en": "Since I moved to the apartment at 7 Whisper Lane, I've been losing things from time to time, even though the doors and windows are securely locked. It's really strange. The street's security officers must be doing a great job!! I'll never live here again!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/95",
+  "zh": "总有不幸的居民会被吓晕。于是镇长颁布了强制条例：“天黑之后，禁止外出。”",
+  "en": "Some unfortunate residents have even fainted in fright. As a result, the mayor issued a strict ordinance: \"No going outside after dark.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/78",
+  "zh": "超级豪华的元气商场开始招商！",
+  "en": "Super deluxe GD Mall now open for leasing!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/34",
+  "zh": "医院疑似进行人体实验？“黑老大”为救其母强闯医院！",
+  "en": "Suspected Human Experiments at Hospital? \"Big Boss\" Storms In to Save His Mother!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/147",
+  "zh": "感谢你在GD售楼处购买房产，祝您和邻居相处愉快",
+  "en": "Thank you for choosing GD Real Estate. May you enjoy your new home.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/23",
+  "zh": "感谢游玩DEMO",
+  "en": "Thanks for playing our Demo!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/77",
+  "zh": "在著名的家政专家<PlayerName>的帮助下，\n呓语日报的茶水间已经准备好迎接各位雀圣，\n欢迎各位叔叔阿姨热情参与！",
+  "en": "Thanks to the help of housekeeping expert <PlayerName>, \nthe Whisper Daily is ready to welcome all mahjong masters. \nUncles and aunties, we warmly invite you to join!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/138",
+  "zh": "我去世之日就是墨镜帮解散之日。\n欠我命的人，不再追究。\n黑手，劳你把我的墨镜埋在我的左手边。\n猫，务必交给一个聪明利落的人喂。",
+  "en": "The day I die will be the day the Sunglasses Gang disbands.\nThose who owe me their lives—I'll no longer hold them accountable.\nKuroi, please bury my sunglasses by my left hand.\nAs for the cat, make sure it goes to someone smart and capable.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/69",
+  "zh": "呓语小镇的街角再次飘来熟悉的花香：安娜的花店在经过一段时间的翻新升级后，今日正式重新开业！\n\n新装潢后的花店焕然一新，不仅继续出售各类精致的绿植盆栽，还新增了丰富的<b>种子</b>和<b>种植工具</b>专区，满足热爱园艺的你从“种下”到“绽放”的全部想象。\n\n更有部分神秘种子悄然上架，外表不起眼，却藏着未知的惊喜——没人知道它们最终会开出什么样的花朵，也许是稀有品种，也许是前所未见的奇趣植物，等你亲自种下揭晓答案。",
+  "en": "The familiar scent of flowers returns to the corners of Whisper Town—Anna's Flower Shop has officially reopened today after a period of renovation and upgrades!\n\nThe newly revamped shop has a fresh look. In addition to offering a variety of elegant potted plants, it now features a dedicated section for <b>seeds</b> and <b>gardening tools</b>, perfect for garden lovers who dream from \"planting\" to \"blossoming.\" \n\nSome mysterious seeds have also appeared on the shelves. They may look ordinary, but they hold hidden surprises. Perhaps rare species, perhaps never-before-seen fantastical plants. The answer awaits your planting.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/67",
+  "zh": "钥匙在礼物盒里",
+  "en": "The key is inside the gift box.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/100",
+  "zh": "实验室隐藏在地下，地面上看似是日常生活区域，实际上还用于储存各类炸弹。通过一扇隐秘的暗门，便能通往下方的实验空间。",
+  "en": "The laboratory is hidden underground. While the surface appears to be an ordinary living area, it's actually used to store various types of explosives. A concealed secret door leads down to the experimental space below.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/88",
+  "zh": "小镇上最大的一家公司，表面上是经营着平凡业务的正规企业，实际上却在暗中监视并收集所有居民的信息。他们打造了一个洁白温和的长颈鹿形象，作为品牌吉祥物，更逐渐塑造为小镇的精神信仰——“白色长颈鹿可以实现你的所有愿望”。",
+  "en": "The largest company in town, seemingly operating a normal business, is secretly monitoring and collecting information on all residents.\nThey crafted the image of a pure white giraffe and elevated it as a spiritual icon for the townspeople. \"The white giraffe can grant all your wishes.\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/79",
+  "zh": "小镇人民期待已久的元气商场正在招商中，欢迎各大商家入驻。\n\n今后元气商场将汇集各个品类的商家商品，让小镇居民更加方便地购物。",
+  "en": "The long-awaited GD Mall is now seeking tenants. Businesses of all kinds are welcome to join. \n\nIn the future, the GD Mall will bring together a wide range of shops to make shopping easier for all town residents.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/76",
+  "zh": "雀王争霸赛即将热烈开启！",
+  "en": "The Mahjong King Showdown is about to begin!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/110",
+  "zh": "工作室内的镜子联通镜中世界。根据笔记中留下的配方，使用坩埚可以调配出进入镜中世界的药剂。伊恩正在镜中世界进行一场升维法阵的仪式，法阵上摆放着来历不明的物品。",
+  "en": "The mirror inside the studio connects to a mirrored world. According to the formulas left in the notes, a potion to enter the mirrored world can be brewed using the cauldron.\nIan is currently performing a dimensional ascension ritual in the mirrored world, with mysterious items placed upon the magic circle.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/96",
+  "zh": "博物馆的馆长不是人类。他的飞船曾因故障迫降于此，暂时滞留在小镇。",
+  "en": "The museum curator is not human. His spaceship once crash-landed here due to a malfunction, and he stayed in the town temporarily.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/61",
+  "zh": "近日博物馆新展出了大量物品，好评如潮。但是也有人提出疑惑：如此巨大的建筑，只留一层作为展馆，封锁了二层，是不是有些浪费。\n\n对此博物馆馆长埃尔茨出面回应：“博物馆二层是我本人的办公室，暂时不能对外开放，抱歉。”\n\n当被问到为何需要如此大的办公空间时，馆长以公事为由匆忙躲进需要密码的二层房间。",
+  "en": "The museum's recent new exhibits have received widespread praise. However, some have raised questions: with such a large building, is it not wasteful to restrict access to just the first floor while sealing off the second?\n\nIn response, Museum Director Elts stated, \"The second floor of the museum is my personal office and is currently not open to the public. I apologize for the inconvenience.\"\n\nWhen asked why such a large office space was necessary, the director quickly excused himself and retreated into the password-protected room on the second floor.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/54",
+  "zh": "博物馆数字之谜",
+  "en": "The Mystery of the Museum Numbers",
+  "ru": ""
+ },
+ {
+  "key": "Mail/109",
+  "zh": "祭品的摆放顺序会影响法阵的激活效果，可能引发未知的变化。",
+  "en": "The placement order of offerings affects the activation of the magic circle and may trigger unpredictable changes.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/68",
+  "zh": "花香再启——安娜花店焕新归来",
+  "en": "The scent of flowers returns—Anna's Flower Shop is back with a fresh new look.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/65",
+  "zh": "时间的理论已经被改写！\n\n著名呓贝尔奖获得者向公众公开了自己的新发明——时光传送门。有了这个机器，我们就可以弥补很多人生的遗憾。\n\n“没有爷爷的鼓励，我可能没有办法在科学道路上坚持这么久。\n\n传送门之后可以连接上更多的地方哇咔咔，<color=#6D2016><b>如果对过去发生的事情有所不满，就来用我的传送门改变过去吧!</b></color>”",
+  "en": "The theory of time has been rewritten!\n\nThe famous Gibell Prize winner has unveiled their new invention to the public - the Time Portal.  With this machine, we can rectify many regrets.\n\n\"Without my grandfather, I might not have persisted on the path of science so long.\n\nThe portal can be connected to more places, haha, <color=#6D2016><b>if you're dissatisfied with the past, come use my portal to change it!</b></color>\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/73",
+  "zh": "墓地里的塔楼早已废弃，大门无法打开。\n\n小心塔楼里的玩具熊。\n\n留意花店种出的花。",
+  "en": "The tower in the cemetery has long been abandoned.\n\nBe careful of the teddy bear inside the tower.\n\nWatch out the flowers in the plant shop.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/71",
+  "zh": "镇上数年前神秘失踪的炼金师，近日竟然奇迹般地重新出现。据他女友所述，当年他兴奋地在房间内启动了某种神秘法阵后，就此消失无踪。\n\n炼金师本人透露，他当时意外进入了一个真实存在的高维世界。在那个世界里，他能够清楚地看到小镇日常生活的一切场景，包括深爱的女友日夜为他悲伤流泪的模样。他曾绝望地苦寻归途未果，幸运的是，他偶然在神秘力量的帮助下，最终成功回到了小镇。",
+  "en": "The town's alchemist who mysteriously disappeared years ago has recently made a miraculous return. According to his girlfriend, he vanished after enthusiastically activating some mysterious magic circle in his room.\n\nThe alchemist revealed that he had accidentally entered a truly existing higher-dimensional world. In that world, he could clearly see everyday scenes from the town—including his beloved girlfriend crying for him day and night.\n\nHe searched desperately for a way back in vain, but fortunately, with the help of some mysterious force, he finally returned to the town safely.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/11",
+  "zh": "呓语镇立博物馆将于近日重开！",
+  "en": "The Whisper Town Museum will Reopen soon!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/3",
+  "zh": "有记载可以用于人类，能使人的灵魂完全突破肉体的桎梏，前往更高的维度，该法术需要献祭一个充满深沉爱意的灵魂。",
+  "en": "There are records suggesting that this rite can be used on humans to free the soul entirely from the constraints of the flesh, enabling it to ascend to a higher dimension. This spell requires the sacrifice of a soul imbued with profound, unyielding love.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/39",
+  "zh": "图书馆前有一个异常。\n\n彩虹会在公园出现。\n\n墓地里有两面一样的墙。",
+  "en": "There is an \"anomaly\"\n in front of the library.\n\nA rainbow in the park.\n\nThere are two identical walls in the cemetery.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/22",
+  "zh": "染发店生意很好。\n\n工坊里的扫把自己飞起来了。\n\n宛如人形的绿色生物见到光就会扭动。",
+  "en": "There's a popular hair dye shop in town.\n\nSometimes, the broom in the workshop flies on its own.\n\nThere's a green humanoid creature that starts wriggling eerily when it sees light.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/80",
+  "zh": "由于此次Demo为全新版本，原存档无法继承。作为特别回馈，我们已为您发放2000点代金券，欢迎在游戏内查收！",
+  "en": "This demo is a brand-new version and doesn't support previous save data. As a special thank-you, we've added 2,000 bonus credits to your account—please check in-game!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/103",
+  "zh": "这是一个绝妙的世外桃源。南边是细软的沙滩与一望无际的蔚蓝海洋，北边的森林源源不断地提供木材与冒险机会。西北方向，是金黄的麦田与宁静的牧场，为小镇供应充足的有机食物。\n这里没有办公楼——因为没有人需要上班。每位居民都按照自己的节奏和规则，过着井然有序的生活。\n在这个小镇上，当警察是一种养老职业。最“严重”的案件，无非是某只小狗在邻居家门口留下了便便，或是某株藤蔓越界挡住了别人家的阳光。\n这是一个人人都能找到理想生活方式的地方，一个真正意义上的完美小镇。",
+  "en": "This is a marvelous utopia. To the south lies a soft, sandy beach and an endless blue ocean. The northern forest constantly provides timber and adventure. In the northwest, golden wheat fields and peaceful pastures supply the town with abundant organic food.\nThere are no office buildings here—because no one needs to work. Every resident lives in an orderly rhythm, guided by their own pace and rules.\nIn this town, being a police officer is considered a retirement job. The most \"serious\" cases might be a dog pooping at a neighbor's doorstep or a creeping vine blocking someone's sunlight.\nThis is a place where everyone can find their ideal way of life—a truly perfect town.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/97",
+  "zh": "这个种族靠吸食居民的情绪来给自己产生能量。",
+  "en": "This species gains energy by feeding on the emotions of the townspeople.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/56",
+  "zh": "报酬",
+  "en": "Tip",
+  "ru": ""
+ },
+ {
+  "key": "Mail/16",
+  "zh": "今日头条：流浪汉被发现昏迷于出租房浴室，疑似长期居住于隐蔽空间",
+  "en": "Top Story: Homeless Man Found Unconscious in Hidden Room of Rental House—Suspected of Secretly Living There Long-Term",
+  "ru": ""
+ },
+ {
+  "key": "Mail/49",
+  "zh": " 通神公寓火热出租中！配套齐全，交通便利，临近商场娱乐。通透，安全，舒适，欲租从速！联系电话：400-0109-5677",
+  "en": "Tōshin Apartments Now Available for Rent! Fully equipped, great location with easy access to shopping and entertainment. Bright, safe, and comfortable—rent fast! Contact: 400-0109-5677",
+  "ru": ""
+ },
+ {
+  "key": "Mail/9",
+  "zh": "--小镇投诉--",
+  "en": "Town Complaints",
+  "ru": ""
+ },
+ {
+  "key": "Mail/43",
+  "zh": "镇店之宝丢失，“璀璨星辰”关门",
+  "en": "Town Treasure Missing — Brilliant Stars Faces Closure",
+  "ru": ""
+ },
+ {
+  "key": "Mail/99",
+  "zh": "地下通道关卡档案",
+  "en": "Underground Passage Stage Record",
+  "ru": ""
+ },
+ {
+  "key": "Mail/31",
+  "zh": "巫毒娃娃",
+  "en": "Voodoo Doll",
+  "ru": ""
+ },
+ {
+  "key": "Mail/21",
+  "zh": "WcDonald新品上线！\\n酸爽醋番茄配上软糯鸭胸肉，快来品尝吧！",
+  "en": "WcDonald's New Product Launch!\\nTangy vinegar tomatoes paired with tender duck breast, come and taste it!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/47",
+  "zh": "每周怪谈故事#81：“黄衣人”",
+  "en": "Weekly Tales of the Uncanny #81: \"The Man in Yellow\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/139",
+  "zh": "干得不错！\n\n自今日起，<color=#da9f1a><b>设计委托</b></color =red>将每日更新，统一张贴于\n<color=#85431d><b>告示板</b></color =red>上，欢迎随时前往查看并领取。",
+  "en": "Well done!\n\nStarting today, <color=#da9f1a><b>Design Commissions</b></color =red> will be updated daily and posted on the <color=#85431d><b>Notice Board</b></color =red>. Feel free to check and claim them anytime!\n",
+  "ru": ""
+ },
+ {
+  "key": "Mail/85",
+  "zh": "小时候，家里人总说：不听话的话，巨大的手会把我抓走。\n凌晨一点，外星人会降临博物馆。\n从右下方靠近——那里藏着通往光辉之路的入口。",
+  "en": "When I was little, my family said that if I misbehaved, a giant hand would come and take me away.\nAt 1 a.m., aliens landed at the museum.\nApproach from the lower right, and you might find the path to the light.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/15",
+  "zh": "呓语日报",
+  "en": "Whisper Daily",
+  "ru": ""
+ },
+ {
+  "key": "Mail/63",
+  "zh": "呓语日报",
+  "en": "Whisper Daily",
+  "ru": ""
+ },
+ {
+  "key": "Mail/6",
+  "zh": "呓语小镇便民公告",
+  "en": "Whisper Town Community Notices",
+  "ru": ""
+ },
+ {
+  "key": "Mail/102",
+  "zh": "呓语小镇档案",
+  "en": "Whisper Town Record",
+  "ru": ""
+ },
+ {
+  "key": "Mail/123",
+  "zh": "腿脚不便的白老太利用吊篮悄悄避开护士投喂外星猫",
+  "en": "With limited mobility, Lady Bai secretly used a basket to feed the alien cat, avoiding the nurses' attention.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/52",
+  "zh": "带来幸福感的木雕？大师三木的全新秘诀",
+  "en": "Woodcarving That Brings Happiness? Master Miki's New Secret Revealed",
+  "ru": ""
+ },
+ {
+  "key": "Mail/37",
+  "zh": "昨日下午，知名帮派“墨镜帮”帮母的遗产之一——镇中心的一处豪华房产，竟由一名家政工继承。\n\n这座引发多年觊觎的地产，一直是各大房产中介和社会名流梦寐以求的目标。消息传出后，引发广泛哗然与质疑。\n\n“墨镜帮”核心人物黑手拒绝回应记者提问。据医院护士透露，黑手近日频繁出现在医院花园长椅上。",
+  "en": "Yesterday afternoon, one of the most coveted assets of the famous \"Sunglasses Gang\" — a luxurious property in the town center — was unexpectedly inherited by a housekeeper. \n\nThe estate, long desired by real estate agencies and high society alike, has now stirred public uproar and disbelief. Kuroi, a core figure of the gang, declined to answer any questions from reporters. According to hospital nurses, he has been seen frequently sitting on a bench in the hospital garden recently.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/35",
+  "zh": "昨日上午，知名帮派“甜点帮”头目黑手率领30余名成员大闹圣弗拉德米尔医院。\n\n据现场记者采访，黑手声称其母亲在住院期间神秘失踪，怀疑医院为了人体实验恶意隐藏其母亲。\n\n在多次要求解释未果后，黑手带领“甜点帮”成员强行进入医院展开搜查，过程中与医院医护人员及保安发生冲突，导致七人受伤。\n",
+  "en": "Yesterday morning, the leader of the well-known gang \"Dessert Gang,\" Kuroi, led more than 30 members in a raid on St. Vladimir Hospital.\n\nAccording to on-site interviews, Kuroi claimed that his mother mysteriously disappeared during her hospitalization and suspected that the hospital was deliberately hiding her for the purpose of human experimentation.\n\nAfter repeated demands for an explanation were ignored, Kuroi and his gang forcibly entered the hospital to search the premises, resulting in a clash with medical staff and security. Seven people were injured in the incident.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/134",
+  "zh": "你很勇敢，没有被那些东西吓退，一路向上爬到了这里。\n\n你安全了，好好享受你努力的成果吧。\n\n只是……很可惜，这里没有你期待的东西。\n\n财宝、惊喜，什么都没有。",
+  "en": "You're brave—you weren't scared off by those things and climbed all the way up here.\n\nYou're safe now. Take a moment to enjoy the fruits of your effort.\n\nBut… unfortunately, what you were hoping for isn't here.\n\nNo treasure, no surprise—nothing at all.",
+  "ru": ""
+ },
+ {
+  "key": "Mail/140",
+  "zh": "你也帮了我们不少忙。既然我现在和露娜住在一起，那我原来的屋子就免费租给你吧，租期嘛...10000年\n（^_-）☆ 不用太感谢我哦！",
+  "en": "You've helped us a lot. \nSince I'm living with Luna now, I'll just let you rent my old place for free. As for the lease… 10,000 years ( ^_- )☆ \nNo need to thank me too much!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/14",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "Mail/57",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "Mail/灯笼信件标题",
+  "zh": "紧急！疑似鬼影现世",
+  "en": "Emergency! Suspected Ghostly Figure Sighted",
+  "ru": ""
+ },
+ {
+  "key": "Mail/灯笼信件内容",
+  "zh": "近日，陆续有多名居民反映疑似目击到“红色鬼影”。\n\n目击地点主要集中在<b><color=#984334>公园</b></color>、<b><color=#984334>篮球场</b></color>、<b><color=#984334>公交站</b></color>以及<b><color=#984334>医院</b></color>附近，其行踪难测，常在上述四处周边随机现身。\n\n请居民近期外出时尽量远离上述地点附近。<b>提醒大家勿围观追逐，以免引发不必要的恐慌。</b>",
+  "en": "\"Recently, multiple residents have reported suspected sightings of [a red ghostly figure].\n\nThe sightings are mainly concentrated near the <b><color=#984334>Park</b></color>, <b><color=#984334>Basketball Court</b></color>, <b><color=#984334>Bus Stop</b></color>, and <b><color=#984334>Hospital</b></color>. Its movements are unpredictable.\n\nResidents are advised to avoid these areas. <b>Please do not gather around or chase it!</b>\"",
+  "ru": ""
+ },
+ {
+  "key": "Mail/夏日活动信件标题",
+  "zh": "荣誉时刻！小镇荣登“十大最宜居小镇”榜单",
+  "en": "A Proud Moment! Our Town Tops the \"Top 10 Most Livable Towns\" List!",
+  "ru": ""
+ },
+ {
+  "key": "Mail/夏日活动信件内容",
+  "zh": "近日，镇长古德曼·古德豪斯激动地宣布：凭借迷人的小镇风光与和谐的社区氛围，我们的呓语小镇正式入选本年度“十大最宜居小镇”！\n\n这一荣誉迅速引发了广泛关注，小镇正掀起一股前所未有的移民风潮，不少新面孔正带着对美好生活的向往前来定居。\n\n目前，新的居民已经陆续开始入住，其中就包括神秘的企业家——小玛尼。其海滨别墅已经在建。",
+  "en": "Recently, Mayor Goodman Goodhouse excitedly announced that thanks to its charming scenery and harmonious community vibe, our Whisper Town has officially made it onto this year's \"Top 10 Most Livable Towns\" list!\n\nThis news has sparked a massive moving-in trend, bringing lots of fresh faces looking for a sweet new lifestyle. Among the new arrivals is the mysterious entrepreneur Marni Jr., with a seaside villa already under construction.",
+  "ru": ""
+ }
+]

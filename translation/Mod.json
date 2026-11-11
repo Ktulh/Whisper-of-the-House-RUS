@@ -1,0 +1,338 @@
+[
+ {
+  "key": "Mod/上传",
+  "zh": "上传",
+  "en": "Upload",
+  "ru": ""
+ },
+ {
+  "key": "Mod/更新",
+  "zh": "更新",
+  "en": "Updating",
+  "ru": ""
+ },
+ {
+  "key": "Mod/上传中",
+  "zh": "上传中",
+  "en": "Uploading",
+  "ru": ""
+ },
+ {
+  "key": "Mod/上传失败",
+  "zh": "上传失败",
+  "en": "Upload Failed",
+  "ru": ""
+ },
+ {
+  "key": "Mod/已启用",
+  "zh": "已启用",
+  "en": "Enabled",
+  "ru": ""
+ },
+ {
+  "key": "Mod/已禁用",
+  "zh": "已禁用",
+  "en": "Disabled",
+  "ru": ""
+ },
+ {
+  "key": "Mod/删除",
+  "zh": "删除",
+  "en": "Delete",
+  "ru": ""
+ },
+ {
+  "key": "Mod/确认删除Mod",
+  "zh": "确认删除？\n该行为无法撤销\nMOD包含物件会同步删除",
+  "en": "Confirm DELETION?\nThis Action Cannot Be Undone.\nAll Objects In This MOD Will Be Deleted.",
+  "ru": ""
+ },
+ {
+  "key": "Mod/进入编辑器",
+  "zh": "进入编辑器",
+  "en": "Enter Editor",
+  "ru": ""
+ },
+ {
+  "key": "Mod/导入封面",
+  "zh": "导入封面",
+  "en": "Import Cover",
+  "ru": ""
+ },
+ {
+  "key": "Mod/确认删除物件",
+  "zh": "确认删除物件？\n该行为无法撤销",
+  "en": "Confirm DELETE Object?\nThis Action Cannot Be Undone.",
+  "ru": ""
+ },
+ {
+  "key": "Mod/制作家具包",
+  "zh": "制作家具包？",
+  "en": "Create Furniture Pack?",
+  "ru": ""
+ },
+ {
+  "key": "Mod/寻找模组",
+  "zh": "寻找模组",
+  "en": "Browse Mods",
+  "ru": ""
+ },
+ {
+  "key": "Mod/管理模组",
+  "zh": "管理模组",
+  "en": "Manage Mods",
+  "ru": ""
+ },
+ {
+  "key": "Mod/利用官方编辑器制作修改模组",
+  "zh": "利用官方编辑器制作修改模组（家具包） ",
+  "en": "Use The Official Editor To Create / Edit Mods (Furniture Packs)",
+  "ru": ""
+ },
+ {
+  "key": "Mod/在创意工坊上浏览",
+  "zh": "在创意工坊上浏览（注意需要网络支持）",
+  "en": "Browse In The Workshop (Internet Required)",
+  "ru": ""
+ },
+ {
+  "key": "Mod/管理本地已下载的模组",
+  "zh": "管理本地已下载的模组/自己制作的模组",
+  "en": "Manage Downloaded / Created Mods",
+  "ru": ""
+ },
+ {
+  "key": "Mod/退出编辑器",
+  "zh": "退出编辑器",
+  "en": "Exit Editor",
+  "ru": ""
+ },
+ {
+  "key": "Mod/创建新家具包",
+  "zh": "创建新家具包",
+  "en": "Create New Furniture Pack",
+  "ru": ""
+ },
+ {
+  "key": "Mod/删除当前家具包",
+  "zh": "删除当前家具包",
+  "en": "Delete Current Furniture Pack",
+  "ru": ""
+ },
+ {
+  "key": "Mod/包含物件",
+  "zh": "包含物件（点击编辑）",
+  "en": "Included Items (Click To Edit)",
+  "ru": ""
+ },
+ {
+  "key": "Mod/创建新物件",
+  "zh": "创建新物件",
+  "en": "Create New Item",
+  "ru": ""
+ },
+ {
+  "key": "Mod/导入图片",
+  "zh": "导入图片（选择文件夹）",
+  "en": "Import Image (Select Folder)",
+  "ru": ""
+ },
+ {
+  "key": "Mod/它是什么样子呢",
+  "zh": "它是什么样子呢？",
+  "en": "What Does It Look Like?",
+  "ru": ""
+ },
+ {
+  "key": "Mod/给它取个名字吧",
+  "zh": "给它取个名字吧",
+  "en": "Give It A Name",
+  "ru": ""
+ },
+ {
+  "key": "Mod/物件信息",
+  "zh": "物件信息",
+  "en": "Item Info",
+  "ru": ""
+ },
+ {
+  "key": "Mod/物件大小",
+  "zh": "物件大小",
+  "en": "Item Size",
+  "ru": ""
+ },
+ {
+  "key": "Mod/物件分类",
+  "zh": "物件分类",
+  "en": "Item Category",
+  "ru": ""
+ },
+ {
+  "key": "Mod/物件功能",
+  "zh": "物件功能",
+  "en": "Item Function",
+  "ru": ""
+ },
+ {
+  "key": "Mod/有多大呢",
+  "zh": "有多大呢？",
+  "en": "What Is The Size?",
+  "ru": ""
+ },
+ {
+  "key": "Mod/物体可以放在它的哪个面上",
+  "zh": "物体可以放在它的哪个面上？",
+  "en": "Which Surface Can Objects Be Placed On?",
+  "ru": ""
+ },
+ {
+  "key": "Mod/对齐模式",
+  "zh": "对齐模式",
+  "en": "Alignment Mode",
+  "ru": ""
+ },
+ {
+  "key": "Mod/墙上",
+  "zh": "墙上",
+  "en": "On The Wall",
+  "ru": ""
+ },
+ {
+  "key": "Mod/请选择",
+  "zh": "请选择",
+  "en": "Please Select",
+  "ru": ""
+ },
+ {
+  "key": "Mod/售卖价格",
+  "zh": "售卖价格",
+  "en": "Price For Sale",
+  "ru": ""
+ },
+ {
+  "key": "Mod/房间分类",
+  "zh": "房间分类",
+  "en": "Room Category",
+  "ru": ""
+ },
+ {
+  "key": "Mod/功能分类",
+  "zh": "功能分类",
+  "en": "Function Category",
+  "ru": ""
+ },
+ {
+  "key": "Mod/想在哪里抽到呢",
+  "zh": "想在哪里抽到呢?",
+  "en": "Where Should It Be Available In Mystery Boxes?",
+  "ru": ""
+ },
+ {
+  "key": "Mod/四向旋转",
+  "zh": "四向旋转",
+  "en": "Rotate In Four Directions",
+  "ru": ""
+ },
+ {
+  "key": "Mod/当前无背面信息",
+  "zh": "当前无背面信息",
+  "en": "No Back Side Info",
+  "ru": ""
+ },
+ {
+  "key": "Mod/制作背面",
+  "zh": "制作背面（选择文件夹）",
+  "en": "Create Back Side (Select Folder)",
+  "ru": ""
+ },
+ {
+  "key": "Mod/附加灯",
+  "zh": "附加灯",
+  "en": "Add Light",
+  "ru": ""
+ },
+ {
+  "key": "Mod/保存物件",
+  "zh": "保存物件",
+  "en": "Save Item",
+  "ru": ""
+ },
+ {
+  "key": "Mod/保存家具包信息",
+  "zh": "保存家具包信息",
+  "en": "Save Furniture Pack",
+  "ru": ""
+ },
+ {
+  "key": "Mod/确认删除模组",
+  "zh": "确认删除模组？",
+  "en": "DELETE Mod?",
+  "ru": ""
+ },
+ {
+  "key": "Mod/家具包名字",
+  "zh": "家具包名字",
+  "en": "Furniture Pack ID",
+  "ru": ""
+ },
+ {
+  "key": "Mod/家具包版本",
+  "zh": "家具包版本",
+  "en": "Furniture Pack Version",
+  "ru": ""
+ },
+ {
+  "key": "Mod/当前为物件背面",
+  "zh": "当前为物件背面",
+  "en": "Currently Viewing Back Side",
+  "ru": ""
+ },
+ {
+  "key": "Mod/编辑体积时无法移动物件",
+  "zh": "编辑大小时无法<sprite=\"按键Icon\" index=19>移动物件",
+  "en": "Object Cannot Be Moved While Editing Size <sprite=\"按键Icon\" index=19>",
+  "ru": ""
+ },
+ {
+  "key": "Mod/顶面",
+  "zh": "顶面",
+  "en": "Top",
+  "ru": ""
+ },
+ {
+  "key": "Mod/左侧",
+  "zh": "左侧",
+  "en": "Left Side",
+  "ru": ""
+ },
+ {
+  "key": "Mod/右侧",
+  "zh": "右侧",
+  "en": "Right Side",
+  "ru": ""
+ },
+ {
+  "key": "Mod/告诉全世界你的家具包多有意思",
+  "zh": "告诉全世界你的家具包多有意思~",
+  "en": "Show The World Your Amazing Furniture Pack~",
+  "ru": ""
+ },
+ {
+  "key": "Mod/编辑模组名",
+  "zh": "编辑模组名",
+  "en": "Edit Mod Name",
+  "ru": ""
+ },
+ {
+  "key": "Mod/灯光设置",
+  "zh": "灯光设置",
+  "en": "Lighting Settings",
+  "ru": ""
+ },
+ {
+  "key": "Mod/对齐灯光",
+  "zh": "对齐灯光",
+  "en": "Align Light",
+  "ru": ""
+ }
+]

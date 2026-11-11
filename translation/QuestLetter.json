@@ -1,0 +1,872 @@
+[
+ {
+  "key": "QuestLetter/11",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/12",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/13",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/14",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/15",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/21",
+  "zh": "你好！我是露娜，刚搬来呓语小镇。\n\n在陌生的环境，总觉得睡得不太安稳。还好我的柴犬夜香跟着我一起来了。白天它到处嗅来嗅去，晚上就乖乖睡在我身边。\n\n而且——我的行李终于到了！熟悉的物件让我和夜香都安心不少。那个...你能帮我把行李搬进家里并摆放好吗？我会非常感激的！夜香也会在旁边为你加油！",
+  "en": "Hi! I'm Luna. \n\nI just came to Whisper Town. It's been a little hard to sleep. Thankfully, my dog, Nyla, came with me. She spends the day sniffing around and curls up next to me at night. And my luggage finally arrived! Having familiar things around makes both of us feel so much better. \n\nCould you help me move in? I'd be super grateful, and Nyla will be right there cheering you on!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/22",
+  "zh": "你好！我是露娜，刚搬来呓语小镇。\n\n在陌生的环境，总觉得睡得不太安稳。还好我的柴犬夜香跟着我一起来了。白天它到处嗅来嗅去，晚上就乖乖睡在我身边。\n\n而且——我的行李终于到了！熟悉的物件让我和夜香都安心不少。那个...你能帮我把行李搬进家里并摆放好吗？我会非常感激的！夜香也会在旁边为你加油！",
+  "en": "Hi! I'm Luna. \n\nI just came to Whisper Town. It's been a little hard to sleep. Thankfully, my dog, Nyla, came with me. She spends the day sniffing around and curls up next to me at night. And my luggage finally arrived! Having familiar things around makes both of us feel so much better. \n\nCould you help me move in? I'd be super grateful, and Nyla will be right there cheering you on!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/23",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/24",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/25",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/26",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/31",
+  "zh": "你好，这里是“璀璨星辰”的店长亮晶晶。如果你这几天有关注新闻的话，想必就已经大概知道我的来意了，所以我就长话短说了。由于前几天商店失窃，因此需要有人来帮我收拾一下店内，内容大概是整理室内的混乱，安装安保系统，再帮我把地下库房改装成工作间。事情就这么多，求求你尽快来，真的非常需要你的帮助! ！",
+  "en": "Hello, this is Sparky, the store manager of 'Brilliant Star'. If you've been following the news lately, you probably already know why I'm contacting you, so I'll keep it brief. Due to a recent burglary at the store, I need someone to help tidy up inside, install a security system, and convert the basement storage into a workspace. Please come asap, I really need your help!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/32",
+  "zh": "你好，这里是“璀璨星辰”的店长亮晶晶。如果你这几天有关注新闻的话，想必就已经大概知道我的来意了，所以我就长话短说了。由于前几天商店失窃，因此需要有人来帮我收拾一下店内，内容大概是整理室内的混乱，安装安保系统，再帮我把地下库房改装成工作间。事情就这么多，求求你尽快来，真的非常需要你的帮助! ！",
+  "en": "Hello, this is Sparky, the store manager of 'Brilliant Star'. If you've been following the news lately, you probably already know why I'm contacting you, so I'll keep it brief. Due to a recent burglary at the store, I need someone to help tidy up inside, install a security system, and convert the basement storage into a workspace. Please come asap, I really need your help!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/33",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/34",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/35",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/36",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/37",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/41",
+  "zh": "我累了，也许该回到小镇。\n\n海边那间小木屋，还留着我童年的痕迹。\n\n能帮我去看看它现在的样子吗？",
+  "en": "I'm tired. Maybe it's time to go back home.\n\nThere's a little cabin by the sea—the place I used to call home when I was a child.\n\nCould you go and check on it for me?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/42",
+  "zh": "我累了，也许该回到小镇。\n\n海边那间小木屋，还留着我童年的痕迹。\n\n能帮我去看看它现在的样子吗？",
+  "en": "I'm tired. Maybe it's time to go back home.\n\nThere's a little cabin by the sea—the place I used to call home when I was a child.\n\nCould you go and check on it for me?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/43",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/44",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/45",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/46",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/47",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/50",
+  "zh": "这是伊恩的工坊。他是一位厉害的炼金师。他曾站在门前兴奋地对我说要去启动一个伟大的法阵。之后，他再也没有从工作间出来。\n\n这些年我一直保持屋子的原样，总觉得他会回来。可我想是时候放下了。我打算将这屋子永远封存...离开前，帮我最后打扫一次吧。\n\n之后，请帮我好好保管这间屋子。",
+  "en": "This is Ian's workshop, he was an incredible alchemist. I still remember how he once stood at the door, eyes shining, telling me he was about to activate a grand magic circle. He never came out of the workshop after that day.\n\nAll these years, I've kept the place exactly as it was... always thinking he might return. But now, I think... it's time to let go.\n\nI'm going to seal this place for good. Before I leave, would you help me clean it one last time? And after that, please take good care of this house for me. Thank you.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/51",
+  "zh": "这是伊恩的工坊。他是一位厉害的炼金师。他曾站在门前兴奋地对我说要去启动一个伟大的法阵。之后，他再也没有从工作间出来。\n\n这些年我一直保持屋子的原样，总觉得他会回来。可我想是时候放下了。我打算将这屋子永远封存...离开前，帮我最后打扫一次吧。\n\n之后，请帮我好好保管这间屋子。",
+  "en": "This is Ian's workshop, he was an incredible alchemist. I still remember how he once stood at the door, eyes shining, telling me he was about to activate a grand magic circle. He never came out of the workshop after that day.\n\nAll these years, I've kept the place exactly as it was... always thinking he might return. But now, I think... it's time to let go.\n\nI'm going to seal this place for good. Before I leave, would you help me clean it one last time? And after that, please take good care of this house for me. Thank you.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/53",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/54",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/55",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/56",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/57",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/58",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/59",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/60",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/61",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/62",
+  "zh": "你好，我是晓天菜，我最近找到了新的住所准备收拾搬家，但是家里太乱了，还请麻烦你帮忙整理打包我们的物品。",
+  "en": "Hello, I am Xiaotiancai. I recently found a new place and am preparing to move, but my home is too messy. Could you help organize and pack our things?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/63",
+  "zh": "你好，我是晓天菜，我最近找到了新的住所准备收拾搬家，但是家里太乱了，还请麻烦你帮忙整理打包我们的物品。",
+  "en": "Hello, I am Xiaotiancai. I recently found a new place and am preparing to move, but my home is too messy. Could you help organize and pack our things?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/64",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/65",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/66",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/67",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/68",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/69",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/70",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/71",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/72",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/73",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/74",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/75",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/76",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/77",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/78",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/79",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/80",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/81",
+  "zh": "你好，我接手了朋友的家具店，可惜他多年没打理，店里现在破旧得不行。家具陈旧、墙面破损，布局也杂乱无章，要大动干戈翻新一番，才能让它重新有吸引力。唉...如果他能振作起来继续经营就好了。",
+  "en": "Hi, I've taken over my friend's furniture shop. Sadly, it's been neglected for years—it's in terrible shape. The furniture is old, the walls are damaged, and the layout is a complete mess. It'll need a serious makeover to bring back its charm. Sigh... I wish he could've pulled himself together and kept it going.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/82",
+  "zh": "你好，我接手了朋友的家具店，可惜他多年没打理，店里现在破旧得不行。家具陈旧、墙面破损，布局也杂乱无章，要大动干戈翻新一番，才能让它重新有吸引力。唉...如果他能振作起来继续经营就好了。",
+  "en": "Hi, I've taken over my friend's furniture shop. Sadly, it's been neglected for years—it's in terrible shape. The furniture is old, the walls are damaged, and the layout is a complete mess. It'll need a serious makeover to bring back its charm. Sigh... I wish he could've pulled himself together and kept it going.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/83",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/84",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/85",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/86",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/87",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/88",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/89",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/90",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/91",
+  "zh": "这里是呓语镇馆长埃尔茨，我十分高兴小镇大家庭能迎来一位新成员。我听说你是家政公司的员工？正巧，博物馆因为前段时间的考古发现与馆内翻新原因，目前正需要专业人士来重新摆放展品，不知你是否有空帮忙？",
+  "en": "I am Elts, the curator of the Whisper Town Museum. I'm very happy that the town is welcoming a new member. I heard you work for a housekeeping company? You're such a godsend. The museum is in need of a professional to help rearrange the exhibits after the recent archaeological discoveries and museum renovations,. Would you be available to assist?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/92",
+  "zh": "这里是呓语镇馆长埃尔茨，我十分高兴小镇大家庭能迎来一位新成员。我听说你是家政公司的员工？正巧，博物馆因为前段时间的考古发现与馆内翻新原因，目前正需要专业人士来重新摆放展品，不知你是否有空帮忙？",
+  "en": "I am Elts, the curator of the Whisper Town Museum. I'm very happy that the town is welcoming a new member. I heard you work for a housekeeping company? You're such a godsend. The museum is in need of a professional to help rearrange the exhibits after the recent archaeological discoveries and museum renovations,. Would you be available to assist?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/93",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/94",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/95",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/96",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/97",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/98",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/99",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/100",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/101",
+  "zh": "你的下一项任务，前往医院，回收目标的个人遗物。其中有一些重要物品，请务必带回。箱子已经寄往任务地点。回收后交到<B>老据点：",
+  "en": "Your next task is to go to the hospital and retrieve the target's personal belongings. \n\nStorage boxes have been sent to the site. Some items are important: make sure you bring them back. \n\nOnce done, deliver everything to <B>Old Base.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/102",
+  "zh": "你的下一项任务，前往医院，回收目标的个人遗物。其中有一些重要物品，请务必带回。箱子已经寄往任务地点。回收后交到<B>老据点：",
+  "en": "Your next task is to go to the hospital and retrieve the target's personal belongings. \n\nStorage boxes have been sent to the site. Some items are important: make sure you bring them back. \n\nOnce done, deliver everything to <B>Old Base.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/103",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/104",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/105",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/106",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/107",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/108",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/109",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/110",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/111",
+  "zh": "嗨，我们也许没见过面，但你一定读过我的文章。我是呓语日报最聪明的记者——大智。\n\n我在办公室里设立了一个棋牌室，附近的大爷大妈经常会过来，下一届雀王争霸赛也要在这举办。（请不要好奇原因！）\n\n这几天我忙着跟踪一个可疑对象，来不及布置！听说你是这方面的专家，我能放心交给你吧？",
+  "en": "Hi, you might not know me, but you've definitely read my articles. I'm Sage, the smartest reporter at Whisper Town Daily. \n\nI set up a chess room in my office, and the local seniors often come by to chat. (Don't ask why!) \n\nThe next Mahjong King Tournament will be held there soon, but I've been busy tailing a suspicious figure and haven't had time to clean or decorate. I heard you're a home care expert—think you can handle it?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/112",
+  "zh": "嗨，我们也许没见过面，但你一定读过我的文章。我是呓语日报最聪明的记者——大智。\n\n我在办公室里设立了一个棋牌室，附近的大爷大妈经常会过来，下一届雀王争霸赛也要在这举办。（请不要好奇原因！）\n\n这几天我忙着跟踪一个可疑对象，来不及布置！听说你是这方面的专家，我能放心交给你吧？",
+  "en": "Hi, you might not know me, but you've definitely read my articles. I'm Sage, the smartest reporter at Whisper Town Daily. \n\nI set up a chess room in my office, and the local seniors often come by to chat. (Don't ask why!) \n\nThe next Mahjong King Tournament will be held there soon, but I've been busy tailing a suspicious figure and haven't had time to clean or decorate. I heard you're a home care expert—think you can handle it?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/113",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/114",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/115",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/116",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/117",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/118",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/119",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/120",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/121",
+  "zh": "谢谢你。前几天我回到小屋，看到房间被收拾得干干净净，总算有了几分从前的模样。\n\n我抽空给墙面刷了新漆，这颜色让人心里安静了不少……最近的日子，我需要一点时间慢慢理清内心。\n\n我带了不少东西，想搬进来。你能帮我一把吗？",
+  "en": "Thank you. The other day I returned to the cabin and saw the room all neat and tidy—it finally felt a little like it used to.\n\nI took some time to repaint the walls, and this color brings a quiet calm to my heart… Lately, I've needed some time to slowly sort through my thoughts.\n\nI brought quite a few things with me. Could you give me a hand moving them inside?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/122",
+  "zh": "谢谢你。前几天我回到小屋，看到房间被收拾得干干净净，总算有了几分从前的模样。\n\n我抽空给墙面刷了新漆，这颜色让人心里安静了不少……最近的日子，我需要一点时间慢慢理清内心。\n\n我带了不少东西，想搬进来。你能帮我一把吗？",
+  "en": "Thank you. The other day I returned to the cabin and saw the room all neat and tidy—it finally felt a little like it used to.\n\nI took some time to repaint the walls, and this color brings a quiet calm to my heart… Lately, I've needed some time to slowly sort through my thoughts.\n\nI brought quite a few things with me. Could you give me a hand moving them inside?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/123",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/124",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/125",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/126",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/127",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/128",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/129",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/130",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/131",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/132",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/190",
+  "zh": "计划搬到小镇长住，行李整理需帮忙，方便请联系我哦！",
+  "en": "Planning to move to this town for good. Need assistance with packing. Please contact me if you're available!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/191",
+  "zh": "计划搬到小镇长住，行李整理需帮忙，方便请联系我哦！",
+  "en": "Planning to move to this town for good. Need assistance with packing. Please contact me if you're available!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/200",
+  "zh": "您好！我正在筹备一家日式餐厅的空间布置，希望营造典雅、静谧的和风氛围，展现简约自然的美学。期待能得到您的专业建议与协助，非常感谢！",
+  "en": "Hello! I'm currently preparing the interior design for a Japanese-style restaurant. I hope to create an elegant and tranquil atmosphere that reflects the minimalist and natural beauty of traditional Japanese aesthetics. I would greatly appreciate your professional advice and support. Thank you very much!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/201",
+  "zh": "您好！我正在筹备一家日式餐厅的空间布置，希望营造典雅、静谧的和风氛围，展现简约自然的美学。期待能得到您的专业建议与协助，非常感谢！",
+  "en": "Hello! I'm currently preparing the interior design for a Japanese-style restaurant. I hope to create an elegant and tranquil atmosphere that reflects the minimalist and natural beauty of traditional Japanese aesthetics. I would greatly appreciate your professional advice and support. Thank you very much!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/211",
+  "zh": "你好，我是墓地看守卢恩，呼……\n\n灵烛节到了，有些人……该回来看看了。\n\n帮我把墓园布置一下吧，可别太好奇，要是一个不小心，呼呼呼……",
+  "en": "Hello, I'm Lewen, the graveyard keeper. \n\nHoo... the Festival of Spirits is here. Some people... ought to come back for a visit.  \n\nHelp me set up the cemetery, will you?  But don't get too curious. One wrong step and... hoo hoo hoo...",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/221",
+  "zh": "你好，我的24小时便利店就快营业啦！\n\n这次我想要准备的货品实在太多了：雪糕、快乐水、扭蛋机...希望不管是早起的学生，还是深夜的旅人，都能来买个便当。\n\n不过嘛，说实话我一个人真忙不过来。听说你最近帮了不少镇民，所以特地来找你啦！希望“8号便利店”能热热闹闹地开张！",
+  "en": "Hi there! My 24/7 convenience store is almost ready to open! I've stocked up on all kinds of goodies. \n\nI want this place to be a stop for everyone. But to be honest, it's been tough handling everything by myself. \n\nI heard you've helped a few folks around town, so I came to ask for your help too! Let's make the grand opening of \"Convenience Store No. 8\" a lively one!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/222",
+  "zh": "你好，我的24小时便利店就快营业啦！\n\n这次我想要准备的货品实在太多了：雪糕、快乐水、扭蛋机...希望不管是早起的学生，还是深夜的旅人，都能来买个便当。\n\n不过嘛，说实话我一个人真忙不过来。听说你最近帮了不少镇民，所以特地来找你啦！希望“8号便利店”能热热闹闹地开张！",
+  "en": "Hi there! My 24/7 convenience store is almost ready to open! I've stocked up on all kinds of goodies. \n\nI want this place to be a stop for everyone. But to be honest, it's been tough handling everything by myself. \n\nI heard you've helped a few folks around town, so I came to ask for your help too! Let's make the grand opening of \"Convenience Store No. 8\" a lively one!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/231",
+  "zh": "您好，我租下来了一间小屋用来存放我的手办，想邀请你来进行布置。",
+  "en": "Hello, I rented a small house to store my figurines and would like to invite you to help with the arrangement.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/232",
+  "zh": "您好，我租下来了一间小屋用来存放我的手办，想邀请你来进行布置。",
+  "en": "Hello, I rented a small house to store my figurines and would like to invite you to help with the arrangement.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/171",
+  "zh": "嘿嘿~我这里有个忙要让你啵~快来啵~嘿嘿嘿~",
+  "en": "Hehe~ I've got a little favor to ask~ Come here, okay~",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/172",
+  "zh": "嘿嘿~我这里有个忙要让你啵~快来啵~嘿嘿嘿~",
+  "en": "Hehe~ I've got a little favor to ask~ Come here, okay~",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/161",
+  "zh": "来临了！这一天终于来临了！这个宇宙的真理！时间的所有奥秘！真正的时光传送门终于完成了！我亲爱的朋友，没有你我是没有办法做到这一切的。现在，让我们一起回到过去！回！到！未！来！",
+  "en": "The day has come! It has finally arrived! The truth of this universe! All the mysteries of time! The one and only Time Portal is finally complete! My dear friend, I couldn't have done all of this without you. Now, let's go back to the past! And Back! To! The! Future!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/162",
+  "zh": "来临了！这一天终于来临了！这个宇宙的真理！时间的所有奥秘！真正的时光传送门终于完成了！我亲爱的朋友，没有你我是没有办法做到这一切的。现在，让我们一起回到过去！回！到！未！来！",
+  "en": "The day has come! It has finally arrived! The truth of this universe! All the mysteries of time! The one and only Time Portal is finally complete! My dear friend, I couldn't have done all of this without you. Now, let's go back to the past! And Back! To! The! Future!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/251",
+  "zh": "时间的规律已经在我手中微微颤动，回到过去已不再是幻想，而是即将实现的奇迹。\n\n经过无数次推演与试验，我已经完成了关键突破。现在，一切准备就绪，第一次实际应用即将启动。\n\n去我爷爷房间下方的地下研究室看看吧，我在那里设立了临时的工作区。有件至关重要的事，需要你协助完成吼！我会在那里等你，详细说明接下来的计划。",
+  "en": "The laws of time are trembling in my hands. Returning to the past is no longer a fantasy, it's a miracle on the verge of becoming real. \n\nAfter countless experiments, I've made a significant breakthrough. Now, everything is ready. The first real application is about to begin. \n\nHead to the underground lab beneath my grandpa's room—I've set up a temporary workspace. There's something crucial I need your help with! I'll be waiting for you there.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/252",
+  "zh": "时间的规律已经在我手中微微颤动，回到过去已不再是幻想，而是即将实现的奇迹。\n\n经过无数次推演与试验，我已经完成了关键突破。现在，一切准备就绪，第一次实际应用即将启动。\n\n去我爷爷房间下方的地下研究室看看吧，我在那里设立了临时的工作区。有件至关重要的事，需要你协助完成吼！我会在那里等你，详细说明接下来的计划。",
+  "en": "The laws of time are trembling in my hands. Returning to the past is no longer a fantasy, it's a miracle on the verge of becoming real. \n\nAfter countless experiments, I've made a significant breakthrough. Now, everything is ready. The first real application is about to begin. \n\nHead to the underground lab beneath my grandpa's room—I've set up a temporary workspace. There's something crucial I need your help with! I'll be waiting for you there.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/261",
+  "zh": "你好，我是露娜。我又来给你找点活儿啦！\n\n你看了最近的报纸吗？之前多亏了你，太感谢了！那个密室现在已经被拆除了，我把它改造成了卧室的一部分，空间一下变大了不少。\n\n正好我的闺蜜一直念叨要来和我一起住，现在总算能搬来了。家里一大堆东西等着整理，我一个人实在忙不过来，还得拜托你出马！",
+  "en": "Hi! It's Luna back again! \n\nHave you read the latest newspaper? You really saved me last time. Thank you so much! Oh, and that secret room has already gone—I turned it into a part of the bedroom, creating a larger space. \n\nMy bestie has been talking about living together for years, and now it's finally possible! She's arriving any minute, but the house is still messy. I can't manage it by myself—especially with Nyla jumping on and off the boxes and messing up the blankets I just folded. So… I'm counting on you!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/262",
+  "zh": "你好，我是露娜。我又来给你找点活儿啦！\n\n你看了最近的报纸吗？之前多亏了你，太感谢了！那个密室现在已经被拆除了，我把它改造成了卧室的一部分，空间一下变大了不少。\n\n正好我的闺蜜一直念叨要来和我一起住，现在总算能搬来了。家里一大堆东西等着整理，我一个人实在忙不过来，还得拜托你出马！",
+  "en": "Hi! It's Luna back again! \n\nHave you read the latest newspaper? You really saved me last time. Thank you so much! Oh, and that secret room has already gone—I turned it into a part of the bedroom, creating a larger space. \n\nMy bestie has been talking about living together for years, and now it's finally possible! She's arriving any minute, but the house is still messy. I can't manage it by myself—especially with Nyla jumping on and off the boxes and messing up the blankets I just folded. So… I'm counting on you!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/270",
+  "zh": "“小镇海岸近日惊现大量散落家具，疑为不久前翻船事故遗留。居民在沙地发现多件家具，场面颇为奇特。因运货公司已因事故倒闭，海上漂流的家具暂时无人认领，成为海边一道引人注目的风景线。”",
+  "en": "Recently, a large amount of scattered furniture was found on the town's coast, suspected to be spilled cargo from a recent shipwreck. Residents found many pieces of furniture on the sandy shore, making for quite a peculiar sight. The shipping company that caused the accident has since gone bankrupt, and the drifting furniture is temporarily unclaimed, becoming a notable scene of the seaside.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/311",
+  "zh": "你好，我是安娜。\n\n我一直觉得植物是一种浪漫的语言，我的心愿就是让呓语小镇的风里都藏着花的香气。这次，我的花店终于迎来了翻新升级的机会。\n\n我希望把这个梦想中的小花店郑重地托付给你，小镇上最受欢迎的家政专家。请帮我把它整理好，让花香可以从门口一直飘进整条街。加油噢，我的花儿在悄悄为你绽放。",
+  "en": "Hello, I'm Anna. \n\nI've always felt that plants speak a romantic language. My wish is to fill Whisper Town's breeze with the scent of flowers. \n\nNow, my flower shop finally has a chance to be renovated. And you—our town's most trusted home organizer! I'd love to entrust this dream shop to you. Please help tidy it up, and let the fragrance flow from the door to the whole street. My flowers are blooming just for you!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/312",
+  "zh": "你好，我是安娜。\n\n我一直觉得植物是一种浪漫的语言，我的心愿就是让呓语小镇的风里都藏着花的香气。这次，我的花店终于迎来了翻新升级的机会。\n\n我希望把这个梦想中的小花店郑重地托付给你，小镇上最受欢迎的家政专家。请帮我把它整理好，让花香可以从门口一直飘进整条街。加油噢，我的花儿在悄悄为你绽放。",
+  "en": "Hello, I'm Anna. \n\nI've always felt that plants speak a romantic language. My wish is to fill Whisper Town's breeze with the scent of flowers. \n\nNow, my flower shop finally has a chance to be renovated. And you—our town's most trusted home organizer! I'd love to entrust this dream shop to you. Please help tidy it up, and let the fragrance flow from the door to the whole street. My flowers are blooming just for you!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/331",
+  "zh": "8号便利店分店即将开业：\n\n营业时间不变，货品更多种多样。\n\n招募帮手中！我要将便利店开满小镇 :D ",
+  "en": "The convenience store's opening a new branch. \n\nSame hours, more variety! Now hiring helpers :D \n\nI'm gonna open convenience stores all over town!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/332",
+  "zh": "8号便利店分店即将开业：\n\n营业时间不变，货品更多种多样。\n\n招募帮手中！我要将便利店开满小镇 :D ",
+  "en": "The convenience store's opening a new branch. \n\nSame hours, more variety! Now hiring helpers :D \n\nI'm gonna open convenience stores all over town!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/341",
+  "zh": "嘿，你在忙吗！\n\n我是简，打算在小镇中心开一家摇滚朋克风格的乐器店。开业当天，我要举办一场超燃的地下演出，致敬我的偶像滚木乐队！\n\n在那之前，我需要把钢琴、音响、架子鼓和一堆吉他搬到店里...哼，留给我排练的时间不多了。听说你是搬家的行家，有空就联系我吧！",
+  "en": "Hey, what's up? \n\nI'm Jane, planning to open a punk rock-style instrument store right in the heart of town. On opening day, I'm throwing a blazing underground show to honor my idols—the Rolling Bones! \n\nBut before that, I need to move in a piano, speakers, a drum set, and a whole bunch of guitars... Ugh, there's barely any time left to rehearse. I heard you're a moving pro—hit me up when you're free!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/342",
+  "zh": "嘿，你在忙吗！\n\n我是简，打算在小镇中心开一家摇滚朋克风格的乐器店。开业当天，我要举办一场超燃的地下演出，致敬我的偶像滚木乐队！\n\n在那之前，我需要把钢琴、音响、架子鼓和一堆吉他搬到店里...哼，留给我排练的时间不多了。听说你是搬家的行家，有空就联系我吧！",
+  "en": "Hey, what's up? \n\nI'm Jane, planning to open a punk rock-style instrument store right in the heart of town. On opening day, I'm throwing a blazing underground show to honor my idols—the Rolling Bones! \n\nBut before that, I need to move in a piano, speakers, a drum set, and a whole bunch of guitars... Ugh, there's barely any time left to rehearse. I heard you're a moving pro—hit me up when you're free!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/351",
+  "zh": "你好，我是雪丽尔。\n\n最近我刚租下了临街的那间屋子，想把它打造成一间可口的面包房，烘焙美味的小点心卖给过路的客人。虽然空间不大，但我希望每一位进来的人都能感受到甜蜜的愉悦。\n\n我想拜托你帮忙把这个小小的梦想起点整理出来。",
+  "en": "Hi there, I'm Cheryl.\n\nI just rented that little shop by the street and plan to turn it into a cozy bakery, selling sweet treats to people passing by. It's not a big space, but I hope everyone who walks in can feel a bit of happiness in the air~ \n\nI'd love your help getting this little dream started and setting everything up.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/352",
+  "zh": "你好，我是雪丽尔。\n\n最近我刚租下了临街的那间屋子，想把它打造成一间可口的面包房，烘焙美味的小点心卖给过路的客人。虽然空间不大，但我希望每一位进来的人都能感受到甜蜜的愉悦。\n\n我想拜托你帮忙把这个小小的梦想起点整理出来。",
+  "en": "Hi there, I'm Cheryl.\n\nI just rented that little shop by the street and plan to turn it into a cozy bakery, selling sweet treats to people passing by. It's not a big space, but I hope everyone who walks in can feel a bit of happiness in the air~ \n\nI'd love your help getting this little dream started and setting everything up.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/361",
+  "zh": "你好，我是三木的朋友。\n\n最近三木总是跟我说，有一群小猫在大卖场里调皮捣蛋，闹出了不少动静，严重影响正常营业。我们也很担心它们在家具间追逐打闹会受伤。\n\n能拜托你帮忙把它们一只只安全地抓走吗？希望它们能早点遇到愿意照顾它们的好心人...",
+  "en": "Hi there, I'm a friend of Miki. \n\nLately, Miki's been telling me that a bunch of kittens have been causing quite a commotion in the shopping mall. They're getting into everything and seriously affecting business. We're also worried they might get hurt while chasing each other around the furniture. \n\nCould you help catch them safely, one by one? I really hope they can find kind people to take them in soon...",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/362",
+  "zh": "你好，我是三木的朋友。\n\n最近三木总是跟我说，有一群小猫在大卖场里调皮捣蛋，闹出了不少动静，严重影响正常营业。我们也很担心它们在家具间追逐打闹会受伤。\n\n能拜托你帮忙把它们一只只安全地抓走吗？希望它们能早点遇到愿意照顾它们的好心人...",
+  "en": "Hi there, I'm a friend of Miki. \n\nLately, Miki's been telling me that a bunch of kittens have been causing quite a commotion in the supermarket. They're getting into everything and seriously affecting business. We're also worried they might get hurt while chasing each other around the furniture. \n\nCould you help catch them safely, one by one? I really hope they can find kind people to take them in soon...",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/1041",
+  "zh": "<PlayerName>，你在小镇的优秀表现让公司的声誉大大提高了，做得好！\n\n经过我们调研，许多居民正希望在小镇置业。我们与当地地产商商议后，决定派你向他们提供样板间布置服务。我们已经指派了第一个房间，你所用到的家具均会由公司提供。\n\n期待你的精彩表现！",
+  "en": "<PlayerName>, your outstanding performance in the town has greatly enhanced the company's reputation—well done. \n\nAccording to our research, many residents are looking to settle in the town. After discussions with local real estate developers, we've decided to assign you to provide model room arrangement services.  \n\nWe've already designated the first room, and all the furniture you need will be provided by the company. We look forward to seeing your excellent work.\n",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/371",
+  "zh": "嗨，我是简。我又来啦！\n\n上次的乐器店我很喜欢，这次想请你帮帮我的妹妹。她最近打算在小镇上开一家音乐特调酒吧，打造一个年轻人的地下游乐园，到时候我也会在那儿驻场表演。\n\n可以请你帮忙布置一下场地吗？我们需要地下摇滚的氛围，让顾客一进门就能感受到音乐的热浪。拜托！！",
+  "en": "Hey, it's Jane again! I really loved what you did with the instrument store. \n\nThis time, I want to ask for your help with my sister's new project. She's planning to open a music-themed cocktail bar right here in town—a kind of underground amusement park for young folks. I'll be performing there regularly too. \n\nCould you help us set up the place? We're going for a punk rock vibe, the kind that hits you with a wave of music the moment you walk in. Please say yes!!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/391",
+  "zh": "你好，我是戈登噜！\n这段时间没少看你在镇子上忙碌。\n听说到你接下活，哐哐几下就搞定了，大家对你很满意噜！如果你愿意的话，我也有个小忙让你帮。\n\n最近我在唐人街开了家好味小馆，还没来得及整理噜！现在我还要准备食材，你能帮我把餐厅整理好吗？",
+  "en": "Hi! I'm Gordon! \n\nI've been seeing you buzzing all over town lately. Word is you've been taking on jobs and knocking 'em out in a flash—everyone's super impressed with you\n\nIf you're up for it, I've got a little favor to ask myself.  I just opened Tasty Diner in Chinatown, but I haven't had time to clean up the restaurant yet!\n\nI still need to prep ingredients... Could you help me tidy it up?",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/401",
+  "zh": "多亏了你，现在好味小馆开业噜！\r\n你现在有空嘛？餐厅现在有点......爆满。\r\n你来的话我就能活下来噜，拜托了！",
+  "en": "Thanks to you, Tasty Diner is officially open!!\nThe restaurant is packed now! Are you still free?\nCome save me, or I'm not gonna make it, please~",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/380",
+  "zh": "被小镇遗忘的妖怪们都在庭院里东躲西藏。麻烦你把他们都找出来吧，人类。只要被你亲眼看过一回，他们就能继续存在。",
+  "en": "The forgotten yokai of this town are hiding all around the garden.\nHuman, please find them all.\nAs long as your eyes land on them once…\nthey will continue to exist.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/381",
+  "zh": "被小镇遗忘的妖怪们都在庭院里东躲西藏。麻烦你把他们都找出来吧，人类。只要被你亲眼看过一回，他们就能继续存在。",
+  "en": "The forgotten yokai of this town are hiding all around the garden.\nHuman, please find them all.\nAs long as your eyes land on them once…\nthey will continue to exist.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/411",
+  "zh": "呼叫救援！我是波波！ \n\n昨晚在海边钓鱼，吹着海风不知不觉睡着了…结果醒来一看，居然涨潮了！现在我的家当全在水里冲浪呢…\n\n拜托你帮我把东西捞上来，再重新布置一个新营地吧。记得把我的宝贝鱼儿从鱼箱搬到鱼缸。在没钓到那条传说中的“星星眼”之前，我是绝对、绝对不会撤退的！\n\n万分感谢！等你搞定后来码头找我，我教你两招钓鱼绝活！",
+  "en": "S.O.S! Bobo here!\n\nI was fishing by the beach last night and must've dozed off in the sea breeze... Next thing I know, I wake up to the tide coming in! Now all my gear is literally out there surfing the waves...\n\nPlease, buddy, help me fish my stuff out of the water and set up a brand new camp. Oh, and don't forget to move my precious fishies from the bucket into the tank. Until I catch that legendary Starry Eyes, I am absolutely, POSITIVELY not backing down!\n\nThanks a million! Come find me at the pier once you're all set, and I'll teach you a couple of my secret fishing tricks!",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/421",
+  "zh": "Hello！ 我是刚搬来的雅琳，很高兴认识你。\n​\n之前刷到小镇入选了“最宜居榜单”，一来就被这里的阳光和蝉鸣治愈了！我决定和鸭室友大福在这里长住～这次带了超级多摄影器材，准备把未来的每一天都分享出去。\n​\n不过现在家里行李堆成了山，感觉要被淹没啦 >_< …真的好需要你帮助我一起把新家安顿好！拜托把照片挂板得超级出片～\n​\n谢谢你！我已经迫不及待交新朋友了，和大福一起等你哟～",
+  "en": "Hello there! I'm A-Rin, the new neighbor. So happy to meet you!\n\nI saw online that this town is one of the \"Most Livable Places.\" The moment I arrived, the sunshine and cicadas totally stole my heart! My duck roommate, Mochi, and I are ready to settle down here. I brought a ton of camera gear to vlog our daily life!\n\nBut right now, my house is a total mess >_< ... I could really use a hand! Wanna help me set up my new place? Oh, and please make the bulletin board look super aesthetic!\n\nThanks a bunch! Can't wait to make new friends. Mochi and I are waiting for you~",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/431",
+  "zh": "日安，我是雷茜。\n\n漂泊半生，我终于带回了散落大洋彼岸的家族珍宝。如今老宅尘埃已去，正待新生。\n\n我半生的青春都在甲板上颠簸，只为寻回这些失落的灵魂。我希望你能将它们精心陈列在展柜之上，再将那只旧行李箱改造成小桌。\n\n期待你为这处栖息之所，重新注入浪漫的灵魂。",
+  "en": "Good day, This is Captain Lacy.\n\nAfter half a lifetime at sea, I've finally returned home with our recovered family treasures. The old house is now clean and ready for a fresh start.\n\nOur family's glory once faded, forcing our ancestors' treasures across the ocean. I spent most of my youth on rocky decks just to track down those lost souls. Now, every single rare piece has returned with me. I'd love for you to carefully display them in the cabinet, and then turn that old suitcase into a cozy little table.\n\nLooking forward to seeing you breathe romance back into this sanctuary.",
+  "ru": ""
+ },
+ {
+  "key": "QuestLetter/441",
+  "zh": "本人小玛尼，在此向你致以最庄重的问候。\n\n经过严谨考察，我决定在呓语小镇正式落成本人名下第 123,456 号房产，我对它寄予厚望，准备在此长期驻扎。\n\n目前，房屋内部酷炫到不行的装修已由本人亲自监工完成。至于庭院规划，就全权委任你来执行。\n\n此外，为庆祝盛大入住，我决定举办一场足以载入小镇史册的豪华烧烤派对。希望你协助布置派对现场，并担任主厨。",
+  "en": "I, Marni Jr., offer you my most solemn greetings.\n\nAfter a rigorous inspection, I hereby inaugurate my Whisper Town estate. It may be only Property No. 123,456 in my portfolio, but I expect great things and intend to stay long-term.\n\nI personally oversaw its incredibly cool interior. I now entrust the entire yard's design to you.\n\nTo celebrate my grand arrival, I shall host a lavish barbecue party worthy of the Town's history books. Please continue setting it up and serve as head chef.",
+  "ru": ""
+ }
+]

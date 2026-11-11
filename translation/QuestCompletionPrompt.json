@@ -1,0 +1,1082 @@
+[
+ {
+  "key": "QuestCompletionPrompt/Side",
+  "zh": "工作任务",
+  "en": "Work Tasks",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/Explore",
+  "zh": "探索事件",
+  "en": "Exploration Events",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/11",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/12",
+  "zh": "已完成“搬入新家吧！”。",
+  "en": "Task Completed: \"Move Into Your New Home!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/13",
+  "zh": "已完成“客厅”。",
+  "en": "Task Completed: \"Living Room\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/14",
+  "zh": "已完成“洗手间”。",
+  "en": "Task Completed: \"Bathroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/15",
+  "zh": "已完成“厨房”。",
+  "en": "Task Completed: \"Kitchen\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/21",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/22",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/23",
+  "zh": "已完成“拿出物品填充房间吧！”。",
+  "en": "Task Completed: \"Unpack and Fill the Room!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/24",
+  "zh": "已完成“客厅”。",
+  "en": "Task Completed: \"Living Room\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/25",
+  "zh": "已完成“洗手间”。",
+  "en": "Task Completed: \"Bathroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/26",
+  "zh": "已完成“走廊”。",
+  "en": "Task Completed: \"Hallway\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/27",
+  "zh": "已完成“卧室”。",
+  "en": "Task Completed: \"Bedroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/28",
+  "zh": "已完成“清洁洗手间”。",
+  "en": "Task Completed: \"Clean Bathroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/31",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/32",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/33",
+  "zh": "已完成“安装监控”。",
+  "en": "Task Completed: \"Install the Surveillance System\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/34",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/35",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/36",
+  "zh": "已完成“整理混乱的大厅并重新布置”。",
+  "en": "Task Completed: \"Clean Up and Rearrange the Messy Lobby\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/37",
+  "zh": "已完成“为新员工改造地下库房”。",
+  "en": "Task Completed: \"Renovate the Basement Storage for the New Employee\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/38",
+  "zh": "已完成“修理马桶漏水”。",
+  "en": "Event Explored: \"Fix the Leaking Toilet\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/39",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/40",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/41",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/42",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/43",
+  "zh": "已完成“归林之鸟：童年小屋大扫除！”。",
+  "en": "Event Explored: \"Bird Back to the Woods: Childhood Cabin Cleanup!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/44",
+  "zh": "已完成“丢弃垃圾”。",
+  "en": "Task Completed: \"Throw Away Trash\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/45",
+  "zh": "已完成“擦净污渍”。",
+  "en": "Task Completed: \"Wipe Off Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/46",
+  "zh": "已完成“清理水渍”。",
+  "en": "Task Completed: \"Clean Water Marks\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/49",
+  "zh": "已完成“修理橱柜”。",
+  "en": "Task Completed: \"Repair Cabinet\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/100057",
+  "zh": "已完成“修理置物架”。",
+  "en": "Task Completed: \"Repair Shelf\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/51",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/52",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/53",
+  "zh": "已完成“封存过去的梦”。",
+  "en": "Event Explored: \"Seal Away Dreams of the Past\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/54",
+  "zh": "已完成“擦除洒落的药水”。",
+  "en": "Task Completed: \"Wipe Up Spilled Potion\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/55",
+  "zh": "已完成“清理打翻的玻璃试剂瓶”。",
+  "en": "Task Completed: \"Clean Up Tipped-Over Glass Vial\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/100062",
+  "zh": "已完成“扫除阴霾”。",
+  "en": "Task Completed: \"Clear the Gloom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/57",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/58",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/59",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/60",
+  "zh": "已完成“女孩遗失的手帕”。",
+  "en": "Event Explored: \"Find the Girl's Lost Handkerchief\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/62",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/63",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/71",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/72",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/73",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/74",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/75",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/76",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/77",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/78",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/79",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/80",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/81",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/82",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/83",
+  "zh": "已完成工作任务“清理旧家具”。",
+  "en": "Task Completed: \"Clear Out Old Furniture\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/84",
+  "zh": "已完成工作任务“重新布置大厅”。",
+  "en": "Task Completed: \"Redecorate the Lobby\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/85",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/86",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/87",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/88",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/89",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/90",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/91",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/92",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/93",
+  "zh": "已完成工作任务“为大厅放置合适的藏品”。",
+  "en": "Task Completed: \"Place Exhibits in the Lobby\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/94",
+  "zh": "已完成工作任务“为化石馆放置合适的藏品”。",
+  "en": "Task Completed: \"Place Exhibits in the Fossil Hall\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/95",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/96",
+  "zh": "已完成探索事件“星河寻迹活动”。",
+  "en": "Event Explored: \"Stellar Trail Hunt\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/97",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/98",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/99",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/100",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/101",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/102",
+  "zh": "已完成“归档！遗物处理”。",
+  "en": "Task Completed: \"Archive! Relic Sorting\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/103",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/104",
+  "zh": "已完成“重要物件！”。",
+  "en": "Task Completed: \"Important Items!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/105",
+  "zh": "已完成“关窗！”。",
+  "en": "Task Completed: \"Close The Window!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/106",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/107",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/108",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/109",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/110",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/111",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/112",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/113",
+  "zh": "已完成工作任务“布置新办公室 ”。",
+  "en": "Task Completed: \"Set Up the New Office\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/114",
+  "zh": "已完成工作任务“归档房内遗留文件到纸箱”。",
+  "en": "Task Completed: \"Archive Remaining Files into Boxes\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/115",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/116",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/117",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/118",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/119",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/120",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/121",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/122",
+  "zh": "已完成“归林之鸟：欢迎回家！”。",
+  "en": "Event Explored: \"Bird Back to the Woods: Welcome Home!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/123",
+  "zh": "已完成“擦净家具的灰尘”。",
+  "en": "Task Completed: \"Wipe Dust Off Furniture\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/124",
+  "zh": "已完成工作任务“布置实验室 ”。",
+  "en": "Task Completed:  \"Decorate the Lab\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/125",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/126",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/127",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/192",
+  "zh": "已完成工作任务“布置新家”。",
+  "en": "Task Completed: \"Set Up the New Home\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/203",
+  "zh": "已完成工作任务“布置餐馆大厅”。",
+  "en": "Task Completed: \"Decorate the Restaurant Lobby\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/204",
+  "zh": "已完成工作任务“布置餐馆厨房”。",
+  "en": "Task Completed: \"Decorate the Restaurant Kitchen\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/213",
+  "zh": "已完成“墓地焕新工程”。",
+  "en": "Event Explored: \"Graveyard Renewal Project\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/215",
+  "zh": "已完成“这就是节日氛围！”。",
+  "en": "Event Explored: \"This Is the Holiday Spirit!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/218",
+  "zh": "已完成“再见一面吧，故人！”。",
+  "en": "Event Explored: \"One Last Goodbye, Old Friend!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/223",
+  "zh": "已完成“便利店开业”。",
+  "en": "Event Explored: \"Convenience Store Opens\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/233",
+  "zh": "已完成工作任务“布置手办屋”。",
+  "en": "Task Completed: \"Decorate the Figurine Room\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/253",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/254",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/255",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/256",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/257",
+  "zh": "已完成“找到爱机斯坦”。",
+  "en": "Event Explored: \"Find EinSmart\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/258",
+  "zh": "已完成“时空穿越！去往过去的家”。",
+  "en": "Event Explored: \"Time Travel! Back to the Home in the Past\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/259",
+  "zh": "已完成“帮助老人家继续搬家吧！”。",
+  "en": "Event Explored: \"Help Grandpa Keep Moving!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000260",
+  "zh": "已完成“种树！种树！”。",
+  "en": "Event Explored: \"Plant Trees! Plant Trees!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/263",
+  "zh": "已完成“开启新生活”。",
+  "en": "Event Explored: \"Start a New Life\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/264",
+  "zh": "已完成“洗手间”。",
+  "en": "Task Completed: \"Bathroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/265",
+  "zh": "已完成“卧室”。",
+  "en": "Task Completed: \"Bedroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/313",
+  "zh": "已完成“计划中的植物店！”。",
+  "en": "Task Completed: \"The Planned Flower Shop!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/333",
+  "zh": "已完成“便利店扩张计划”。",
+  "en": "Task Completed: \"Convenience Store Expansion Plan\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/343",
+  "zh": "已完成“开店首秀！”。",
+  "en": "Task Completed: \"Opening Day Debut!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/353",
+  "zh": "已完成“做面包的日常很美好！”。",
+  "en": "Event Explored: \"Sweet Days of Baking!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/354",
+  "zh": "已完成“烘焙间”。",
+  "en": "Task Completed: \"Bakery Room\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/355",
+  "zh": "已完成“卧室”。",
+  "en": "Task Completed: \"Bedroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/356",
+  "zh": "已完成“洗手间”。",
+  "en": "Task Completed: \"Bathroom\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/270",
+  "zh": "已完成“塔顶的秘密”。",
+  "en": "Event Explored: \"The Secret at the Top of the Tower\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/372",
+  "zh": "已完成“装修前的准备”。",
+  "en": "Task Completed: \"Pre-renovation Prep\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/374",
+  "zh": "已完成“在律动中微醺”。",
+  "en": "Event Explored: \"Lightly Drunk in the Rhythm\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/382",
+  "zh": " 已完成“找到藏匿的妖怪们”。",
+  "en": "Event Explored: \"Find the Hidden Yokai\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/383",
+  "zh": " 已完成“雪女的连环加餐请求”。",
+  "en": "Event Explored: \"Silent in the Frost\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/384",
+  "zh": " 已完成“三缺一？”。",
+  "en": "Event Explored: \"Lanterns: One Missing\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/385",
+  "zh": " 已完成“面具碎片大搜查”。",
+  "en": "Event Explored: \"Mask Fragment Hunt\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/386",
+  "zh": " 已完成“谁老爱把荷叶帽顺走？”。",
+  "en": "Event Explored: \"Who Keeps Taking the Lotus Leaf Hat?\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/387",
+  "zh": " 已完成“雪花屏快递员饿了！”。",
+  "en": "Event Explored: \"The Static-Screen Courier Is Hungry!\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/388",
+  "zh": " 已完成“打盹的箱子”。",
+  "en": "Event Explored: \"The Dozing Chest\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/389",
+  "zh": " 已完成“小小天气管家”。",
+  "en": "Event Explored: \"Little Weather Keeper\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000390",
+  "zh": " 已完成“三味线要先弹给谁听？”。",
+  "en": "Event Explored: \"Who Gets the First Shamisen Tune?\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000391",
+  "zh": " 已完成“尾巴？眼睛？耳朵？”。",
+  "en": "Event Explored: \"Tail? Eyes? Ears?\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000392",
+  "zh": " 已完成“电饭锅里不是饭的味道”。",
+  "en": "Event Explored: \"That's Not the Smell of Rice in There\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000393",
+  "zh": " 已完成“庭院探索”。",
+  "en": "Event Explored: \"Courtyard Exploration\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000394",
+  "zh": " 已完成“耙沙大师”。",
+  "en": "Event Explored: \"Master of Sand-Raking\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000395",
+  "zh": " 已完成“童年的玩具”。",
+  "en": "Event Explored: \"Toy from Childhood\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000396",
+  "zh": " 已完成“木偶一家”。",
+  "en": "Event Explored: \"The Puppet Family\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000398",
+  "zh": "已完成“布置新家”。",
+  "en": "Task Completed: \"Set Up the New Home\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/392",
+  "zh": "已完成“万事俱备，只欠美食”。",
+  "en": "Event Explored: \"Everything's Ready, Just Missing the Feast\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/394",
+  "zh": "已完成“宾至如归”。",
+  "en": "Event Explored: \"Feel Right at Home\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/1000405",
+  "zh": "已完成“好味小馆的上帝们”。",
+  "en": "Task Completed: \"The Gods of Tasty Diner\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6102",
+  "zh": "已完成“房间大扫除”。",
+  "en": "Task Completed: \"Deep Room Cleaning\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6103",
+  "zh": "已完成“丢弃垃圾”。",
+  "en": "Task Completed: \"Throw Away Trash\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6104",
+  "zh": "已完成“擦净污渍”。",
+  "en": "Task Completed: \"Wipe Off Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6105",
+  "zh": "已完成“清理地面脏迹”。",
+  "en": "Task Completed: \"Clean Floor Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6106",
+  "zh": "已完成“清理野生植物”。",
+  "en": "Task Completed: \"Clear Wild Plants\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6107",
+  "zh": "已完成“清理蜘蛛网”。",
+  "en": "Task Completed: \"Remove Spider Webs\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6202",
+  "zh": "已完成“房间大扫除”。",
+  "en": "Task Completed: \"Deep Room Cleaning\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6203",
+  "zh": "已完成“丢弃垃圾”。",
+  "en": "Task Completed: \"Throw Away Trash\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6204",
+  "zh": "已完成“擦净污渍”。",
+  "en": "Task Completed: \"Wipe Off Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6205",
+  "zh": "已完成“清理地面脏迹”。",
+  "en": "Task Completed: \"Clean Floor Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6206",
+  "zh": "已完成“清理蜘蛛网”。",
+  "en": "Task Completed: \"Remove Spider Webs\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6302",
+  "zh": "已完成“房间大扫除”。",
+  "en": "Task Completed: \"Deep Room Cleaning\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6303",
+  "zh": "已完成“丢弃垃圾”。",
+  "en": "Task Completed: \"Throw Away Trash\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6304",
+  "zh": "已完成“擦净污渍”。",
+  "en": "Task Completed: \"Wipe Off Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6305",
+  "zh": "已完成“清理地面脏迹”。",
+  "en": "Task Completed: \"Clean Floor Stains\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6306",
+  "zh": "已完成“清理野生植物”。",
+  "en": "Task Completed: \"Clear Wild Plants\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/6307",
+  "zh": "已完成“清理蜘蛛网”。",
+  "en": "Task Completed: \"Remove Spider Webs\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/413",
+  "zh": "已完成“抢救物品”",
+  "en": "Task Completed: \"Rescued Items\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/415",
+  "zh": "已完成“营地搬迁”",
+  "en": "Task Completed: \"Camp Relocation\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/417",
+  "zh": "已完成“焕然一新”",
+  "en": "Task Completed: \"Brand New Look\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/419",
+  "zh": "已完成“鱼儿的新家”",
+  "en": "Event Explored: \"Fish's New Home\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/422",
+  "zh": "已完成“帮助雅琳搬入新家”。",
+  "en": "Task Completed: \"Helped A-Rin Move Into Her New Home\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/425",
+  "zh": "已完成“安置大福”。",
+  "en": "Task Completed: \"Settled Mochi\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/427",
+  "zh": "已完成“布置挂板”。",
+  "en": "Task Completed: \"Set Up the Pegboard\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/433",
+  "zh": "已完成“衣锦还乡”",
+  "en": "Event Explored: \"Homecoming\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/436",
+  "zh": "已完成“特别展示”",
+  "en": "Event Explored: \"Special Exhibition\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/438",
+  "zh": "已完成“封箱仪式”",
+  "en": "Event Explored: \"Sealing Ceremony\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/460",
+  "zh": "已完成“传家宝藏”",
+  "en": "Event Explored: \"Heirloom Treasure\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/442",
+  "zh": "已完成“富豪入住”",
+  "en": "Event Explored: \"Rich Guest Arrives\"",
+  "ru": ""
+ },
+ {
+  "key": "QuestCompletionPrompt/444",
+  "zh": "已完成“烧烤派对”",
+  "en": "Event Explored: \"BBQ Party\"",
+  "ru": ""
+ }
+]

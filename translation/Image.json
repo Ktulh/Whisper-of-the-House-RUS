@@ -1,0 +1,398 @@
+[
+ {
+  "key": "Image/鱼人字条落款",
+  "zh": "——优秀的特工 鱼霸",
+  "en": "—Agent Extraordinaire, Finlord",
+  "ru": ""
+ },
+ {
+  "key": "Image/幼儿园寄信2",
+  "zh": " ——黑手敬上",
+  "en": "—With regards, Kuroi",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人字条炼金师落款",
+  "zh": " ——你的热心朋友 鱼霸",
+  "en": "—Your enthusiastic friend, Finlord",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人任务档案4",
+  "zh": "<B>能量研究报告</B>\n\n收集能量成功后飞船就可以起飞了，但是代价会毁灭小镇",
+  "en": "<B>Energy Research Report</B>\n\nOnce energy collection is complete, the spaceship can launch—but at the cost of destroying the town.",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人任务档案2",
+  "zh": "<B>任务代号“宝石行动”</B>\n\n目标：宝石店店长亮晶晶\n内容：将能量传输装置安装在宝石店内，宝石店的戒备很高，记得做点伪装！\n\n结果：失败\n你这个鱼脑袋!不会伪装成电力公司的光明正大上门去安装能量传输装置吗?居然还和宝石店的员工打起来了，你要气死我吗?\n第二次行动结果：成功",
+  "en": "<B>Mission Codename: \"Operation Gemstone\"</B>\n\nTarget: Gem shop owner Sparky \nDetails: Install the energy transfer device inside the gem shop. Security is tight, so remember to use some disguise!\n\nOutcome: Failed  \nYou fish-brain! Couldn't you at least pretend to be from the power company and walk in like you belong there?! And you even got into a fight with the staff—are you trying to give me a heart attack?\n\nSecond Attempt Outcome: Success",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人任务档案3",
+  "zh": "<B>任务代号“偷梁换柱”</B>\n\n目标：露娜、炼金术士伊恩、家居店店长三木、医院白老太\n内容：吸取上次宝石店失败的教训，这次不要再出岔子了，我们不能在小镇闹出太大的动静！\n结果：成功",
+  "en": "<B>Mission Codename: \"Switch and Replace\"</B>\n\nTargets: Luna, Alchemist Ian, Furniture Shop Owner Miki, and Old Lady Bai from the hospital  \nDetails: Learn from the failure at the gem shop—no more mistakes this time. We can't afford to stir up too much attention in the town!  \nOutcome: Success",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人任务档案1",
+  "zh": "<B>任务代号：“地下”</B>\n\n目标：科学家爱机斯坦\n内容：去爱机斯坦的地下室偷取能量传输装置，记得趁他睡觉的时候行动，我了解到他的作息日夜颠倒，他很好下手！\n结果：成功",
+  "en": "<B>Mission Codename: \"Underground\"</B>\n\nTarget: Scientist EinSmart  \nDetails: Sneak into EinSmart's basement and steal the energy transfer device. Make sure to act while he's sleeping—I've learned that his schedule is completely flipped, so he's an easy target!  \nOutcome: Success",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人过场2",
+  "zh": "海平线下住着一位朋友",
+  "en": "A friend lives beneath the horizon",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿1",
+  "zh": "实现这个人类历史上的璀璨奇迹！\n\n前往人类不曾前往的地方——<b>过去！</b>",
+  "en": "Achieve this dazzling miracle in human history!\n\nGo to a place humanity has never been——<b>the past!</b>",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人日记珠宝店",
+  "zh": "经过我几日坚持不懈的观察，终于发现了这家店的安保漏洞啵啵啵。",
+  "en": "After several days of relentless observation, I finally discovered a security flaw in this shop. Bop bop bop.  ",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人过场4",
+  "zh": "我就把自己溶进蓝色想象里",
+  "en": "And I melt myself into blue imagination",
+  "ru": ""
+ },
+ {
+  "key": "Image/奶奶日记结尾10.16",
+  "zh": "8月13日 雨\n\n黑手好像在等我的命令，但我已无力再下命令了。\n\n猫爬树上来找我，在窗口站了一会儿，没进来。\n\n是时候把财产交给合适的人了。",
+  "en": "August 13, Rainy\n\nKuroi seems to be waiting for my orders, but I no longer have the strength to give any. \n\nThe cat climbed up the tree to see me, stood at the window for a while, but didn't come in. \n\nIt's time to pass on my belongings to someone worthy.",
+  "ru": ""
+ },
+ {
+  "key": "Image/栽培指南标题",
+  "zh": "栽培指南",
+  "en": "Cultivation Guide",
+  "ru": ""
+ },
+ {
+  "key": "Image/栽培指南",
+  "zh": "栽培指南",
+  "en": "Cultivation Guide",
+  "ru": ""
+ },
+ {
+  "key": "Image/种子阶段滴下对应的营养液 等待一段时间 就能看到培育出的品种啦",
+  "zh": "种子阶段滴下对应的营养液，等待一段时间，就能看到培育出的品种啦~",
+  "en": "During the seed stage, drop the corresponding nutrient solution and wait for a while—you'll soon see the variety you've cultivated~",
+  "ru": ""
+ },
+ {
+  "key": "Image/栽培指南2",
+  "zh": "种子阶段滴下对应的营养液，等待一段时间，就能看到培育出的品种啦~",
+  "en": "During the seed stage, drop the corresponding nutrient solution. After a while, you'll see what kind of plant you've grown.",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人过场3",
+  "zh": "每天黄昏，海风轻拍窗棂",
+  "en": "Each dusk, the sea breeze taps the window frame",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人过场1",
+  "zh": "我没有告诉任何人",
+  "en": "I never told anyone",
+  "ru": ""
+ },
+ {
+  "key": "Image/若是植物不小心枯死 或是种出了不想要的作物 可以用铲子把他铲掉哦",
+  "zh": "若是植物不小心枯死，或是种出了不想要的作物，可以用铲子把他铲掉哦。",
+  "en": "If a plant accidentally dies or produces a crop you don't want, you can use a shovel to remove it.",
+  "ru": ""
+ },
+ {
+  "key": "Image/栽培指南4",
+  "zh": "若是植物不小心枯死，或是种出了不想要的作物，可以用铲子把他铲掉哦。",
+  "en": "If a plant withers by accident, or you grow something you don't want, use a shovel to remove it.",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿3-1",
+  "zh": "三个相位球同时安装就可以解锁箱子的门。",
+  "en": "Install all three Bloch Spheres at the same time to unlock the chest.",
+  "ru": ""
+ },
+ {
+  "key": "Image/互动种下种子",
+  "zh": "互动种下种子。",
+  "en": "Interact to plant seeds.",
+  "ru": ""
+ },
+ {
+  "key": "Image/栽培指南1",
+  "zh": "互动种下种子。",
+  "en": "Interact to plant the seed.",
+  "ru": ""
+ },
+ {
+  "key": "Image/奶奶日记结尾10.15",
+  "zh": "7月22日 雨\n\n起不来。\n\n猫粮刚送到，太慢！\n\n黑手煮的汤太淡，下回还是我来煮。",
+  "en": "July 22, Rainy\n\nCouldn't get up from the bed. \n\nThe cat food just arrived—too slow! \n\nThe soup Kuroi made was so bland. I'll cook it myself next time.",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿2-2",
+  "zh": "重大缺陷：操纵杆容易损坏弄丢。\n现在里面的相位球拿不出来了！",
+  "en": "Major flaw: The lever is prone to damage and loss.\nNow the phase ball inside can't be taken out!",
+  "ru": ""
+ },
+ {
+  "key": "Image/奶奶日记结尾10.11",
+  "zh": "3月5日 晴\n\n咳嗽。\n\n今天组织成立十周年，黑手请我去老据点拍照。\n\n晚上猫没回窝，估计又去屋顶了。",
+  "en": "March 5, Sunny\n\nCoughing. \n\nToday marks the tenth anniversary of the organization. Kuroi asked me to take a photo at the old base. \n\nThe cat didn't come back to its bed tonight—probably went to the rooftop again.",
+  "ru": ""
+ },
+ {
+  "key": "Image/奶奶日记结尾10.12",
+  "zh": "5月22日 多云\n\n身子有点沉。\n\n小猫不肯喝羊奶，我也暂且不想碰药。\n\n今天买了新猫粮。",
+  "en": "May 22, Cloudy\n\nFeeling a bit heavy. \n\nThe kitten refuses to drink goat milk, and I'm not ready to take the meds either. \n\nBought new cat food today.",
+  "ru": ""
+ },
+ {
+  "key": "Image/奶奶日记结尾10.14",
+  "zh": "5月30日 阴\n\n天冷，风声大。\n\n黑手来看我，问他猫去哪了也是废话——他永远找不到猫。",
+  "en": "May 30, Overcast\n\nIt's cold. The wind is loud. \n\nKuroi came to see me. Asking him where the cat went is pointless—he never finds the cat anyway.",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人日记珠宝店标题",
+  "zh": "任务记录003",
+  "en": "Mission Log 003",
+  "ru": ""
+ },
+ {
+  "key": "Image/请等待他长大吧",
+  "zh": "请等待他长大吧！",
+  "en": "Please wait for it to grow!",
+  "ru": ""
+ },
+ {
+  "key": "Image/栽培指南3",
+  "zh": "请等待他长大吧！",
+  "en": "Please wait for it to grow~",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿2-3",
+  "zh": "简单的机械结构！\n世界运转的基础！",
+  "en": "Simple mechanical structure!\nThe foundation of the world's operation!",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人字条",
+  "zh": "感谢你，\n帮我找到药丸的陌生人。\n现在我已经回忆起了关于自己的一切。但是因为你发现了我的秘密，所以很抱歉我会找到你并抹去你的记忆。",
+  "en": "Thank you,  \nstranger who helped me find the pill.  \nI've now remembered everything about myself. But since you've uncovered my secret, I'm sorry—I'll have to find you and erase your memory.  ",
+  "ru": ""
+ },
+ {
+  "key": "Image/老太太的信",
+  "zh": "我去世之日就是墨镜帮解散之日。\n欠我命的人，不再追究。\n黑手，劳你把我的墨镜埋在我的左手边。\n猫，务必交给一个聪明利落的人喂。",
+  "en": "The day I die will be the day the Sunglasses Gang disbands.\nThose who owe me their lives—I'll no longer hold them accountable.\nKuroi, please bury my sunglasses by my left hand.\nAs for the cat, make sure it goes to someone smart and capable.",
+  "ru": ""
+ },
+ {
+  "key": "Image/鱼人字条炼金师",
+  "zh": "这些书和材料现在可以实现你的愿望啵。",
+  "en": "These books and materials can now help fulfill your wish.  ",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿2-1",
+  "zh": "往好了想，在找到操纵杆之前，里面的东西是绝对安全的！\n新发明——<b>爱机斯坦保险箱</b>！",
+  "en": "Think positively, the contents are absolutely safe until the lever is found!\nNew invention——<b>EinSmart Safe</b>!",
+  "ru": ""
+ },
+ {
+  "key": "Image/幼儿园寄信1",
+  "zh": "帮母大人：\n今天是组织成立十周年。感谢您这些年来对我的严格教诲。\n我一直将您当作亲生母亲。无论未来您身在何处，我都会时时佩戴墨镜，不会让任何人辱没墨镜帮的名誉。",
+  "en": "To Mother Boss:\nToday marks the tenth anniversary of the organization. Thank you for your strict guidance over the years. I've always regarded you as my real mother. No matter where you are in the future, I will wear my sunglasses with pride at all times. I won't let anyone tarnish the honor of the Sunglasses Gang.",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿3-2",
+  "zh": "可惜现在少了一个相位球，这个箱子永远打不开了……",
+  "en": "Too bad a Bloch Sphere is missing. This chest will be forever locked...",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家设计稿3-3",
+  "zh": "等等！永远打不开！\n<b>爱机斯坦保险箱2.0</b>！",
+  "en": "Wait! It can never be opened!\n<b>EinSmart Safe 2.0</b>!",
+  "ru": ""
+ },
+ {
+  "key": "Image/科学家信件",
+  "zh": "您的忠实粉丝\n埃尔茨",
+  "en": "Your devoted fan,  \nElts",
+  "ru": ""
+ },
+ {
+  "key": "Image/白老太信",
+  "zh": "我去世之日就是墨镜帮解散之日。\n欠我命的人，不再追究。\n黑手，劳你把我的墨镜埋在我的左手边。\n猫，务必交给一个聪明利落的人喂。",
+  "en": "The day I die will be the day the Sunglasses Gang disbands.\nThose who owe me their lives—I'll no longer hold them accountable.\nKuroi, please bury my sunglasses by my left hand.\nAs for the cat, make sure it goes to someone smart.",
+  "ru": ""
+ },
+ {
+  "key": "Image/白",
+  "zh": " ——白",
+  "en": "—Bai",
+  "ru": ""
+ },
+ {
+  "key": "Image/墓碑遗像",
+  "zh": "墓碑遗像",
+  "en": "Tombstone portrait",
+  "ru": ""
+ },
+ {
+  "key": "Image/白老太墓碑",
+  "zh": "愿光芒不灭，如您温柔长存",
+  "en": "May the light never fade, and your kindness remain forever",
+  "ru": ""
+ },
+ {
+  "key": "Image/爷爷墓碑空",
+  "zh": "这里好像缺张照片",
+  "en": "Looks like there's a missing photo here.",
+  "ru": ""
+ },
+ {
+  "key": "Image/爷爷墓碑",
+  "zh": "纪念，世界上最好的爷爷",
+  "en": "In memory of the best grandpa in the world",
+  "ru": ""
+ },
+ {
+  "key": "Image/路人甲墓碑",
+  "zh": "愿世界干净",
+  "en": "May the world be clean!",
+  "ru": ""
+ },
+ {
+  "key": "Image/路人乙墓碑",
+  "zh": "呵呵呵呵",
+  "en": "Hehehehe...",
+  "ru": ""
+ },
+ {
+  "key": "Image/小猫墓碑",
+  "zh": "喵喵喵",
+  "en": "Meow meow meow~",
+  "ru": ""
+ },
+ {
+  "key": "Image/员工墓碑",
+  "zh": "别拦我，我还能干",
+  "en": "Don't stop me, I can still do this",
+  "ru": ""
+ },
+ {
+  "key": "Image/报纸拼图1",
+  "zh": "如果真的有高维生命存在，那那个存在现在也许正在读我的笔记吧……",
+  "en": "If higher-dimensional life truly exists, maybe that being is reading my notes right now…",
+  "ru": ""
+ },
+ {
+  "key": "Image/报纸拼图2",
+  "zh": "是你吗？",
+  "en": "Is it you?",
+  "ru": ""
+ },
+ {
+  "key": "Image/报纸拼图3",
+  "zh": "报纸拼图",
+  "en": "Newspaper puzzle",
+  "ru": ""
+ },
+ {
+  "key": "Image/涂鸦",
+  "zh": "涂鸦",
+  "en": "Graffiti",
+  "ru": ""
+ },
+ {
+  "key": "Image/手绘图纸",
+  "zh": "手绘图纸",
+  "en": "Hand-drawn blueprint",
+  "ru": ""
+ },
+ {
+  "key": "Image/未知照片",
+  "zh": "未知照片",
+  "en": "Unknown photograph",
+  "ru": ""
+ },
+ {
+  "key": "Image/一张旧照片 好像可以贴在某处",
+  "zh": "一张旧照片，好像可以贴在某处",
+  "en": "An old photo that looks like it could be pinned somewhere",
+  "ru": ""
+ },
+ {
+  "key": "Image/一张旧照片 右下角显示着拍照的日期",
+  "zh": "一张旧照片，右下角显示着拍照的日期",
+  "en": "An old photo, with the date displayed in the lower right corner",
+  "ru": ""
+ },
+ {
+  "key": "Image/阅读",
+  "zh": "阅读",
+  "en": "Read",
+  "ru": ""
+ },
+ {
+  "key": "Image/我的自拍照",
+  "zh": "我的自拍照",
+  "en": "My Selfie",
+  "ru": ""
+ },
+ {
+  "key": "Image/与大智的通信1",
+  "zh": "根据我最新的情报，你其中一位先祖的单筒望远镜，几经易手，已经到了你所在的岛屿区域，详情请见附件部分。",
+  "en": "According to my latest intelligence, a monocular spyglass belonging to one of your ancestors has changed hands multiple times and finally arrived in your island area. Please refer to the attachment for details.",
+  "ru": ""
+ },
+ {
+  "key": "Image/与大智的通信2",
+  "zh": "大智，海风已成为我呼吸的一部分。\r\n\r\n感谢你寄来的那些线索，今天顺利停靠在了南方久负盛名的苏丽群岛。\r\n\r\n命运眷顾，我在这片海域找到了一件价值连城的宝物。\r\n\r\n比起变卖，我会把它留下用在真正值得的地方。勿念。",
+  "en": "Sage, the sea breeze has become a part of my very breath.\n\nThanks for the clues you sent. Today, I successfully docked in the south's renowned Suli Islands.\n\nFate smiled upon me, and I found a priceless treasure in these waters.\n\nInstead of selling it off, I will keep it for where it truly belongs.",
+  "ru": ""
+ },
+ {
+  "key": "Image/与大智的通信3",
+  "zh": "雷茜，今天在报社翻电脑，看到了我们大学时的合影。不得不说，你那时候就已经很有船长气场了。\n\n言归正传，关于你家族遭遇的事，我很遗憾。\n\n但我刚刚得到了一个关键线索——你的先祖很可能在遗产中隐藏了某个重要物件。\n\n如果我的推测没错，那件东西大概率藏在某份文件或者档案里。\n\n你可以多在相关的物件上寻找。",
+  "en": "Lacy, I was looking through the computers at the newspaper office today and came across our university graduation photo. I have to say, you already had that captain aura back then.\n\nStraight to business, I'm truly sorry about what happened to your family.\n\nHowever, I just got a crucial lead—it's highly likely that your ancestor hid a very important object within the estate.\n\nThere's a good chance that item is hidden inside some sort of document or archive. You might want to search more carefully around related items.",
+  "ru": ""
+ },
+ {
+  "key": "Image/大智",
+  "zh": " ——大智",
+  "en": "— Sage",
+  "ru": ""
+ },
+ {
+  "key": "Image/毕业合照",
+  "zh": "毕业合照",
+  "en": "Graduation Photo",
+  "ru": ""
+ },
+ {
+  "key": "Image/我们都有美好的未来",
+  "zh": "我们都有美好的未来",
+  "en": "We All Have a Bright Future",
+  "ru": ""
+ }
+]

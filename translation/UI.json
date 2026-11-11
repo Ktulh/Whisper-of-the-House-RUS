@@ -1,0 +1,4094 @@
+[
+ {
+  "key": "UI/888",
+  "zh": "888",
+  "en": "888",
+  "ru": "888"
+ },
+ {
+  "key": "UI/公司人事部",
+  "zh": "——                        公司 人事部",
+  "en": "——                         HR Department",
+  "ru": ""
+ },
+ {
+  "key": "UI/游戏内也可更改",
+  "zh": "（游戏内也可更改）",
+  "en": "(Can be changed in-game)",
+  "ru": ""
+ },
+ {
+  "key": "UI/(完成委托 解锁图鉴)",
+  "zh": "(完成委托，解锁图鉴)",
+  "en": "(Complete tasks to unlock entries in the collection)",
+  "ru": ""
+ },
+ {
+  "key": "UI/ 地图拾取 完成委托获得",
+  "zh": "（地图拾取，完成委托获得）",
+  "en": "(Found on Map / Earned from Task Completion)",
+  "ru": ""
+ },
+ {
+  "key": "UI/每日更新",
+  "zh": "(每日更新)",
+  "en": "(Updated Daily)",
+  "ru": ""
+ },
+ {
+  "key": "UI/103任务没完成提示",
+  "zh": "【红色描边物品】还没打包哦~！",
+  "en": "[Red-outlined items] haven't been packed yet.",
+  "ru": ""
+ },
+ {
+  "key": "UI/XX的房间",
+  "zh": "{User}的房间",
+  "en": "{User}'s Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/功能模式说明",
+  "zh": "<color=#B86429><b>功能模式</b></color> ：",
+  "en": "<color=#B86429><b>Function Mode</b></color> : ",
+  "ru": ""
+ },
+ {
+  "key": "UI/房间模式说明",
+  "zh": "<color=#B86429><b>房间模式</b></color> ：",
+  "en": "<color=#B86429><b>Room Mode</b></color> : ",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库不足购买提示",
+  "zh": "<color=#CD8F32>购买</color>：一键购买全部",
+  "en": "<color=#CD8F32>Buy</color>: Buy ALL",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库不足重置提示",
+  "zh": "<color=#CD8F32>重置</color>：回到编辑前的房间状态",
+  "en": "<color=#CD8F32>Reset</color>: Revert To Pre-Edit Layout",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库不足返回提示",
+  "zh": "<color=#CD8F32>返回</color>：继续编辑",
+  "en": "<color=#CD8F32>Return</color>: Continue Editing",
+  "ru": ""
+ },
+ {
+  "key": "UI/手柄收藏提示",
+  "zh": "<sprite=\"按键Icon\" index=2> 加入/移除收藏",
+  "en": "<sprite=\"按键Icon\" index=2> Add/Remove Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/鼠标收藏提示",
+  "zh": "<sprite=\"按键Icon\" index=20><color=#B86429><b>右键</b></color> 加入/移除收藏",
+  "en": "<sprite=\"按键Icon\" index=20><color=#B86429><b>Right Click</b></color> Add/Remove Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/国际象棋棋士不能离开老花镜",
+  "zh": "国际象棋棋士，\n不能离开老花镜",
+  "en": "A chess player who can't live without reading glasses",
+  "ru": ""
+ },
+ {
+  "key": "UI/炼金小区描述",
+  "zh": "懒洋洋的气息充斥在每一个角落",
+  "en": "A chill vibe lingers in every corner",
+  "ru": ""
+ },
+ {
+  "key": "UI/蛋挞手艺一绝和尖耳朵人类很亲密",
+  "zh": "蛋挞手艺一绝，\n和尖耳朵人类很亲密",
+  "en": "A master of egg tarts, very close to a pointy-eared human",
+  "ru": ""
+ },
+ {
+  "key": "UI/调皮的小鬼可能会偷吃祭品",
+  "zh": "调皮的小鬼，\n可能会偷吃祭品",
+  "en": "A mischievous little ghost who might steal offerings",
+  "ru": ""
+ },
+ {
+  "key": "UI/被甲方折磨的兼职乐师经常和闺蜜露娜通宵打游戏",
+  "zh": "被甲方折磨的兼职乐师，\n经常和闺蜜露娜通宵打游戏",
+  "en": "A part-time musician tortured by clients, often plays video games all night with her bestie Luna",
+  "ru": ""
+ },
+ {
+  "key": "UI/科学小区描述",
+  "zh": "被绿植环绕的一片安宁乐土",
+  "en": "A peaceful haven surrounded by plants",
+  "ru": ""
+ },
+ {
+  "key": "UI/不明人士的工作牌",
+  "zh": "不明人士的工作牌",
+  "en": "A work badge of an unidentified person",
+  "ru": ""
+ },
+ {
+  "key": "UI/接取任务",
+  "zh": "接取任务",
+  "en": "Accept Task",
+  "ru": ""
+ },
+ {
+  "key": "UI/没有访问权限",
+  "zh": "没有访问权限",
+  "en": "Access Denied",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/饰品",
+  "zh": "饰品",
+  "en": "Accessory",
+  "ru": ""
+ },
+ {
+  "key": "UI/加入食材",
+  "zh": " 放入原料开始烹饪吧",
+  "en": "Add Ingredients to Start Cooking",
+  "ru": ""
+ },
+ {
+  "key": "UI/添加新任务",
+  "zh": "添加新任务",
+  "en": "Add New Task",
+  "ru": ""
+ },
+ {
+  "key": "UI/加入愿望单",
+  "zh": "加入愿望单",
+  "en": "Add to Wishlist",
+  "ru": ""
+ },
+ {
+  "key": "UI/放入两种以上的原料开始调酒",
+  "zh": "放入两种以上的原料开始调酒",
+  "en": "Add two or more ingredients to start mixing",
+  "ru": ""
+ },
+ {
+  "key": "UI/微调灵敏度",
+  "zh": "微调灵敏度",
+  "en": "Adjust Sensitivity",
+  "ru": ""
+ },
+ {
+  "key": "UI/全部",
+  "zh": "全部",
+  "en": "All",
+  "ru": ""
+ },
+ {
+  "key": "UI/全风格",
+  "zh": "全风格",
+  "en": "All Styles",
+  "ru": ""
+ },
+ {
+  "key": "UI/已放入",
+  "zh": "已放入",
+  "en": "Already added",
+  "ru": ""
+ },
+ {
+  "key": "UI/炼金药剂百科和蛋糕店店主很亲密",
+  "zh": "炼金药剂百科，\n和蛋糕店店主很亲密",
+  "en": "An alchemy potion encyclopedia, very close to the bakery owner",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/电器",
+  "zh": "电器",
+  "en": "Appliance",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/家电",
+  "zh": "家电",
+  "en": "Appliance",
+  "ru": ""
+ },
+ {
+  "key": "UI/电器",
+  "zh": "电器",
+  "en": "Appliance",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否退出游戏",
+  "zh": "是否退出游戏",
+  "en": "Are you sure you want to exit?",
+  "ru": ""
+ },
+ {
+  "key": "UI/美术",
+  "zh": "美术",
+  "en": "Art",
+  "ru": ""
+ },
+ {
+  "key": "UI/音频总监执行策划",
+  "zh": "音频总监/执行策划",
+  "en": "Audio Director / Executive Producer",
+  "ru": ""
+ },
+ {
+  "key": "UI/自动存档",
+  "zh": "自动存档",
+  "en": "Auto Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/返回",
+  "zh": "返回",
+  "en": "Back",
+  "ru": ""
+ },
+ {
+  "key": "UI/返回主菜单",
+  "zh": "返回主菜单",
+  "en": "Back to Main Menu",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否返回主菜单",
+  "zh": "是否返回主菜单",
+  "en": "Back to Main Menu",
+  "ru": ""
+ },
+ {
+  "key": "UI/余额",
+  "zh": "余额",
+  "en": "Balance",
+  "ru": ""
+ },
+ {
+  "key": "UI/余额/总价",
+  "zh": "余额/总价",
+  "en": "Balance / Total Price",
+  "ru": ""
+ },
+ {
+  "key": "UI/篮球场",
+  "zh": "篮球场",
+  "en": "Basketball Court",
+  "ru": ""
+ },
+ {
+  "key": "UI/卫浴",
+  "zh": "卫浴",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/浴室",
+  "zh": "浴室",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/卫浴",
+  "zh": "卫浴",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/浴缸",
+  "zh": "浴缸",
+  "en": "Bathtub",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/床",
+  "zh": "床",
+  "en": "Bed",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/床",
+  "zh": "床",
+  "en": "Bed",
+  "ru": ""
+ },
+ {
+  "key": "UI/卧室",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/好时光电器",
+  "zh": "好时光电器",
+  "en": "BestTime Appliances",
+  "ru": ""
+ },
+ {
+  "key": "UI/饮料",
+  "zh": "饮料",
+  "en": "Beverage",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/饮料",
+  "zh": "饮料",
+  "en": "Beverage",
+  "ru": ""
+ },
+ {
+  "key": "UI/音乐",
+  "zh": "音乐",
+  "en": "BGM",
+  "ru": ""
+ },
+ {
+  "key": "UI/奖励家具",
+  "zh": "奖励家具",
+  "en": "Bonus Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/书",
+  "zh": "书",
+  "en": "Book",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/书",
+  "zh": "书",
+  "en": "Book",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/书",
+  "zh": "书",
+  "en": "Book",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No1",
+  "zh": "崭新生活",
+  "en": "Brand New Life",
+  "ru": ""
+ },
+ {
+  "key": "UI/公交卡",
+  "zh": "公交卡",
+  "en": "Bus Card",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No28",
+  "zh": "黄油圆舞",
+  "en": "Butter Waltz",
+  "ru": ""
+ },
+ {
+  "key": "UI/买房",
+  "zh": "买房",
+  "en": "Buy a Property",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_8",
+  "zh": "买房难，家装更难！",
+  "en": "Buying Is Hard, Decorating Is Harder...",
+  "ru": ""
+ },
+ {
+  "key": "UI/橱柜",
+  "zh": "橱柜",
+  "en": "Cabinet",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/柜子",
+  "zh": "柜子",
+  "en": "Cabinet",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/柜子",
+  "zh": "柜子",
+  "en": "Cabinet",
+  "ru": ""
+ },
+ {
+  "key": "UI/只能在家中摆放",
+  "zh": "只能在家中摆放",
+  "en": "Can Only Be Placed at Home",
+  "ru": ""
+ },
+ {
+  "key": "UI/拿不到的物件就试试打开透视模式吧",
+  "zh": "拿不到的物件就试试打开<sprite=\"按键Icon\" index=47><size=150%><b>透视模式</b></size>吧。",
+  "en": "Can't reach an item? Try enabling <sprite=\"按键Icon\" index=47><size=150%><b> Perspective Mode </b></size>.",
+  "ru": ""
+ },
+ {
+  "key": "UI/不抱着柴犬睡不着经常和闺蜜梅洛蒂通宵打游戏",
+  "zh": "不抱着柴犬睡不着，\n经常和闺蜜梅洛蒂通宵打游戏",
+  "en": "Can't sleep without hugging her dog, often plays video games all night with her bestie Melody",
+  "ru": ""
+ },
+ {
+  "key": "UI/取消",
+  "zh": "取消",
+  "en": "Cancel",
+  "ru": ""
+ },
+ {
+  "key": "UI/当前状态无法放营养液",
+  "zh": "当前状态无法放营养液",
+  "en": "Cannot apply nutrient solution now",
+  "ru": ""
+ },
+ {
+  "key": "UI/无法放入背包",
+  "zh": "无法放入背包",
+  "en": "Cannot be placed in the backpack",
+  "ru": ""
+ },
+ {
+  "key": "UI/相同无法调酒",
+  "zh": "相同无法调酒",
+  "en": "Cannot mix a cocktail with the same ingredient",
+  "ru": ""
+ },
+ {
+  "key": "UI/该区域不可放置",
+  "zh": "该区域不可放置",
+  "en": "Cannot Place in This Area",
+  "ru": ""
+ },
+ {
+  "key": "UI/元气少年团应援队长追星不老秘诀",
+  "zh": "“元气少年团”应援队长，\n追星=不老秘诀",
+  "en": "Captain of the \"GD Boys\" fan club, following idols is the secret to staying young",
+  "ru": ""
+ },
+ {
+  "key": "UI/地毯",
+  "zh": "地毯",
+  "en": "Carpet",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/地毯",
+  "zh": "地毯",
+  "en": "Carpet / Rug",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/地毯",
+  "zh": "地毯",
+  "en": "Carpet / Rug",
+  "ru": ""
+ },
+ {
+  "key": "UI/椅",
+  "zh": "椅",
+  "en": "Chair",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/椅子",
+  "zh": "椅子",
+  "en": "Chair",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/椅子",
+  "zh": "椅子",
+  "en": "Chair",
+  "ru": ""
+ },
+ {
+  "key": "UI/切换户型",
+  "zh": "切换户型",
+  "en": "Change Floor Plan",
+  "ru": ""
+ },
+ {
+  "key": "UI/修改路径",
+  "zh": "修改路径",
+  "en": "Change Path",
+  "ru": ""
+ },
+ {
+  "key": "UI/人物记录",
+  "zh": "人物记录",
+  "en": "Character Record",
+  "ru": ""
+ },
+ {
+  "key": "UI/人物",
+  "zh": "人物",
+  "en": "Characters",
+  "ru": ""
+ },
+ {
+  "key": "UI/选择一个你喜欢的形象进入游戏吧",
+  "zh": "选择一个你喜欢的形象进入游戏吧！",
+  "en": "Choose a character you like and enter the game!",
+  "ru": ""
+ },
+ {
+  "key": "UI/电影院",
+  "zh": "电影院",
+  "en": "Cinema",
+  "ru": ""
+ },
+ {
+  "key": "UI/6105任务没完成提示",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/6205任务没完成提示",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/6305任务没完成提示",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/397任务没完成提示",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/卫生",
+  "zh": "卫生",
+  "en": "Cleaning & Care",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/清洁用品",
+  "zh": "清洁用品",
+  "en": "Cleaning Supplies",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/清洁",
+  "zh": "清洁",
+  "en": "Cleaning Supplies",
+  "ru": ""
+ },
+ {
+  "key": "UI/清除存档",
+  "zh": "清除存档",
+  "en": "Clear Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/6106任务没完成提示",
+  "zh": "清理野生植物",
+  "en": "Clear Wild Plants",
+  "ru": ""
+ },
+ {
+  "key": "UI/6306任务没完成提示",
+  "zh": "清理野生植物",
+  "en": "Clear Wild Plants",
+  "ru": ""
+ },
+ {
+  "key": "UI/客户满意度反馈单",
+  "zh": "客户满意度反馈单",
+  "en": "Client Satisfaction Feedback",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/衣服",
+  "zh": "衣服",
+  "en": "Clothes",
+  "ru": ""
+ },
+ {
+  "key": "UI/服饰",
+  "zh": "服饰",
+  "en": "Clothing",
+  "ru": ""
+ },
+ {
+  "key": "UI/服装",
+  "zh": "服装",
+  "en": "Clothing",
+  "ru": ""
+ },
+ {
+  "key": "UI/程序",
+  "zh": "程序",
+  "en": "Code",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/茶几",
+  "zh": "茶几",
+  "en": "Coffee Table",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/茶几",
+  "zh": "茶几",
+  "en": "Coffee Table",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/纪念品",
+  "zh": "纪念品",
+  "en": "Collectibles",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/纪念品",
+  "zh": "纪念品",
+  "en": "Collectibles",
+  "ru": ""
+ },
+ {
+  "key": "UI/图鉴",
+  "zh": "图鉴",
+  "en": "Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/收藏",
+  "zh": "收藏",
+  "en": "Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/敬请期待正式版内容",
+  "zh": "敬请期待正式版内容",
+  "en": "Coming soon in Official Release.",
+  "ru": ""
+ },
+ {
+  "key": "UI/社区支持",
+  "zh": "社区支持",
+  "en": "Community Support",
+  "ru": ""
+ },
+ {
+  "key": "UI/确认",
+  "zh": "确认",
+  "en": "Confirm",
+  "ru": ""
+ },
+ {
+  "key": "UI/恭喜获得",
+  "zh": "恭喜获得",
+  "en": "Congratulations! You've Got:",
+  "ru": ""
+ },
+ {
+  "key": "UI/继续游戏",
+  "zh": "继续游戏",
+  "en": "Continue",
+  "ru": ""
+ },
+ {
+  "key": "UI/控制",
+  "zh": "控制",
+  "en": "Control",
+  "ru": ""
+ },
+ {
+  "key": "UI/手柄",
+  "zh": "手柄",
+  "en": "Controller",
+  "ru": ""
+ },
+ {
+  "key": "UI/手柄灵敏度",
+  "zh": "手柄灵敏度",
+  "en": "Controller Sensitivity",
+  "ru": ""
+ },
+ {
+  "key": "UI/无法烹饪",
+  "zh": "当前无法烹饪",
+  "en": "Cooking Unavailable",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/厨具",
+  "zh": "厨具",
+  "en": "Cookware",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/厨具",
+  "zh": "厨具",
+  "en": "Cookware",
+  "ru": ""
+ },
+ {
+  "key": "UI/室外",
+  "zh": "庭院",
+  "en": "Courtyard",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/庭院",
+  "zh": "庭院",
+  "en": "Courtyard",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/户外装饰",
+  "zh": "庭院装饰",
+  "en": "Courtyard Decor",
+  "ru": ""
+ },
+ {
+  "key": "UI/创建新房间",
+  "zh": "创建新房间",
+  "en": "Create New Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/制作委托 正式版",
+  "zh": "制作委托（正式版）",
+  "en": "Create Task (Official Version)",
+  "ru": ""
+ },
+ {
+  "key": "UI/可改色",
+  "zh": "调色家具",
+  "en": "Customizable Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/调色家具",
+  "zh": "调色家具",
+  "en": "Customizable Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/切",
+  "zh": "切",
+  "en": "Cut",
+  "ru": ""
+ },
+ {
+  "key": "UI/日用品",
+  "zh": "日用品",
+  "en": "Daily Necessities",
+  "ru": ""
+ },
+ {
+  "key": "UI/日常委托",
+  "zh": "日常委托",
+  "en": "Daily Tasks",
+  "ru": ""
+ },
+ {
+  "key": "UI/死亡",
+  "zh": "死亡",
+  "en": "Death",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/装饰",
+  "zh": "装饰",
+  "en": "Decor",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/装饰",
+  "zh": "装饰",
+  "en": "Decor",
+  "ru": ""
+ },
+ {
+  "key": "UI/装饰",
+  "zh": "装饰",
+  "en": "Decor",
+  "ru": ""
+ },
+ {
+  "key": "UI/装饰物",
+  "zh": "装饰物",
+  "en": "Decorations",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No4",
+  "zh": "深蓝小调",
+  "en": "Deep Blue Tune",
+  "ru": ""
+ },
+ {
+  "key": "UI/删除存档",
+  "zh": "删除存档",
+  "en": "Delete",
+  "ru": ""
+ },
+ {
+  "key": "UI/删除已上传云端",
+  "zh": "删除已上传云端",
+  "en": "Delete cloud upload.",
+  "ru": ""
+ },
+ {
+  "key": "UI/每日6:00-18:00投递 睡觉过天",
+  "zh": "每日6:00-18:00投递\n（睡觉过天）",
+  "en": "Delivered Daily from 6:00 AM to 6:00 PM\n(Sleep to Skip Day)",
+  "ru": ""
+ },
+ {
+  "key": "UI/每日6 00投递 睡觉过天",
+  "zh": "每日6：00投递\n（睡觉过天）",
+  "en": "Delivered Daily at 6:00 AM \n(Sleep to Skip Day)",
+  "ru": ""
+ },
+ {
+  "key": "UI/豪华电器盲盒",
+  "zh": "豪华电器盲盒",
+  "en": "Deluxe Appliance Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/豪华地毯盲盒",
+  "zh": "豪华地毯盲盒",
+  "en": "Deluxe Carpet Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/豪华家具盲盒",
+  "zh": "豪华家具盲盒",
+  "en": "Deluxe Furniture Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/豪华杂货盲盒",
+  "zh": "豪华杂货盲盒",
+  "en": "Deluxe Misc Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/豪华植物盲盒",
+  "zh": "豪华植物盲盒",
+  "en": "Deluxe Plant Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/豪华书报盲盒",
+  "zh": "豪华书报盲盒",
+  "en": "Deluxe Print Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/设计房间",
+  "zh": "设计房间",
+  "en": "Design Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/书桌",
+  "zh": "书桌",
+  "en": "Desk",
+  "ru": ""
+ },
+ {
+  "key": "UI/研发团队",
+  "zh": "研发团队",
+  "en": "Development Team",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/数码",
+  "zh": "数码",
+  "en": "Digital",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/数码",
+  "zh": "数码",
+  "en": "Digital",
+  "ru": ""
+ },
+ {
+  "key": "UI/餐厅",
+  "zh": "餐厅",
+  "en": "Dining Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否确认打包",
+  "zh": "是否确认打包",
+  "en": "Do you want to proceed with packing?",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否使用此预设",
+  "zh": "是否使用此预设?\n（当前布局会被覆盖）",
+  "en": "Do you want to use this preset?\n(The current set will be overwritten)",
+  "ru": ""
+ },
+ {
+  "key": "UI/往下",
+  "zh": "往下",
+  "en": "Down",
+  "ru": ""
+ },
+ {
+  "key": "UI/下载中",
+  "zh": "下载中",
+  "en": "Downloading",
+  "ru": ""
+ },
+ {
+  "key": "UI/拖拽镜头",
+  "zh": "拖拽镜头",
+  "en": "Drag the Camera",
+  "ru": ""
+ },
+ {
+  "key": "UI/抽地毯",
+  "zh": "抽地毯",
+  "en": "Draw Carpet",
+  "ru": ""
+ },
+ {
+  "key": "UI/抽植物",
+  "zh": "抽植物",
+  "en": "Draw Plants",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No13",
+  "zh": "梦想家政",
+  "en": "Dreamy Homemaker",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No19",
+  "zh": "甜梦星夜",
+  "en": "Dreamy Night",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/饮料",
+  "zh": "饮料",
+  "en": "Drink",
+  "ru": ""
+ },
+ {
+  "key": "UI/喝咖啡不加奶常年佩戴墨镜",
+  "zh": "喝咖啡不加奶，\n常年佩戴墨镜",
+  "en": "Drinks coffee without milk, always wearing sunglasses",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含1件电器 额外概率出现专属主题电器",
+  "zh": "每盒包含1件电器，额外概率出现专属主题电器",
+  "en": "Each box contains 1 appliance, with a chance of an exclusive themed appliance",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含1件基础家具 额外概率出现专属主题家具",
+  "zh": "每盒包含1件基础家具，额外概率出现专属主题家具",
+  "en": "Each box contains 1 basic furniture, with a chance of exclusive themed furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含1件基础杂货物品 额外概率出现专属主题杂物",
+  "zh": "每盒包含1件基础杂货物品，额外概率出现专属主题杂物",
+  "en": "Each box contains 1 basic miscellaneous item, with a chance of an exclusive themed item",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒含1件地毯 额外概率出现专属主题风格地毯",
+  "zh": "每盒含1件地毯 额外概率出现专属主题风格地毯",
+  "en": "Each box contains 1 carpet, with a chance of an exclusive themed carpet",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒含1件植物 额外概率出现专属主题风格植物",
+  "zh": "每盒含1件植物，额外概率出现专属主题风格植物",
+  "en": "Each box contains 1 plant, with a chance of an exclusive themed plant",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含1件书报物品 额外概率出现专属主题装饰",
+  "zh": "每盒包含1件书报物品 额外概率出现专属主题装饰",
+  "en": "Each box contains 1 print item with a chance of an exclusive themed decoration",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含10件电器 额外概率出现专属主题电器",
+  "zh": "每盒包含10件电器，额外概率出现专属主题电器",
+  "en": "Each box contains 10 appliances, with a chance of exclusive themed appliances",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含10件基础家具 额外概率出现专属主题家具",
+  "zh": "每盒包含10件基础家具，额外概率出现专属主题家具",
+  "en": "Each box contains 10 basic furniture, with a chance of exclusive themed furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含10件基础杂货物品 额外概率出现专属主题杂物",
+  "zh": "每盒包含10件基础杂货物品，额外概率出现专属主题杂物",
+  "en": "Each box contains 10 basic miscellaneous items, with a chance of exclusive themed items",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒含10件地毯 额外概率出现专属主题风格地毯",
+  "zh": "每盒含10件地毯 额外概率出现专属主题风格地毯",
+  "en": "Each box contains 10 carpets, with a chance of exclusive themed carpets.",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒含10件植物 额外概率出现专属主题风格植物",
+  "zh": "每盒含10件植物，额外概率出现专属主题风格植物",
+  "en": "Each box contains 10 plants, with a chance of an exclusive themed plant",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含10件书报物品 额外概率出现专属主题装饰",
+  "zh": "每盒包含10件书报物品 额外概率出现专属主题装饰",
+  "en": "Each box contains 10 print items with a chance of an exclusive themed decoration",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含50件电器 额外概率出现专属主题电器",
+  "zh": "每盒包含50件电器，额外概率出现专属主题电器",
+  "en": "Each box contains 50 appliances, with a chance of exclusive themed appliances",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含50件基础家具 额外概率出现专属主题家具",
+  "zh": "每盒包含50件基础家具，额外概率出现专属主题家具",
+  "en": "Each box contains 50 basic furniture, with a chance of exclusive themed furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含50件基础杂货物品 额外概率出现专属主题杂物",
+  "zh": "每盒包含50件基础杂货物品，额外概率出现专属主题杂物",
+  "en": "Each box contains 50 basic miscellaneous items, with a chance of exclusive themed items",
+  "ru": ""
+ },
+ {
+  "key": "UI/每盒包含50件书报物品 额外概率出现专属主题装饰",
+  "zh": "每盒包含50件书报物品 额外概率出现专属主题装饰",
+  "en": "Each box contains 50 print items with a chance for a themed exclusive decoration",
+  "ru": ""
+ },
+ {
+  "key": "UI/本单收益结算",
+  "zh": "本单收益结算",
+  "en": "Earnings Summary",
+  "ru": ""
+ },
+ {
+  "key": "UI/修改描述",
+  "zh": "修改描述",
+  "en": "Edit Description",
+  "ru": ""
+ },
+ {
+  "key": "UI/编辑模式",
+  "zh": "编辑模式",
+  "en": "Edit Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/输入房间码",
+  "zh": "输入房间码",
+  "en": "Enter room code",
+  "ru": ""
+ },
+ {
+  "key": "UI/搬来小镇之前我就盘算着 这次一定弄一间能好好收纳我的标本和旧书的小屋 干花 羽毛 昆虫骨头 还有些翻了好几年的老古籍 这间屋子应该看着有点年代感 但也别太压抑 最好是那种一进门就闻得到纸张味和干燥草香的感觉",
+  "zh": "搬来小镇之前我就盘算着，这次一定弄一间能好好收纳我的标本和旧书的小屋。干花、羽毛、昆虫骨头，还有些翻了好几年的老古籍······这间屋子应该看着有点年代感，但也别太压抑，最好是那种一进门就闻得到纸张味和干燥草香的感觉。",
+  "en": "Even before moving to this town, I'd already decided—this time, I'm going to make a space where I can properly store all my collections. Dried flowers, feathers, insect bones, and old books I've read over and over again... The room should have a sense of age, but not feel gloomy— Ideally, the moment you walk in, you'd smell old paper and the dry scent of wild grass.",
+  "ru": ""
+ },
+ {
+  "key": "UI/很棒",
+  "zh": "很棒",
+  "en": "Excellent!",
+  "ru": ""
+ },
+ {
+  "key": "UI/退出",
+  "zh": "退出",
+  "en": "Exit",
+  "ru": ""
+ },
+ {
+  "key": "UI/退出游戏",
+  "zh": "退出游戏",
+  "en": "Exit Game",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否退出拍照",
+  "zh": "是否退出拍照",
+  "en": "Exit Photo Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否退出番茄钟",
+  "zh": "是否退出番茄钟",
+  "en": "Exit Pomodoro?",
+  "ru": ""
+ },
+ {
+  "key": "UI/经验",
+  "zh": "经验",
+  "en": "EXP",
+  "ru": ""
+ },
+ {
+  "key": "UI/高超家政工",
+  "zh": "高超家政工",
+  "en": "Expert Organizer",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/摆件",
+  "zh": "摆件",
+  "en": "Figurine",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/摆件",
+  "zh": "摆件",
+  "en": "Figurine",
+  "ru": ""
+ },
+ {
+  "key": "UI/档案",
+  "zh": "档案",
+  "en": "Files",
+  "ru": ""
+ },
+ {
+  "key": "UI/功能模式描述",
+  "zh": "按照物品功能属性查找物件",
+  "en": "Find items according to item functions",
+  "ru": ""
+ },
+ {
+  "key": "UI/房间模式描述",
+  "zh": "按照房间分区查找物件",
+  "en": "Find items according to room sections",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/壁炉",
+  "zh": "壁炉",
+  "en": "Fireplace",
+  "ru": ""
+ },
+ {
+  "key": "UI/地面类",
+  "zh": "地面家具",
+  "en": "Floor Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/落地植物",
+  "zh": "落地植物",
+  "en": "Floor Plant",
+  "ru": ""
+ },
+ {
+  "key": "UI/花香再启安娜花店焕新归来",
+  "zh": "花香再启——安娜花店焕新归来",
+  "en": "Floral fragrance returns—Anna's flower shop reopens",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No20",
+  "zh": "花草秘语",
+  "en": "Floral Whisper",
+  "ru": ""
+ },
+ {
+  "key": "UI/专注",
+  "zh": "专注",
+  "en": "Focus",
+  "ru": ""
+ },
+ {
+  "key": "UI/食物",
+  "zh": "食物",
+  "en": "Food",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/食物",
+  "zh": "食物",
+  "en": "Food",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/食物",
+  "zh": "食物",
+  "en": "Food",
+  "ru": ""
+ },
+ {
+  "key": "UI/食品",
+  "zh": "食品",
+  "en": "Food",
+  "ru": ""
+ },
+ {
+  "key": "UI/配方",
+  "zh": "配方",
+  "en": "Formula",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No5",
+  "zh": "化石回音",
+  "en": "Fossil Echoes",
+  "ru": ""
+ },
+ {
+  "key": "UI/四向旋转类",
+  "zh": "多向旋转家具",
+  "en": "Four-Directional Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/多向旋转家具",
+  "zh": "多向旋转家具",
+  "en": "Four-Directional Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/油炸",
+  "zh": "油炸",
+  "en": "Fry",
+  "ru": ""
+ },
+ {
+  "key": "UI/全屏",
+  "zh": "全屏",
+  "en": "Fullscreen",
+  "ru": ""
+ },
+ {
+  "key": "UI/功能模式",
+  "zh": "功能模式",
+  "en": "Function Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/家具",
+  "zh": "家具",
+  "en": "Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库功能2家具",
+  "zh": "家具",
+  "en": "Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/获得家具",
+  "zh": "获得家具",
+  "en": "Furniture Acquired",
+  "ru": ""
+ },
+ {
+  "key": "UI/元集团",
+  "zh": "元▓▓▓集团",
+  "en": "G▓▓▓Group",
+  "ru": ""
+ },
+ {
+  "key": "UI/策划",
+  "zh": "策划",
+  "en": "Game Design",
+  "ru": ""
+ },
+ {
+  "key": "UI/游戏性",
+  "zh": "游戏性",
+  "en": "Gameplay",
+  "ru": ""
+ },
+ {
+  "key": "UI/加油站",
+  "zh": "加油站",
+  "en": "Gas Station",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No12",
+  "zh": "元气家政",
+  "en": "GD Homemaker",
+  "ru": ""
+ },
+ {
+  "key": "UI/元气弹工作室",
+  "zh": "元气弹工作室",
+  "en": "GD Studio",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_6",
+  "zh": "快给我个装修方案",
+  "en": "Give Me a Design Plan Please~",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No14",
+  "zh": "喜欢您来",
+  "en": "Glad You're Here",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No9",
+  "zh": "明珠微光",
+  "en": "Glimmering Pearl",
+  "ru": ""
+ },
+ {
+  "key": "UI/科学家",
+  "zh": "爷爷的家",
+  "en": "Grandpa's Home",
+  "ru": ""
+ },
+ {
+  "key": "UI/画面和音频",
+  "zh": "画面和音频",
+  "en": "Graphics and Sounds",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No16",
+  "zh": "绿野仙踪",
+  "en": "Green Whisper",
+  "ru": ""
+ },
+ {
+  "key": "UI/烤",
+  "zh": "烤",
+  "en": "Grill and Roast",
+  "ru": ""
+ },
+ {
+  "key": "UI/还没抽到",
+  "zh": "猜猜我是谁？",
+  "en": "Guess who I am?",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/衣架",
+  "zh": "衣架",
+  "en": "Hanger",
+  "ru": ""
+ },
+ {
+  "key": "UI/在书报亭多次购买呓语日报疑似上班摸鱼",
+  "zh": "在书报亭多次购买“呓语日报”，疑似上班摸鱼",
+  "en": "Has bought \"Whisper Daily\" multiple times at the newsstand, possibly slacking off at work",
+  "ru": ""
+ },
+ {
+  "key": "UI/多次违反医院禁酒令疑似被护士通缉",
+  "zh": "多次违反医院禁酒令，\n疑似被护士通缉",
+  "en": "Has repeatedly violated the hospital's alcohol ban, is wanted by nurses",
+  "ru": ""
+ },
+ {
+  "key": "UI/想好问点什么了吗",
+  "zh": "想好问点什么了吗?",
+  "en": "Have you decided what to ask?",
+  "ru": ""
+ },
+ {
+  "key": "UI/今日头条流浪汉被发现昏迷于出租房浴室疑似长期居住于隐蔽空间",
+  "zh": "今日头条：流浪汉被发现昏迷于出租房浴室，疑似长期居住于隐蔽空间",
+  "en": "Headline: Homeless man found unconscious in apartment bathroom, suspected of living in a hidden space for a long time",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/健康",
+  "zh": "保健",
+  "en": "Health Care",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/健康",
+  "zh": "健康",
+  "en": "Health Care",
+  "ru": ""
+ },
+ {
+  "key": "UI/隐藏显示马克",
+  "zh": "隐藏/显示马克",
+  "en": "Hide / Show Mark",
+  "ru": ""
+ },
+ {
+  "key": "UI/隐藏/显示UI",
+  "zh": "隐藏/显示UI",
+  "en": "Hide/Show UI",
+  "ru": ""
+ },
+ {
+  "key": "UI/操作提示",
+  "zh": "操作提示",
+  "en": "Hint",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/兴趣爱好",
+  "zh": "兴趣爱好",
+  "en": "Hobby",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/兴趣爱好",
+  "zh": "兴趣爱好",
+  "en": "Hobby",
+  "ru": ""
+ },
+ {
+  "key": "UI/家纺",
+  "zh": "家纺",
+  "en": "Home Textiles",
+  "ru": ""
+ },
+ {
+  "key": "UI/家政工",
+  "zh": "家政工",
+  "en": "Housekeeper",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_10",
+  "zh": "如何让空间更加舒适",
+  "en": "How to Make the Space Cozier?",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_7",
+  "zh": "我需要设计灵感！",
+  "en": "I Need Design Inspiration!",
+  "ru": ""
+ },
+ {
+  "key": "UI/我看到了你做的一切",
+  "zh": "我看到了你做的一切",
+  "en": "I Saw Everything You Did",
+  "ru": ""
+ },
+ {
+  "key": "UI/工作牌",
+  "zh": "工作牌",
+  "en": "ID",
+  "ru": ""
+ },
+ {
+  "key": "UI/理想家展示楼",
+  "zh": "理想家展示楼",
+  "en": "Ideal Home Showroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/图片保存位置",
+  "zh": "图片保存位置",
+  "en": "Image Save Location",
+  "ru": ""
+ },
+ {
+  "key": "UI/当前",
+  "zh": "当前",
+  "en": "In Use",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No27",
+  "zh": "灵感工坊",
+  "en": "Inspiration Showroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/库存不足物品",
+  "zh": "库存不足物品",
+  "en": "Insufficient Items",
+  "ru": ""
+ },
+ {
+  "key": "UI/互动物件",
+  "zh": "互动物件",
+  "en": "Interact with Items",
+  "ru": ""
+ },
+ {
+  "key": "UI/传奇炼金师专访高维世界是真实的存在吗",
+  "zh": "传奇炼金师专访！高维世界是真实的存在吗？？",
+  "en": "Interview with a legendary alchemist! Is the higher-dimensional world real??",
+  "ru": ""
+ },
+ {
+  "key": "UI/物品列表",
+  "zh": "物品列表",
+  "en": "Item List",
+  "ru": ""
+ },
+ {
+  "key": "UI/256任务没完成提示",
+  "zh": "红色描边物品不能放在地上哦~！",
+  "en": "Items with a red outline can't be placed on the ground.",
+  "ru": ""
+ },
+ {
+  "key": "UI/简的妹妹小镇第一酒蒙子",
+  "zh": "简的妹妹，\n小镇第一酒蒙子",
+  "en": "Jane's younger sister, the town's number one heavy drinker",
+  "ru": ""
+ },
+ {
+  "key": "UI/工作完成",
+  "zh": "工作完成",
+  "en": "Job Complete",
+  "ru": ""
+ },
+ {
+  "key": "UI/审判",
+  "zh": "审判",
+  "en": "Judgement",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No10",
+  "zh": "新手家政",
+  "en": "Junior Homemaker",
+  "ru": ""
+ },
+ {
+  "key": "UI/新手家政工",
+  "zh": "新手家政工",
+  "en": "Junior Organizer",
+  "ru": ""
+ },
+ {
+  "key": "UI/正义",
+  "zh": "正义",
+  "en": "Justice",
+  "ru": ""
+ },
+ {
+  "key": "UI/改键",
+  "zh": "改键",
+  "en": "Key Bindings",
+  "ru": ""
+ },
+ {
+  "key": "UI/按键设置",
+  "zh": "按键设置",
+  "en": "Key Settings",
+  "ru": ""
+ },
+ {
+  "key": "UI/键盘",
+  "zh": "键盘",
+  "en": "Keyboard",
+  "ru": ""
+ },
+ {
+  "key": "UI/至尊电器盲盒",
+  "zh": "至尊电器盲盒",
+  "en": "Ultimate Appliance Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/至尊家具盲盒",
+  "zh": "至尊家具盲盒",
+  "en": "Ultimate Furniture Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/至尊杂货盲盒",
+  "zh": "至尊杂货盲盒",
+  "en": "Ultimate Misc Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/至尊书报盲盒",
+  "zh": "至尊书报盲盒",
+  "en": "Ultimate Print Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/厨房",
+  "zh": "厨房",
+  "en": "Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/厨房台面",
+  "zh": "厨房台面",
+  "en": "Kitchen Countertop",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/厨房台面",
+  "zh": "厨房台面",
+  "en": "Kitchen Countertop",
+  "ru": ""
+ },
+ {
+  "key": "UI/乳糖不耐患者订购羊奶还有别的原因吗",
+  "zh": "乳糖不耐患者，\n订购羊奶还有别的原因吗？",
+  "en": "Lactose intolerant, is the goat milk for more than one reason?",
+  "ru": ""
+ },
+ {
+  "key": "UI/语言",
+  "zh": "语言",
+  "en": "Language",
+  "ru": ""
+ },
+ {
+  "key": "UI/Tip2",
+  "zh": "接下来把车子里的东西都拿出来吧",
+  "en": "Let's take everything out of the car.",
+  "ru": ""
+ },
+ {
+  "key": "UI/信件",
+  "zh": "信件",
+  "en": "Letter",
+  "ru": ""
+ },
+ {
+  "key": "UI/梅洛蒂的信",
+  "zh": "梅洛蒂的信",
+  "en": "Letter from Melody",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/灯具",
+  "zh": "灯具",
+  "en": "Lighting",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/灯具",
+  "zh": "灯具",
+  "en": "Lighting",
+  "ru": ""
+ },
+ {
+  "key": "UI/灯",
+  "zh": "灯",
+  "en": "Lights",
+  "ru": ""
+ },
+ {
+  "key": "UI/开关灯",
+  "zh": "开关灯",
+  "en": "Lights on/off",
+  "ru": ""
+ },
+ {
+  "key": "UI/点赞",
+  "zh": "点赞",
+  "en": "Like",
+  "ru": ""
+ },
+ {
+  "key": "UI/喜欢吃橘子在地图上难以追踪",
+  "zh": "喜欢吃橘子，\n在地图上难以追踪...",
+  "en": "Likes eating oranges, hard to track on the map…",
+  "ru": ""
+ },
+ {
+  "key": "UI/客厅",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/加载存档",
+  "zh": "加载存档",
+  "en": "Load",
+  "ru": ""
+ },
+ {
+  "key": "UI/读取存档",
+  "zh": "读取存档",
+  "en": "Load",
+  "ru": ""
+ },
+ {
+  "key": "UI/本地化",
+  "zh": "本地化",
+  "en": "Localization",
+  "ru": ""
+ },
+ {
+  "key": "UI/未获得",
+  "zh": "未获得",
+  "en": "Locked",
+  "ru": ""
+ },
+ {
+  "key": "UI/未解锁",
+  "zh": "未解锁",
+  "en": "Locked",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_3",
+  "zh": "求靠谱家装设计！",
+  "en": "Looking for a Reliable Designer!",
+  "ru": ""
+ },
+ {
+  "key": "UI/相机里好像有怪东西",
+  "zh": "相机里好像有怪东西",
+  "en": "Looks like something strange showed up in the photo.",
+  "ru": ""
+ },
+ {
+  "key": "UI/丢失物体复位",
+  "zh": "丢失物体复位",
+  "en": "Lost Item Reset",
+  "ru": ""
+ },
+ {
+  "key": "UI/喜欢喝椰汁梦想住在大菠萝里",
+  "zh": "喜欢喝椰汁，\n梦想住在大菠萝里",
+  "en": "Loves coconut, dreams of living in a giant pineapple",
+  "ru": ""
+ },
+ {
+  "key": "UI/喜欢珊瑚水母的好朋友",
+  "zh": "喜欢珊瑚，\n水母的好朋友",
+  "en": "Loves coral, a good friend of jellyfish",
+  "ru": ""
+ },
+ {
+  "key": "UI/喜欢加班见过凌晨四点的办公室",
+  "zh": "喜欢加班，\n见过凌晨四点的办公室",
+  "en": "Loves working overtime, has seen the office at 4 a.m.",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_9",
+  "zh": "预算有限求妙招",
+  "en": "Low Budget, Need Smart Tips!",
+  "ru": ""
+ },
+ {
+  "key": "UI/房东家",
+  "zh": "露娜的双层公寓",
+  "en": "Luna's Duplex Apartment",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No3",
+  "zh": "魔法呢喃",
+  "en": "Magic Whisper",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No8",
+  "zh": "胡牌快讯",
+  "en": "Mahjong News",
+  "ru": ""
+ },
+ {
+  "key": "UI/邮箱",
+  "zh": "邮箱",
+  "en": "Mail",
+  "ru": ""
+ },
+ {
+  "key": "UI/手动存档",
+  "zh": "手动存档",
+  "en": "Manual Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/地图",
+  "zh": "地图",
+  "en": "Map",
+  "ru": ""
+ },
+ {
+  "key": "UI/地图上可以标记地点",
+  "zh": "地图上可以标记地点。",
+  "en": "Mark locations on the Map.",
+  "ru": ""
+ },
+ {
+  "key": "UI/小摊杂物",
+  "zh": "小摊杂物",
+  "en": "Market Stand Goods",
+  "ru": ""
+ },
+ {
+  "key": "UI/捣碎",
+  "zh": "捣碎",
+  "en": "Mash",
+  "ru": ""
+ },
+ {
+  "key": "UI/全能家政工",
+  "zh": "全能家政工",
+  "en": "Master Organizer",
+  "ru": ""
+ },
+ {
+  "key": "UI/总音量",
+  "zh": "总音量",
+  "en": "Master Volume",
+  "ru": ""
+ },
+ {
+  "key": "UI/建材",
+  "zh": "建材",
+  "en": "Material",
+  "ru": ""
+ },
+ {
+  "key": "UI/米拉的姐姐摇滚模式被架子鼓激活",
+  "zh": "米拉的姐姐，\n摇滚模式被架子鼓激活",
+  "en": "Mira's older sister, whose rock mode is activated by a drum set",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/镜子",
+  "zh": "镜子",
+  "en": "Mirror",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/镜子",
+  "zh": "镜子",
+  "en": "Mirror",
+  "ru": ""
+ },
+ {
+  "key": "UI/杂货",
+  "zh": "杂货",
+  "en": "Misc",
+  "ru": ""
+ },
+ {
+  "key": "UI/缺少物件",
+  "zh": "缺少物件",
+  "en": "Missing Item",
+  "ru": ""
+ },
+ {
+  "key": "UI/正在调酒",
+  "zh": "正在调酒",
+  "en": "Mixing a cocktail",
+  "ru": ""
+ },
+ {
+  "key": "UI/隐者小区描述",
+  "zh": "周围的邻居大多深居简出",
+  "en": "Most neighbors keep to themselves",
+  "ru": ""
+ },
+ {
+  "key": "UI/鼠标",
+  "zh": "鼠标",
+  "en": "Mouse",
+  "ru": ""
+ },
+ {
+  "key": "UI/搬运货物中",
+  "zh": "搬运货物中……",
+  "en": "Moving items...",
+  "ru": ""
+ },
+ {
+  "key": "UI/树先生家具店",
+  "zh": "树先生家具店",
+  "en": "Mr. Tree's Furniture Store",
+  "ru": ""
+ },
+ {
+  "key": "UI/博物馆",
+  "zh": "博物馆",
+  "en": "Museum",
+  "ru": ""
+ },
+ {
+  "key": "UI/博物馆密码正确",
+  "zh": "博物馆密码正确",
+  "en": "Museum password correct.",
+  "ru": ""
+ },
+ {
+  "key": "UI/博物馆密码错误",
+  "zh": "博物馆密码错误",
+  "en": "Museum password incorrect.",
+  "ru": ""
+ },
+ {
+  "key": "UI/音乐设计",
+  "zh": "音乐设计",
+  "en": "Music Design",
+  "ru": ""
+ },
+ {
+  "key": "UI/我的收藏",
+  "zh": "我的收藏",
+  "en": "My Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/我的名字是...",
+  "zh": "我的名字是...",
+  "en": "My name is...",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_5",
+  "zh": "我家装修太难了…",
+  "en": "Home Decoration Is a Nightmare...",
+  "ru": ""
+ },
+ {
+  "key": "UI/我的房间",
+  "zh": "我的房间",
+  "en": "My Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/我的样板房",
+  "zh": "我的样板房",
+  "en": "My Showroom",
+  "ru": ""
+ },
+ {
+  "key": "UI/神秘礼物",
+  "zh": "神秘礼物",
+  "en": "Mysterious Gift",
+  "ru": ""
+ },
+ {
+  "key": "UI/神秘的信",
+  "zh": "神秘的信",
+  "en": "Mysterious letter",
+  "ru": ""
+ },
+ {
+  "key": "UI/神秘的信其二",
+  "zh": "神秘的信其二",
+  "en": "Mysterious letter II",
+  "ru": ""
+ },
+ {
+  "key": "UI/神秘的信其三",
+  "zh": "神秘的信其三",
+  "en": "Mysterious letter III",
+  "ru": ""
+ },
+ {
+  "key": "UI/博物馆出现神秘数字",
+  "zh": "博物馆出现神秘数字",
+  "en": "Mysterious number appears in museum",
+  "ru": ""
+ },
+ {
+  "key": "UI/名称",
+  "zh": "名称",
+  "en": "Name",
+  "ru": ""
+ },
+ {
+  "key": "UI/元集团详情",
+  "zh": "姓名：▓▓▓▓\n职位：▓▓▓▓\n编号：756295",
+  "en": "Name：▓▓▓▓\nPosition：▓▓▓▓\nNO：756295",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No15",
+  "zh": "幽灵嬉戏",
+  "en": "Naughty Ghost",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No24",
+  "zh": "万象霓虹",
+  "en": "Neon Mall",
+  "ru": ""
+ },
+ {
+  "key": "UI/开始",
+  "zh": "新游戏",
+  "en": "New Game",
+  "ru": ""
+ },
+ {
+  "key": "UI/家里出现新的礼物",
+  "zh": "新的礼物盒已送达家里，冲鸭！",
+  "en": "New Gift Box Delivered to Your Home—Go Grab It!",
+  "ru": ""
+ },
+ {
+  "key": "UI/新建存档",
+  "zh": "新建存档",
+  "en": "New Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/书报亭",
+  "zh": "书报亭",
+  "en": "Newsstand",
+  "ru": ""
+ },
+ {
+  "key": "UI/没有公交卡",
+  "zh": "没有公交卡不能上车哦~",
+  "en": "No Bus Pass, No Ride.",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_4",
+  "zh": "家装无头绪，快救我",
+  "en": "No Clue About My Home Design, Help!",
+  "ru": ""
+ },
+ {
+  "key": "UI/代金券不足",
+  "zh": "代金券不足",
+  "en": "Not enough vouchers",
+  "ru": ""
+ },
+ {
+  "key": "UI/营养液使用成功",
+  "zh": "营养液使用成功",
+  "en": "Nutrient solution applied successfully",
+  "ru": ""
+ },
+ {
+  "key": "UI/已经放过营养液",
+  "zh": "已经放过营养液",
+  "en": "Nutrient solution has already been applied",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No21",
+  "zh": "海底回响",
+  "en": "Ocean Echoes",
+  "ru": ""
+ },
+ {
+  "key": "UI/关",
+  "zh": "关",
+  "en": "Off",
+  "ru": ""
+ },
+ {
+  "key": "UI/开",
+  "zh": "开",
+  "en": "On",
+  "ru": ""
+ },
+ {
+  "key": "UI/其他",
+  "zh": "其他",
+  "en": "Other",
+  "ru": ""
+ },
+ {
+  "key": "UI/外出",
+  "zh": "外出",
+  "en": "Out",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否覆盖预设",
+  "zh": "是否覆盖预设？",
+  "en": "Overwrite preset?",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否覆盖",
+  "zh": "是否覆盖",
+  "en": "Overwrite?",
+  "ru": ""
+ },
+ {
+  "key": "UI/已拥有",
+  "zh": "已拥有",
+  "en": "Owned",
+  "ru": ""
+ },
+ {
+  "key": "UI/已拥有房型",
+  "zh": "已拥有房型",
+  "en": "Owned Properties",
+  "ru": ""
+ },
+ {
+  "key": "UI/煎炒",
+  "zh": "煎炒",
+  "en": "Pan Fry",
+  "ru": ""
+ },
+ {
+  "key": "UI/公园",
+  "zh": "公园",
+  "en": "Park",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/隔断",
+  "zh": "隔断",
+  "en": "Partition",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/隔断",
+  "zh": "隔断",
+  "en": "Partition",
+  "ru": ""
+ },
+ {
+  "key": "UI/现在密码已修改为",
+  "zh": "现在密码已修改为",
+  "en": "Password updated to",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/洗漱用品",
+  "zh": "洗漱用品",
+  "en": "Personal Care",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/个人护理",
+  "zh": "个人护理",
+  "en": "Personal Care",
+  "ru": ""
+ },
+ {
+  "key": "UI/透视模式",
+  "zh": "透视模式",
+  "en": "Perspective Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/拿起放下",
+  "zh": "拿起/放下",
+  "en": "Pick Up / Put Down",
+  "ru": ""
+ },
+ {
+  "key": "UI/拿起_放下",
+  "zh": "拿起/放下",
+  "en": "Pick Up / Put Down",
+  "ru": ""
+ },
+ {
+  "key": "UI/摆放家具和物品按照自己的喜好把房间布置成最舒适的样子吧",
+  "zh": "摆放家具和物品，按照自己的喜好把房间布置成最舒适的样子吧。",
+  "en": "Arrange the furniture and decorate the room to make it the most comfortable according to your preferences.\t",
+  "ru": ""
+ },
+ {
+  "key": "UI/植物",
+  "zh": "植物",
+  "en": "Plant",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/植物",
+  "zh": "植物",
+  "en": "Plant",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/种植工具",
+  "zh": "种植工具",
+  "en": "Planting Tool",
+  "ru": ""
+ },
+ {
+  "key": "UI/游玩委托 正式版",
+  "zh": "游玩委托（正式版）",
+  "en": "Play Task (Official Version)",
+  "ru": ""
+ },
+ {
+  "key": "UI/请输入",
+  "zh": "请输入",
+  "en": "Please Enter",
+  "ru": ""
+ },
+ {
+  "key": "UI/314任务没完成提示",
+  "zh": "需要按照主人的要求摆放哦",
+  "en": "Please place it the way the owner requests",
+  "ru": ""
+ },
+ {
+  "key": "UI/344任务没完成提示",
+  "zh": "需要按照主人的要求摆放哦",
+  "en": "Please place it the way the owner requests",
+  "ru": ""
+ },
+ {
+  "key": "UI/玩偶",
+  "zh": "玩偶",
+  "en": "Plush",
+  "ru": ""
+ },
+ {
+  "key": "UI/警察局",
+  "zh": "警察局",
+  "en": "Police Station",
+  "ru": ""
+ },
+ {
+  "key": "UI/番茄钟",
+  "zh": "番茄钟",
+  "en": "Pomodoro",
+  "ru": ""
+ },
+ {
+  "key": "UI/职位",
+  "zh": "职位",
+  "en": "Position",
+  "ru": ""
+ },
+ {
+  "key": "UI/药剂",
+  "zh": "药剂",
+  "en": "Potion",
+  "ru": ""
+ },
+ {
+  "key": "UI/总价",
+  "zh": "总价",
+  "en": "Price",
+  "ru": ""
+ },
+ {
+  "key": "UI/房产证书",
+  "zh": "房产证书",
+  "en": "Property Certificate",
+  "ru": ""
+ },
+ {
+  "key": "UI/房产改装通知",
+  "zh": "房产改装通知",
+  "en": "Property Renovation Notice",
+  "ru": ""
+ },
+ {
+  "key": "UI/发行支持",
+  "zh": "发行支持",
+  "en": "Publishing Support",
+  "ru": ""
+ },
+ {
+  "key": "UI/购买",
+  "zh": "购买",
+  "en": "Purchase",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No22",
+  "zh": "小憩一刻",
+  "en": "Quick Rest",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/栏杆",
+  "zh": "栏杆",
+  "en": "Railing",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/栏杆",
+  "zh": "栏杆",
+  "en": "Railing",
+  "ru": ""
+ },
+ {
+  "key": "UI/随机书",
+  "zh": "随机书",
+  "en": "Random Book",
+  "ru": ""
+ },
+ {
+  "key": "UI/随机食物",
+  "zh": "随机食物",
+  "en": "Random Food",
+  "ru": ""
+ },
+ {
+  "key": "UI/重新选购",
+  "zh": "重新选购",
+  "en": "Re-select",
+  "ru": ""
+ },
+ {
+  "key": "UI/菜谱配方",
+  "zh": "菜谱配方",
+  "en": "Recipe",
+  "ru": ""
+ },
+ {
+  "key": "UI/配方图鉴",
+  "zh": "配方图鉴",
+  "en": "Recipe Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/记录",
+  "zh": "记录",
+  "en": "Record",
+  "ru": ""
+ },
+ {
+  "key": "UI/已领取",
+  "zh": "已领取",
+  "en": "Redeemed",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通书报盲盒",
+  "zh": "普通书报盲盒",
+  "en": "Standard Print Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/6107任务没完成提示",
+  "zh": "清理蜘蛛网",
+  "en": "Remove Spider Webs",
+  "ru": ""
+ },
+ {
+  "key": "UI/6206任务没完成提示",
+  "zh": "清理蜘蛛网",
+  "en": "Remove Spider Webs",
+  "ru": ""
+ },
+ {
+  "key": "UI/6307任务没完成提示",
+  "zh": "清理蜘蛛网",
+  "en": "Remove Spider Webs",
+  "ru": ""
+ },
+ {
+  "key": "UI/存档命名",
+  "zh": "存档命名",
+  "en": "Rename Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/装修",
+  "zh": "装修",
+  "en": "Renovation",
+  "ru": ""
+ },
+ {
+  "key": "UI/Bug反馈",
+  "zh": "Bug反馈",
+  "en": "Report A Bug",
+  "ru": ""
+ },
+ {
+  "key": "UI/委托",
+  "zh": "委托",
+  "en": "Request",
+  "ru": ""
+ },
+ {
+  "key": "UI/重置",
+  "zh": "重置",
+  "en": "Reset",
+  "ru": ""
+ },
+ {
+  "key": "UI/重置关卡",
+  "zh": "重置关卡",
+  "en": "Reset Level",
+  "ru": ""
+ },
+ {
+  "key": "UI/玩家复位",
+  "zh": "玩家复位",
+  "en": "Reset Player",
+  "ru": ""
+ },
+ {
+  "key": "UI/住宅区",
+  "zh": "住宅区（家）",
+  "en": "Residential Area (Home)",
+  "ru": ""
+ },
+ {
+  "key": "UI/每日6点将会刷新住户",
+  "zh": "每日6点将会刷新住户",
+  "en": "Residents Refresh Daily at 6:00",
+  "ru": ""
+ },
+ {
+  "key": "UI/分辨率",
+  "zh": "分辨率",
+  "en": "Resolution",
+  "ru": ""
+ },
+ {
+  "key": "UI/休息",
+  "zh": "休息",
+  "en": "Rest",
+  "ru": ""
+ },
+ {
+  "key": "UI/重启任务关卡",
+  "zh": "重启任务关卡",
+  "en": "Restart Task Level",
+  "ru": ""
+ },
+ {
+  "key": "UI/返回上一页",
+  "zh": "返回上一页",
+  "en": "Return",
+  "ru": ""
+ },
+ {
+  "key": "UI/返回游戏",
+  "zh": "返回游戏",
+  "en": "Return to Game",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No23",
+  "zh": "摇滚星火",
+  "en": "Rock 'n' Flame",
+  "ru": ""
+ },
+ {
+  "key": "UI/上传后生成",
+  "zh": "房间ID：上传后生成",
+  "en": "Room ID: Generated after upload",
+  "ru": ""
+ },
+ {
+  "key": "UI/房间模式",
+  "zh": "房间模式",
+  "en": "Room Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/房间预设",
+  "zh": "房间预设",
+  "en": "Room Presets",
+  "ru": ""
+ },
+ {
+  "key": "UI/房间ID",
+  "zh": "房间ID：",
+  "en": "RoomID:",
+  "ru": ""
+ },
+ {
+  "key": "UI/写入存档",
+  "zh": "写入存档",
+  "en": "Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/存档",
+  "zh": "存档",
+  "en": "Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/手动存档最多3个",
+  "zh": "手动存档最多3个",
+  "en": "Save Up to 3",
+  "ru": ""
+ },
+ {
+  "key": "UI/已保存至 我的图片 中",
+  "zh": "已保存至“我的图片”中",
+  "en": "Saved to 'My Pictures'",
+  "ru": ""
+ },
+ {
+  "key": "UI/存档不可同名",
+  "zh": "存档不可同名",
+  "en": "Savefile Name Already Exists",
+  "ru": ""
+ },
+ {
+  "key": "UI/存档中",
+  "zh": "存档中",
+  "en": "Saving...",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No11",
+  "zh": "公式舞步",
+  "en": "Science Steps",
+  "ru": ""
+ },
+ {
+  "key": "UI/搜索房间",
+  "zh": "搜索房间",
+  "en": "Search Room",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/调料",
+  "zh": "调料",
+  "en": "Seasoning",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No26",
+  "zh": "明日再会",
+  "en": "See You Tomorrow",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/种子",
+  "zh": "种子",
+  "en": "Seed",
+  "ru": ""
+ },
+ {
+  "key": "UI/种子",
+  "zh": "种子",
+  "en": "Seeds",
+  "ru": ""
+ },
+ {
+  "key": "UI/选择上面",
+  "zh": "选择上面",
+  "en": "Select above",
+  "ru": ""
+ },
+ {
+  "key": "UI/选择下面",
+  "zh": "选择下面",
+  "en": "Select below",
+  "ru": ""
+ },
+ {
+  "key": "UI/选择存档",
+  "zh": "选择存档",
+  "en": "Select Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/选择时间旅行",
+  "zh": "选择时间旅行",
+  "en": "Select time travel destination.",
+  "ru": ""
+ },
+ {
+  "key": "UI/自助园艺店",
+  "zh": "自助园艺店",
+  "en": "Self-Serve Gardening Shop",
+  "ru": ""
+ },
+ {
+  "key": "UI/设置",
+  "zh": "设置",
+  "en": "Settings",
+  "ru": ""
+ },
+ {
+  "key": "UI/结算委托",
+  "zh": "结算委托",
+  "en": "Settle Task",
+  "ru": ""
+ },
+ {
+  "key": "UI/沙沙地毯",
+  "zh": "沙沙地毯",
+  "en": "Shasha Carpet",
+  "ru": ""
+ },
+ {
+  "key": "UI/置物架",
+  "zh": "置物架",
+  "en": "Shelf",
+  "ru": ""
+ },
+ {
+  "key": "UI/震惊墨镜帮著名豪宅已被继承",
+  "zh": "震惊！“墨镜帮”著名豪宅已被继承",
+  "en": "Shocking! Famous mansion of \"Sunglasses Gang\" has been inherited",
+  "ru": ""
+ },
+ {
+  "key": "UI/震惊一流浪汉疑似长期居住公寓内废弃房间现已被送至救助中心",
+  "zh": "震惊！一流浪汉疑似长期居住公寓内废弃房间，现已被送至救助中心",
+  "en": "Shocking! Homeless man suspected of long-term stay in abandoned apartment room, now sent to shelter",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/鞋子",
+  "zh": "鞋子",
+  "en": "Shoes",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/鞋子",
+  "zh": "鞋子",
+  "en": "Shoes",
+  "ru": ""
+ },
+ {
+  "key": "UI/显示时间轴",
+  "zh": "显示时间轴",
+  "en": "Show Timeline",
+  "ru": ""
+ },
+ {
+  "key": "UI/显示工具UI",
+  "zh": "显示工具UI",
+  "en": "Show Tools UI",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/淋浴头",
+  "zh": "淋浴头",
+  "en": "Shower Head",
+  "ru": ""
+ },
+ {
+  "key": "UI/熟练家政工",
+  "zh": "熟练家政工",
+  "en": "Skilled Organizer",
+  "ru": ""
+ },
+ {
+  "key": "UI/睡觉",
+  "zh": "睡觉",
+  "en": "Sleep",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/沙发",
+  "zh": "沙发",
+  "en": "Sofa",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/沙发",
+  "zh": "沙发",
+  "en": "Sofa",
+  "ru": ""
+ },
+ {
+  "key": "UI/土壤",
+  "zh": "土壤",
+  "en": "Soil",
+  "ru": ""
+ },
+ {
+  "key": "UI/样板读取时缺少物件",
+  "zh": "有家具不见了，预设不可用哔",
+  "en": "Some furniture is missing, the preset can't be used—beep",
+  "ru": ""
+ },
+ {
+  "key": "UI/有些东西需要被放下",
+  "zh": "有些东西需要被放下",
+  "en": "Some items need to be put down first",
+  "ru": ""
+ },
+ {
+  "key": "UI/库存不足提示",
+  "zh": "当前房间里部分物件数量<color=#CD8F32>超过总库存上限</color>，\n购买补全库存后方可继续实装。",
+  "en": "Some objects in the current room have <color=#CD8F32>exceeded the limit</color>.\nPurchase more before continuing.",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No7",
+  "zh": "灵魂花祭",
+  "en": "Soul Bloom",
+  "ru": ""
+ },
+ {
+  "key": "UI/音效设计",
+  "zh": "音效设计",
+  "en": "Sound Design",
+  "ru": ""
+ },
+ {
+  "key": "UI/音效",
+  "zh": "音效",
+  "en": "Sound Effects",
+  "ru": ""
+ },
+ {
+  "key": "UI/特别鸣谢",
+  "zh": "特别鸣谢",
+  "en": "Special Thanks",
+  "ru": ""
+ },
+ {
+  "key": "UI/医院",
+  "zh": "圣弗拉德米尔医院",
+  "en": "St Vladimir Hospital",
+  "ru": ""
+ },
+ {
+  "key": "UI/制作人员名单",
+  "zh": "制作人员名单",
+  "en": "Staff Credits",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通电器盲盒",
+  "zh": "普通电器盲盒",
+  "en": "Standard Appliance Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通地毯盲盒",
+  "zh": "普通地毯盲盒",
+  "en": "Standard Carpet Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通家具盲盒",
+  "zh": "普通家具盲盒",
+  "en": "Standard Furniture Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通杂货盲盒",
+  "zh": "普通杂货盲盒",
+  "en": "Standard Misc Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通植物盲盒",
+  "zh": "普通植物盲盒",
+  "en": "Standard Plant Mystery Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/明星家政工",
+  "zh": "明星家政工",
+  "en": "Star Organizer",
+  "ru": ""
+ },
+ {
+  "key": "UI/正在烹饪",
+  "zh": "开始烹饪",
+  "en": "Start Cooking",
+  "ru": ""
+ },
+ {
+  "key": "UI/新游戏提示",
+  "zh": "新游戏会覆盖自动存档，是否继续\n（不影响手动存档）",
+  "en": "Starting a new game will overwrite the autosave. Do you want to continue? \n(Does not affect manual saves)",
+  "ru": ""
+ },
+ {
+  "key": "UI/蒸煮",
+  "zh": "蒸煮",
+  "en": "Steam and Boil",
+  "ru": ""
+ },
+ {
+  "key": "UI/搅拌",
+  "zh": "搅拌",
+  "en": "Stir",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/凳子",
+  "zh": "凳子",
+  "en": "Stool",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库",
+  "zh": "仓库",
+  "en": "Storage",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/收纳",
+  "zh": "收纳",
+  "en": "Storage",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/收纳",
+  "zh": "收纳",
+  "en": "Storage",
+  "ru": ""
+ },
+ {
+  "key": "UI/可放入物体类物件",
+  "zh": "收纳家具",
+  "en": "Storage Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库只能在自己家使用",
+  "zh": "仓库只能在自己家使用！",
+  "en": "Storage is only accessible at home.",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/置物架",
+  "zh": "置物架",
+  "en": "Storage Rack",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/架子",
+  "zh": "置物架",
+  "en": "Storage Rack",
+  "ru": ""
+ },
+ {
+  "key": "UI/一键回收",
+  "zh": "一键回收",
+  "en": "Store All",
+  "ru": ""
+ },
+ {
+  "key": "UI/力量",
+  "zh": "力量",
+  "en": "Strength",
+  "ru": ""
+ },
+ {
+  "key": "UI/严查病房违禁品随身携带小梳子梳刘海",
+  "zh": "严查病房违禁品，\n随身携带小梳子梳刘海",
+  "en": "Strictly inspects hospital contraband, always carries a comb to fix bangs",
+  "ru": ""
+ },
+ {
+  "key": "UI/书房",
+  "zh": "书房",
+  "en": "Study / Office",
+  "ru": ""
+ },
+ {
+  "key": "UI/风格",
+  "zh": "风格",
+  "en": "Style",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No17",
+  "zh": "阳光家政",
+  "en": "Sunny Housemaker",
+  "ru": ""
+ },
+ {
+  "key": "UI/确定全部回收仓库",
+  "zh": "确定一键收回仓库?",
+  "en": "Sure to store all?",
+  "ru": ""
+ },
+ {
+  "key": "UI/替换",
+  "zh": "替换",
+  "en": "Switch",
+  "ru": ""
+ },
+ {
+  "key": "UI/切换层级",
+  "zh": "切换层级",
+  "en": "Switch Layer",
+  "ru": ""
+ },
+ {
+  "key": "UI/桌",
+  "zh": "桌",
+  "en": "Table",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/桌子",
+  "zh": "桌子",
+  "en": "Table",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/桌子",
+  "zh": "桌子",
+  "en": "Table",
+  "ru": ""
+ },
+ {
+  "key": "UI/有平面类物件",
+  "zh": "台面家具",
+  "en": "Tabletop Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/餐具",
+  "zh": "餐具",
+  "en": "Tableware",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/餐具",
+  "zh": "餐具",
+  "en": "Tableware",
+  "ru": ""
+ },
+ {
+  "key": "UI/照相",
+  "zh": "照相",
+  "en": "Take Photo",
+  "ru": ""
+ },
+ {
+  "key": "UI/任务",
+  "zh": "任务",
+  "en": "Task",
+  "ru": ""
+ },
+ {
+  "key": "UI/委托酬劳",
+  "zh": "委托酬劳",
+  "en": "Task Reward",
+  "ru": ""
+ },
+ {
+  "key": "UI/任务提示",
+  "zh": "任务提示",
+  "en": "Task Tip",
+  "ru": ""
+ },
+ {
+  "key": "UI/103任务追踪只能在205房间使用",
+  "zh": "任务提示只能在205病房内使用",
+  "en": "Task tips can only be used in Room 205",
+  "ru": ""
+ },
+ {
+  "key": "UI/节制",
+  "zh": "节制",
+  "en": "Temperance",
+  "ru": ""
+ },
+ {
+  "key": "UI/临时工",
+  "zh": "临时工",
+  "en": "Temporary Worker",
+  "ru": ""
+ },
+ {
+  "key": "UI/感谢您使用本房产的户型改装功能可以选择下列已拥有的户型自由切换",
+  "zh": "感谢您使用本房产的户型改装功能，可以选择下列已拥有的户型自由切换",
+  "en": "Thank you for exploring the house remodeling feature. You may switch between any layouts you own below.",
+  "ru": ""
+ },
+ {
+  "key": "UI/感谢游玩",
+  "zh": "感谢游玩！",
+  "en": "Thank You For Playing!",
+  "ru": ""
+ },
+ {
+  "key": "UI/夸张的发型难道生前是tony",
+  "zh": "夸张的发型，\n难道生前是tony？",
+  "en": "That over-the-top hairstyle, was he a hairdresser in life?",
+  "ru": ""
+ },
+ {
+  "key": "UI/战车",
+  "zh": "战车",
+  "en": "The Chariot",
+  "ru": ""
+ },
+ {
+  "key": "UI/恶魔",
+  "zh": "恶魔",
+  "en": "The Devil",
+  "ru": ""
+ },
+ {
+  "key": "UI/皇帝",
+  "zh": "皇帝",
+  "en": "The Emperor",
+  "ru": ""
+ },
+ {
+  "key": "UI/皇后",
+  "zh": "皇后",
+  "en": "The Empress",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No25",
+  "zh": "初始序章",
+  "en": "The First Chapter",
+  "ru": ""
+ },
+ {
+  "key": "UI/最会做饭的钓鱼老哥对食材有至高无上的追求",
+  "zh": "最会做饭的钓鱼老哥，对食材有至高无上的追求",
+  "en": "The fishing guy who cooks like a legend — he has nothing but the highest standards for ingredients",
+  "ru": ""
+ },
+ {
+  "key": "UI/愚者",
+  "zh": "愚者",
+  "en": "The Fool",
+  "ru": ""
+ },
+ {
+  "key": "UI/倒吊人",
+  "zh": "倒吊人",
+  "en": "The Hanged Man",
+  "ru": ""
+ },
+ {
+  "key": "UI/隐者",
+  "zh": "隐者",
+  "en": "The Hermit",
+  "ru": ""
+ },
+ {
+  "key": "UI/教皇",
+  "zh": "教皇",
+  "en": "The Hierophant",
+  "ru": ""
+ },
+ {
+  "key": "UI/女祭司",
+  "zh": "女祭司",
+  "en": "The High Priestess",
+  "ru": ""
+ },
+ {
+  "key": "UI/恋人",
+  "zh": "恋人",
+  "en": "The Lovers",
+  "ru": ""
+ },
+ {
+  "key": "UI/魔术师",
+  "zh": "魔术师",
+  "en": "The Magician",
+  "ru": ""
+ },
+ {
+  "key": "UI/月亮",
+  "zh": "月亮",
+  "en": "The Moon",
+  "ru": ""
+ },
+ {
+  "key": "UI/博物馆数字之谜",
+  "zh": "博物馆数字之谜",
+  "en": "The mystery of the museum's number",
+  "ru": ""
+ },
+ {
+  "key": "UI/星星",
+  "zh": "星星",
+  "en": "The Star",
+  "ru": ""
+ },
+ {
+  "key": "UI/太阳",
+  "zh": "太阳",
+  "en": "The Sun",
+  "ru": ""
+ },
+ {
+  "key": "UI/温柔的邻家姐姐温室里培育着什么",
+  "zh": "温柔的邻家姐姐，\n温室里培育着什么？",
+  "en": "The sweet girl next door, what is she growing in her greenhouse?",
+  "ru": ""
+ },
+ {
+  "key": "UI/塔",
+  "zh": "塔",
+  "en": "The Tower",
+  "ru": ""
+ },
+ {
+  "key": "UI/小镇每天都会有大量垃圾产生",
+  "zh": "小镇每天都会有大量垃圾产生！",
+  "en": "The town produces a lot of waste every day.",
+  "ru": ""
+ },
+ {
+  "key": "UI/小镇包打听日常和大爷大妈搓麻将",
+  "zh": "小镇包打听，\n日常和大爷大妈搓麻将",
+  "en": "The town's gossip master, often playing mahjong with the elderly",
+  "ru": ""
+ },
+ {
+  "key": "UI/373任务没完成提示",
+  "zh": "酒吧这些垃圾需要清理",
+  "en": "The trash in the bar needs to be cleaned up.",
+  "ru": ""
+ },
+ {
+  "key": "UI/44任务没完成提示",
+  "zh": "鱼人家这些垃圾需要清理",
+  "en": "The trash in the Finlord's house needs to be cleaned up.",
+  "ru": ""
+ },
+ {
+  "key": "UI/没钱抽奖",
+  "zh": "钱包空空如也...",
+  "en": "The wallet is empty...",
+  "ru": ""
+ },
+ {
+  "key": "UI/命运之轮",
+  "zh": "命运之轮",
+  "en": "The Wheel of Fortune",
+  "ru": ""
+ },
+ {
+  "key": "UI/世界",
+  "zh": "世界",
+  "en": "The World",
+  "ru": ""
+ },
+ {
+  "key": "UI/还有重要的物品没有放下",
+  "zh": "还有重要的物品没有放下",
+  "en": "There are still important items that haven't been placed",
+  "ru": ""
+ },
+ {
+  "key": "UI/平面切换失败",
+  "zh": "箱子上还有物件",
+  "en": "There are still items on the Box",
+  "ru": ""
+ },
+ {
+  "key": "UI/还有物品没有放下",
+  "zh": "还有物品没有放下",
+  "en": "There are still items that haven't been placed.",
+  "ru": ""
+ },
+ {
+  "key": "UI/58任务没完成提示",
+  "zh": "这些书籍要收到书架",
+  "en": "These books need to be placed on the bookshelf",
+  "ru": ""
+ },
+ {
+  "key": "UI/据说白色在猫界地位低但有白老太撑腰",
+  "zh": "据说白色在猫界地位低，\n但有白老太撑腰...",
+  "en": "They say white cats rank low in the feline world, but with Lady Bai backing her up…",
+  "ru": ""
+ },
+ {
+  "key": "UI/Tip1",
+  "zh": "房间已经收拾完成，去看看别的房间吧",
+  "en": "This room is all tidied up. Let's go check out the other rooms.",
+  "ru": ""
+ },
+ {
+  "key": "UI/重置关卡警告",
+  "zh": "此操作将会失去这个关卡所有的进度！\n包括摆放、任务、已经存储的样板等！\n非卡死谨慎使用！",
+  "en": "This will erase all progress in this room!\nIncluding placements, tasks, and saved templates!\nUse with caution unless the game is frozen!",
+  "ru": ""
+ },
+ {
+  "key": "UI/6103任务没完成提示",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "UI/6203任务没完成提示",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "UI/6303任务没完成提示",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "UI/396任务没完成提示",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No2",
+  "zh": "时间胶囊",
+  "en": "Time Capsule",
+  "ru": ""
+ },
+ {
+  "key": "UI/时空穿越",
+  "zh": "时空穿越",
+  "en": "Time Travel",
+  "ru": ""
+ },
+ {
+  "key": "UI/工作Tips 1.工作内容广泛 旨在帮助客户解决任何问题 2.每日6:00新的委托会被投递到邮箱 注意查看",
+  "zh": "工作Tips\n1.工作内容广泛，旨在帮助客户解决任何问题\n2.每日6:00新的委托会被投递到邮箱，注意查看",
+  "en": "Tips\n1. The job involves a wide range of tasks—your goal is to help clients with anything they need.\n2. New requests will be delivered to your mailbox every day at 6:00 AM. Be sure to check regularly.",
+  "ru": ""
+ },
+ {
+  "key": "UI/工作Tip",
+  "zh": "工作Tips\n1.工作内容广泛，旨在帮助客户解决任何问题\n2.每日早晨6:00新的委托会被投递到邮箱，注意查看",
+  "en": "Tips\n1. The job involves a wide range of tasks—your goal is to help clients with anything they need.\n2. New requests will be delivered to your mailbox every day at 6:00 AM. Be sure to check regularly.",
+  "ru": ""
+ },
+ {
+  "key": "UI/想保留图片设置里可以关闭ui",
+  "zh": "想保留图片设置里可以关闭ui。",
+  "en": "To keep screenshots clean, you can hide the UI in settings.",
+  "ru": ""
+ },
+ {
+  "key": "UI/今天住户",
+  "zh": "今天住户",
+  "en": "Today's Residents",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/马桶",
+  "zh": "马桶",
+  "en": "Toilet",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/工具",
+  "zh": "工具",
+  "en": "Tool",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/工具",
+  "zh": "工具",
+  "en": "Tool",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_2",
+  "zh": "重金求购高明设计",
+  "en": "Top Price for Brilliant Design",
+  "ru": ""
+ },
+ {
+  "key": "UI/小镇公交卡",
+  "zh": "小镇公交卡",
+  "en": "Town Bus Pass",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No18",
+  "zh": "小镇旅途",
+  "en": "Town Journey",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/垃圾桶",
+  "zh": "垃圾桶",
+  "en": "Trash Bin",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/垃圾桶",
+  "zh": "垃圾桶",
+  "en": "Trash Can",
+  "ru": ""
+ },
+ {
+  "key": "UI/抽家具",
+  "zh": "抽家具",
+  "en": "Try Your Luck for Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No6",
+  "zh": "黄昏寄托",
+  "en": "Twilight Comfort",
+  "ru": ""
+ },
+ {
+  "key": "UI/编辑模式下不可用",
+  "zh": "编辑模式下不可用",
+  "en": "Unavailable In Edit Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/撤销",
+  "zh": "撤销",
+  "en": "Undo",
+  "ru": ""
+ },
+ {
+  "key": "UI/解锁新配方",
+  "zh": "解锁新配方",
+  "en": "Unlocked New Recipe",
+  "ru": ""
+ },
+ {
+  "key": "UI/已获得",
+  "zh": "已获得",
+  "en": "Unlocked",
+  "ru": ""
+ },
+ {
+  "key": "UI/往上",
+  "zh": "往上",
+  "en": "Up",
+  "ru": ""
+ },
+ {
+  "key": "UI/上传房间至云端",
+  "zh": "上传房间至云端",
+  "en": "Upload room to cloud.",
+  "ru": ""
+ },
+ {
+  "key": "UI/上传中",
+  "zh": "上传中",
+  "en": "Uploading",
+  "ru": ""
+ },
+ {
+  "key": "UI/RandomTitle_1",
+  "zh": "急需家装方案",
+  "en": "Urgent Need for Renovation Plan",
+  "ru": ""
+ },
+ {
+  "key": "UI/自动售货机",
+  "zh": "自动售货机",
+  "en": "Vending Machine",
+  "ru": ""
+ },
+ {
+  "key": "UI/代金券",
+  "zh": "代金券",
+  "en": "Voucher",
+  "ru": ""
+ },
+ {
+  "key": "UI/兑换券可以在小镇上交换家具哦",
+  "zh": "兑换券可以在小镇上交换家具哦！",
+  "en": "Vouchers can be used to trade for furniture around town.",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/墙上装饰",
+  "zh": "墙上装饰",
+  "en": "Wall Decor",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/墙饰",
+  "zh": "墙饰",
+  "en": "Wall Decor",
+  "ru": ""
+ },
+ {
+  "key": "UI/墙壁装饰物",
+  "zh": "墙壁装饰物",
+  "en": "Wall Decoration",
+  "ru": ""
+ },
+ {
+  "key": "UI/墙饰",
+  "zh": "墙饰",
+  "en": "Wall Decoration",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/壁挂植物",
+  "zh": "壁挂植物",
+  "en": "Wall-Mounted Plant",
+  "ru": ""
+ },
+ {
+  "key": "UI/流浪杂货店",
+  "zh": "流浪杂货店",
+  "en": "Wandering General Store",
+  "ru": ""
+ },
+ {
+  "key": "UI/想要一间放得下标本的工作室",
+  "zh": "想要一间放得下标本的工作室",
+  "en": "Want a studio big enough to hold all my specimens",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库回收模式",
+  "zh": "仓库回收模式",
+  "en": "Warehouse Recycle Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/洗手台",
+  "zh": "洗手台",
+  "en": "Washbasin",
+  "ru": ""
+ },
+ {
+  "key": "UI/100061任务没完成提示",
+  "zh": "注意发光的物体",
+  "en": "Watch for glowing objects.",
+  "ru": ""
+ },
+ {
+  "key": "UI/59任务没完成提示",
+  "zh": "注意发光的物体",
+  "en": "Watch for glowing objects.",
+  "ru": ""
+ },
+ {
+  "key": "UI/60任务没完成提示",
+  "zh": "注意发光的物体",
+  "en": "Watch for glowing objects.",
+  "ru": ""
+ },
+ {
+  "key": "UI/亮起时 左键点击物件放回仓库",
+  "zh": "亮起时，<sprite=\"按键Icon\" index=19><color=#8E7596><b>左键</b></color>点击物件放回<sprite=\"按键Icon\" index=46><color=#8E7596><b>仓库</b></color>",
+  "en": "When it lights up, <sprite=\"按键Icon\" index=19><color=#8E7596><b>Left Click</b></color> the item to return it to the <sprite=\"按键Icon\" index=46><color=#8E7596><b>Storage</b></color>.",
+  "ru": ""
+ },
+ {
+  "key": "UI/你是谁",
+  "zh": "你是谁?",
+  "en": "Who Are You?",
+  "ru": ""
+ },
+ {
+  "key": "UI/你为什么来",
+  "zh": "你为什么来?",
+  "en": "Why did you come?",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/窗户",
+  "zh": "窗户",
+  "en": "Window",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/窗户",
+  "zh": "窗户",
+  "en": "Window",
+  "ru": ""
+ },
+ {
+  "key": "UI/窗口化",
+  "zh": "窗口化",
+  "en": "Windowed",
+  "ru": ""
+ },
+ {
+  "key": "UI/爱思考小宝宝奖得主地下室里研发着什么",
+  "zh": "“爱思考小宝宝”奖得主，\n地下室里研发着什么？",
+  "en": "Winner of the \"Curious Baby Award\", what's being developed in his basement?",
+  "ru": ""
+ },
+ {
+  "key": "UI/45任务没完成提示",
+  "zh": "擦除污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/29任务没完成提示",
+  "zh": "擦除污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/54任务没完成提示",
+  "zh": "擦除污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/55任务没完成提示",
+  "zh": "擦除污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/6104任务没完成提示",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/6204任务没完成提示",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/6304任务没完成提示",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/395任务没完成提示",
+  "zh": "擦除污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/有了这张卡就可以坐公交了",
+  "zh": "有了这张卡就可以坐公交了！",
+  "en": "With this card, you can take the bus!",
+  "ru": ""
+ },
+ {
+  "key": "UI/哇 这是哪个艺术大师的杰作",
+  "zh": "哇，这是哪个艺术大师的杰作？",
+  "en": "Wow, which art master made this masterpiece?",
+  "ru": ""
+ },
+ {
+  "key": "UI/抽1次",
+  "zh": "抽1次",
+  "en": "x1 Draw",
+  "ru": ""
+ },
+ {
+  "key": "UI/抽10次",
+  "zh": "抽10次",
+  "en": "x10 Draw",
+  "ru": ""
+ },
+ {
+  "key": "UI/只能晚上睡觉",
+  "zh": "只能晚上睡觉",
+  "en": "You can only sleep at night.",
+  "ru": ""
+ },
+ {
+  "key": "UI/现在无法离开",
+  "zh": "现在无法离开",
+  "en": "You Can't Leave Right Now.",
+  "ru": ""
+ },
+ {
+  "key": "UI/你的存在是对行业的降维打击",
+  "zh": "你的存在是对行业的降维打击。",
+  "en": "You're basically breaking the industry with your talent!",
+  "ru": ""
+ },
+ {
+  "key": "UI/你简直就是古希腊掌管工作的神",
+  "zh": "你简直就是古希腊掌管工作的神。",
+  "en": "You're basically the Greek god of getting things done.",
+  "ru": ""
+ },
+ {
+  "key": "UI/你天生就是干这个的",
+  "zh": "你天生就是干这个的！",
+  "en": "You're born for this job!",
+  "ru": ""
+ },
+ {
+  "key": "UI/放大",
+  "zh": "放大",
+  "en": "Zoom In",
+  "ru": ""
+ },
+ {
+  "key": "UI/缩小",
+  "zh": "缩小",
+  "en": "Zoom Out",
+  "ru": ""
+ },
+ {
+  "key": "UI/可以加工",
+  "zh": "可以加工啦！",
+  "en": "Ready to cook!",
+  "ru": ""
+ },
+ {
+  "key": "UI/399任务没完成提示",
+  "zh": "摆放家具",
+  "en": "Place the Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/1000398任务没完成提示",
+  "zh": "摆放家具",
+  "en": "Place the Furniture",
+  "ru": ""
+ },
+ {
+  "key": "UI/妖怪庭院的主人似乎和某位故人有着若有若无的联系",
+  "zh": "妖怪庭院的主人，似乎和某位故人有着若有若无的联系",
+  "en": "The owner of this yokai garden seems to share a vague connection with someone from the past",
+  "ru": ""
+ },
+ {
+  "key": "UI/自定义文本",
+  "zh": "自定义文本",
+  "en": "Custom Text",
+  "ru": ""
+ },
+ {
+  "key": "UI/本书只记录了它认可的经典菜式胡乱搭配会变成黑暗料理哦",
+  "zh": "本书只记录了它认可的经典菜式，胡乱搭配会变成黑暗料理哦",
+  "en": "This book only records the classic dishes it recognizes—random combinations will turn into a mess!",
+  "ru": ""
+ },
+ {
+  "key": "UI/呓语小镇",
+  "zh": "呓语小镇",
+  "en": "Whisper Town",
+  "ru": ""
+ },
+ {
+  "key": "UI/套装模式",
+  "zh": "套装模式",
+  "en": "Set Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/中式",
+  "zh": "中式",
+  "en": "Traditional Chinese",
+  "ru": ""
+ },
+ {
+  "key": "UI/兔子",
+  "zh": "兔子",
+  "en": "Bunny",
+  "ru": ""
+ },
+ {
+  "key": "UI/冰川",
+  "zh": "冰川",
+  "en": "Glacier",
+  "ru": ""
+ },
+ {
+  "key": "UI/哥特",
+  "zh": "哥特",
+  "en": "Gothic",
+  "ru": ""
+ },
+ {
+  "key": "UI/日式",
+  "zh": "日式",
+  "en": "Japanese",
+  "ru": ""
+ },
+ {
+  "key": "UI/春节",
+  "zh": "春节",
+  "en": "Spring Festival",
+  "ru": ""
+ },
+ {
+  "key": "UI/甜品",
+  "zh": "甜品",
+  "en": "Dessert",
+  "ru": ""
+ },
+ {
+  "key": "UI/赛博",
+  "zh": "赛博",
+  "en": "Cyber",
+  "ru": ""
+ },
+ {
+  "key": "UI/雪王",
+  "zh": "雪王",
+  "en": "Snow King",
+  "ru": ""
+ },
+ {
+  "key": "UI/齿轮",
+  "zh": "齿轮",
+  "en": "Gear",
+  "ru": ""
+ },
+ {
+  "key": "UI/套装模式说明",
+  "zh": "<color=#B86429><b>套装模式</b></color> ：",
+  "en": "<color=#B86429><b>Set Mode</b></color> ：",
+  "ru": ""
+ },
+ {
+  "key": "UI/按照物品套装属性查找物件",
+  "zh": "按照物品套装属性查找物件",
+  "en": "Search items by set",
+  "ru": ""
+ },
+ {
+  "key": "UI/紧急疑似鬼影现世",
+  "zh": "紧急！疑似鬼影现世",
+  "en": "Emergency! Suspected Ghostly Figure Sighted",
+  "ru": ""
+ },
+ {
+  "key": "UI/检测到未完全清除的异常",
+  "zh": "检测到未完全清除的异常",
+  "en": "Uncleared Abnormality Detected",
+  "ru": ""
+ },
+ {
+  "key": "UI/异常检测达标 区块访问权限已开启",
+  "zh": "异常检测达标，区块访问权限已开启",
+  "en": "Abnormality Check Passed. Block Access Unlocked",
+  "ru": ""
+ },
+ {
+  "key": "UI/无法购买",
+  "zh": "无法购买",
+  "en": "Purchase Unavailable",
+  "ru": ""
+ },
+ {
+  "key": "UI/采购模式",
+  "zh": "采购模式",
+  "en": "Shopping Mode",
+  "ru": ""
+ },
+ {
+  "key": "UI/拉伸方块",
+  "zh": "拉伸方块",
+  "en": "Stretch Block",
+  "ru": ""
+ },
+ {
+  "key": "UI/更改背景",
+  "zh": "更改背景",
+  "en": "Change Background",
+  "ru": ""
+ },
+ {
+  "key": "UI/已解决异常",
+  "zh": "已解决异常",
+  "en": "Resolved Abnormality",
+  "ru": ""
+ },
+ {
+  "key": "UI/异常图鉴",
+  "zh": "异常图鉴",
+  "en": "Abnormal Collection",
+  "ru": ""
+ },
+ {
+  "key": "UI/锁定移动",
+  "zh": "锁定移动",
+  "en": "Lock Movement",
+  "ru": ""
+ },
+ {
+  "key": "UI/解锁移动",
+  "zh": "解锁移动",
+  "en": "Unlock Movement",
+  "ru": ""
+ },
+ {
+  "key": "UI/呼出修改大小功能",
+  "zh": "<sprite=\"按键Icon\" index=20>方块呼出修改大小功能",
+  "en": "<sprite=\"按键Icon\" index=20> Block Size Adjustment",
+  "ru": ""
+ },
+ {
+  "key": "UI/拖拽箭头改变大小",
+  "zh": "拖拽<sprite=\"按键Icon\" index=56>：改变大小",
+  "en": "Drag <sprite=\"按键Icon\" index=56>: Resize",
+  "ru": ""
+ },
+ {
+  "key": "UI/手锁定解锁可否拿起",
+  "zh": "<sprite=\"按键Icon\" index=57>：锁定/解锁可否拿起",
+  "en": "<sprite=\"按键Icon\" index=57>: Lock/Unlock Pick Up",
+  "ru": ""
+ },
+ {
+  "key": "UI/方块",
+  "zh": "方块",
+  "en": "Block",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库回收提示",
+  "zh": "亮起时，拿起物件放回<sprite=\"按键Icon\" index=46><color=#8E7596><b>仓库</b></color>",
+  "en": "When lit, pick up items and return them to <sprite=\"按键Icon\" index=46><color=#8E7596><b>Storage</b></color>",
+  "ru": ""
+ },
+ {
+  "key": "UI/没记录菜谱描述",
+  "zh": "这样的搭配没有被记录成菜谱，只做出了奇怪的东西。",
+  "en": "This combination wasn't recorded in the recipe. You've only produced something weird.",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/墙壁",
+  "zh": "墙壁",
+  "en": "Wall",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/墙壁",
+  "zh": "墙壁",
+  "en": "Wall",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/地块",
+  "zh": "地块",
+  "en": "Tile",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/地块",
+  "zh": "地块",
+  "en": "Tile",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/门",
+  "zh": "门",
+  "en": "Door",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/门",
+  "zh": "门",
+  "en": "Door",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库/楼梯",
+  "zh": "楼梯",
+  "en": "Stairs",
+  "ru": ""
+ },
+ {
+  "key": "UI/仓库2/楼梯",
+  "zh": "楼梯",
+  "en": "Stairs",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否退出房间",
+  "zh": "是否退出房间",
+  "en": "Exit the room?",
+  "ru": ""
+ },
+ {
+  "key": "UI/导入存档",
+  "zh": "导入存档",
+  "en": "Import Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/导出存档",
+  "zh": "导出存档",
+  "en": "Export Save",
+  "ru": ""
+ },
+ {
+  "key": "UI/导入中",
+  "zh": "导入中",
+  "en": "Importing",
+  "ru": ""
+ },
+ {
+  "key": "UI/导出中",
+  "zh": "导出中",
+  "en": "Exporting",
+  "ru": ""
+ },
+ {
+  "key": "UI/导入成功",
+  "zh": "导入成功",
+  "en": "Import Successful",
+  "ru": ""
+ },
+ {
+  "key": "UI/导入失败",
+  "zh": "导入失败",
+  "en": "Import Failed",
+  "ru": ""
+ },
+ {
+  "key": "UI/导出成功",
+  "zh": "导出成功",
+  "en": "Export Successful",
+  "ru": ""
+ },
+ {
+  "key": "UI/导出失败",
+  "zh": "导出失败",
+  "en": "Export Failed",
+  "ru": ""
+ },
+ {
+  "key": "UI/是否删除",
+  "zh": "是否删除",
+  "en": "Delete?",
+  "ru": ""
+ },
+ {
+  "key": "UI/房间预设命名",
+  "zh": "房间预设命名",
+  "en": "Name Room Preset",
+  "ru": ""
+ },
+ {
+  "key": "UI/更改音乐",
+  "zh": "更改音乐",
+  "en": "Change Background Music",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No29",
+  "zh": "竹籁和鸣",
+  "en": "Bamboo Melodies",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No30",
+  "zh": "食刻邀约",
+  "en": "A Tasty Invitation",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No31",
+  "zh": "落雪颂歌",
+  "en": "Snowfall Carol",
+  "ru": ""
+ },
+ {
+  "key": "UI/Music_No32",
+  "zh": "锦簇华年",
+  "en": "Splendid Years",
+  "ru": ""
+ },
+ {
+  "key": "UI/确认切换节日",
+  "zh": "切节日:",
+  "en": "Switch Festival:",
+  "ru": ""
+ },
+ {
+  "key": "UI/取消切换节日",
+  "zh": "移除节日设置",
+  "en": "Remove Festival Settings",
+  "ru": ""
+ },
+ {
+  "key": "UI/雪王节",
+  "zh": "雪王节",
+  "en": "The Snow King Festival",
+  "ru": ""
+ },
+ {
+  "key": "UI/416任务没完成提示",
+  "zh": "物品可放进行李袋，带到下个地方哦",
+  "en": "Items in the duffel bag can be carried to the next location.",
+  "ru": ""
+ },
+ {
+  "key": "UI/418任务没完成提示",
+  "zh": "擦除污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "UI/461任务没完成提示",
+  "zh": "将宝物放在它们的专属展示柜上吧",
+  "en": "Place treasures in their display cases!",
+  "ru": ""
+ },
+ {
+  "key": "UI/立志带着大福走遍呓语小镇",
+  "zh": "立志带着大福走遍呓语小镇！",
+  "en": "Exploring Whisper Town with Mochi!",
+  "ru": ""
+ },
+ {
+  "key": "UI/营地被淹也拦不住他追寻传说中的星星眼",
+  "zh": "营地被淹也拦不住他追寻传说中的“星星眼”",
+  "en": "Floods won't stop his search for Starry Eyes!",
+  "ru": ""
+ },
+ {
+  "key": "UI/环游世界只为寻回散落各地的家族秘宝",
+  "zh": "环游世界，只为寻回散落各地的家族秘宝",
+  "en": "Traveling the world for lost family treasures",
+  "ru": ""
+ },
+ {
+  "key": "UI/第123457套度假别墅选址进行中",
+  "zh": "第123457套度假别墅，选址进行中……",
+  "en": "Finding a spot for vacation villa #123457...",
+  "ru": ""
+ },
+ {
+  "key": "UI/胡乱搭配会变成黑暗料理哦",
+  "zh": "胡乱搭配会变成黑暗料理哦",
+  "en": "Random mixes make dark cuisine!",
+  "ru": ""
+ },
+ {
+  "key": "UI/当前节日",
+  "zh": "当前节日",
+  "en": "Current Festival",
+  "ru": ""
+ },
+ {
+  "key": "UI/普通的小镇",
+  "zh": "普通的小镇",
+  "en": "Everyday Town",
+  "ru": ""
+ },
+ {
+  "key": "UI/夏日小镇",
+  "zh": "夏日小镇",
+  "en": "Summer Town",
+  "ru": ""
+ },
+ {
+  "key": "UI/夏日",
+  "zh": "夏日",
+  "en": "Summer",
+  "ru": ""
+ }
+]

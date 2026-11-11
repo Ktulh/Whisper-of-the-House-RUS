@@ -1,0 +1,590 @@
+[
+ {
+  "key": "BugAchievements/BUG_NAME_1",
+  "zh": "嘎嘎",
+  "en": "Quack Quack",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_1",
+  "zh": "你捏了捏鸭子",
+  "en": "You squeezed the duck",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_2",
+  "zh": "陌生脚印",
+  "en": "Strange Footprints",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_2",
+  "zh": "你在新家发现了顽固的污渍",
+  "en": "You spotted stubborn stains in her new home",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_3",
+  "zh": "藏匿的房间",
+  "en": "Hidden Room",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_3",
+  "zh": "你找到了一个没人来过的地方",
+  "en": "You found a place no one had been before",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_4",
+  "zh": "雪落",
+  "en": "Snowfall",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_4",
+  "zh": "你用魔法降下了一场雪",
+  "en": "You used magic to make it snow",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_5",
+  "zh": "摇滚起来",
+  "en": "Rock On",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_5",
+  "zh": "你弹响了第一声低音",
+  "en": "You struck your first bass note",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_6",
+  "zh": "谁在里面",
+  "en": "Who's Inside",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_6",
+  "zh": "你试图打开紧闭的冰柜",
+  "en": "You tried to open the locked freezer",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_7",
+  "zh": "毛巾猫",
+  "en": "Cat in the Towel",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_7",
+  "zh": "你发现毛巾里长出了一只猫",
+  "en": "You found a cat in a towel",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_8",
+  "zh": "奶香甜筒",
+  "en": "Milky Cone",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_8",
+  "zh": "你制作了清凉又甜蜜的冰激凌",
+  "en": "You made sweet, chilly ice cream",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_9",
+  "zh": "抚摸骷髅",
+  "en": "Pet the Skull",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_9",
+  "zh": "你让骷髅发出了舒适的呜呜声",
+  "en": "You made the skeleton sigh with comfort",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_10",
+  "zh": "无限烘焙",
+  "en": "Infinite Baking",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_10",
+  "zh": "你发现了烤焦面包的秘密",
+  "en": "You discovered the secret of burnt bread",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_11",
+  "zh": "这样晒着舒服",
+  "en": "A Comfy Sunbath",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_11",
+  "zh": "你看见那棵树在阳光里舞蹈",
+  "en": "You watched the tree dancing in the sun",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_12",
+  "zh": "魔法实验成功",
+  "en": "Magic Experiment Success",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_12",
+  "zh": "你让扫把找到了新的姿态",
+  "en": "You helped the broom find a new pose",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_13",
+  "zh": "彩色时空",
+  "en": "Colorful Celebration",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_13",
+  "zh": "你点燃了一场小型派对",
+  "en": "You sparked a little party",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_14",
+  "zh": "救援",
+  "en": "Rescue",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_14",
+  "zh": "你看起来比他更惊讶",
+  "en": "You looked more shocked than him",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_15",
+  "zh": "不在这里",
+  "en": "Somewhere Else",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_15",
+  "zh": "你知道有人正努力维系着与世界的联系",
+  "en": "You knew someone was holding on to the world",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_16",
+  "zh": "超立方体",
+  "en": "Hypercube",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_16",
+  "zh": "你理解不了那几何展开又折叠",
+  "en": "You couldn't grasp the folding geometry",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_17",
+  "zh": "回忆",
+  "en": "The Memory",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_17",
+  "zh": "你打开了旧日的时光胶囊",
+  "en": "You opened an old time capsule",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_18",
+  "zh": "薛定谔的树",
+  "en": "Schrödinger's Tree",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_18",
+  "zh": "你发现一棵又死又活的树",
+  "en": "You found a tree both dead and alive",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_19",
+  "zh": "上车了",
+  "en": "Get on the Bus",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_19",
+  "zh": "你登上公交车，开启一段未知旅程",
+  "en": "You got on the bus and began a journey",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_20",
+  "zh": "还有光源",
+  "en": "There's Light",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_20",
+  "zh": "你看见那盏孤单的灯依旧亮着",
+  "en": "You saw the lonely lamp still shining",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_21",
+  "zh": "阴阳两隔",
+  "en": "Afterlife",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_21",
+  "zh": "你发现了那块介于存在于不存在之间的墓碑",
+  "en": "You uncovered a gravestone caught between being and not",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_22",
+  "zh": "克隆",
+  "en": "Clone",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_22",
+  "zh": "你怀疑时间是否绕了个圈",
+  "en": "You wondered if time had looped",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_23",
+  "zh": "调查的尽头",
+  "en": "Final Clue",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_23",
+  "zh": "你看到了他用报纸拼出的神秘留言",
+  "en": "You spotted his secret note made from newspaper scraps",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_24",
+  "zh": "另一幅画",
+  "en": "Another Painting",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_24",
+  "zh": "你点上香，让画布显现出隐藏的图案",
+  "en": "You lit incense and revealed hidden art",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_25",
+  "zh": "神笔马良",
+  "en": "Magic Brush",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_25",
+  "zh": "你握住笔，随手一挥便是一幅佳作",
+  "en": "You held the brush and made a masterpiece in a stroke",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_26",
+  "zh": "失色",
+  "en": "Faded",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_26",
+  "zh": "你让一个人恢复了色彩",
+  "en": "You restored someone's colors",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_27",
+  "zh": "热心市民",
+  "en": "Good Citizen",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_27",
+  "zh": "你修好了路面",
+  "en": "You fixed the road",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_28",
+  "zh": "空白的呼叫",
+  "en": "Blank Call",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_28",
+  "zh": "你拿起了没有任何号码的电话",
+  "en": "You picked up a phone with no number",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_29",
+  "zh": "彩虹糖",
+  "en": "Rainbow Candy",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_29",
+  "zh": "你淋到了彩色的雨",
+  "en": "You walked through colorful rain",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_30",
+  "zh": "比心",
+  "en": "Heart",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_30",
+  "zh": "你收到了水井里递来的爱心",
+  "en": "You received a heart from the well",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_31",
+  "zh": "暗中监视",
+  "en": "Surveillance",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_31",
+  "zh": "你注意到了长颈鹿的不同寻常",
+  "en": "You noticed something odd about the giraffe",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_32",
+  "zh": "预备建筑工",
+  "en": "Trainee Builder",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_32",
+  "zh": "你面对巨大的塔吊，毫不畏惧",
+  "en": "You stand before the massive crane, fearless.",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_33",
+  "zh": "延续",
+  "en": "Fulfill the Will",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_33",
+  "zh": "你替她做完了那件事",
+  "en": "You finished the task for her",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_34",
+  "zh": "双人床",
+  "en": "Double Bed",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_34",
+  "zh": "你把那块不肯松动的床板拆了下来",
+  "en": "You pried up the stubborn floorboard",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_35",
+  "zh": "异界之花",
+  "en": "Alien Flower",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_35",
+  "zh": "你种出了一朵格外高大的花",
+  "en": "You grew a flower taller than all others",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_36",
+  "zh": "守护童心",
+  "en": "Keep the Child's Heart",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_36",
+  "zh": "你找到了小时候梦里的那盏灯",
+  "en": "You found the lamp from your childhood dream",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_37",
+  "zh": "胡乱涂抹",
+  "en": "Random Doodle",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_37",
+  "zh": "你在涂鸦本上乱涂乱画",
+  "en": "You scribbled wildly in the doodle book",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_38",
+  "zh": "物尽其用",
+  "en": "Nothing Wasted",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_38",
+  "zh": "你用旧木板拼了一个新架子",
+  "en": "You built a new shelf from old planks",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_39",
+  "zh": "一锤定音",
+  "en": "Hammer",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_39",
+  "zh": "你挥下的锤子正好砸中了冒头的地鼠",
+  "en": "You swung the hammer and nailed the mole",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_40",
+  "zh": "凌晨四点",
+  "en": "4 A.M.",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_40",
+  "zh": "你看见了凌晨四点的篮球",
+  "en": "You spotted a basketball at 4 a.m.",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_41",
+  "zh": "猫帮",
+  "en": "Cat Gang",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_41",
+  "zh": "你发现没有人能抵抗喵喵",
+  "en": "You learned no one can resist a meow",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_42",
+  "zh": "乾坤",
+  "en": "Qiankun",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_42",
+  "zh": "你遇见了一个道士",
+  "en": "You met a Taoist priest",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_43",
+  "zh": "冰镇饮料",
+  "en": "Iced Beverage",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_43",
+  "zh": "你发现了第一台能真正打开的冰箱",
+  "en": "You discovered the first fridge that can be opened",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_44",
+  "zh": "公园奇妙夜",
+  "en": "Park Wonders",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_44",
+  "zh": "你发现雕塑偷偷动了一下",
+  "en": "You saw the statue sneak a move",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_45",
+  "zh": "绣球",
+  "en": "Stone Ball of the Lion",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_45",
+  "zh": "你发现了一尊打盹的石狮子",
+  "en": "You spotted a dozing stone lion",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_46",
+  "zh": "灯塔",
+  "en": "Lighthouse",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_46",
+  "zh": "你点亮了灯塔，迷途的船找到了方向",
+  "en": "You lit the lighthouse, and lost ships found their way",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_47",
+  "zh": "启航",
+  "en": "Set Sail",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_47",
+  "zh": "你派了一艘船，出去寻找新的故事",
+  "en": "You sent a ship to chase new stories",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_48",
+  "zh": "小巷回声",
+  "en": "The Alley",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_48",
+  "zh": "你找到了一条真的很窄的巷子",
+  "en": "You found a really narrow alley",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_NAME_49",
+  "zh": "预备消防员",
+  "en": "Backup Firefighter",
+  "ru": ""
+ },
+ {
+  "key": "BugAchievements/BUG_DESC_49",
+  "zh": "你顺手修好了消防栓",
+  "en": "You fixed the fire hydrant on the way",
+  "ru": ""
+ }
+]

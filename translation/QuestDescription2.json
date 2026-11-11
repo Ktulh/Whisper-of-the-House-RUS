@@ -1,0 +1,1664 @@
+[
+ {
+  "key": "QuestDescription2/11",
+  "zh": "搬入新家",
+  "en": "Move into the new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/12",
+  "zh": "搬入新家吧！",
+  "en": "Let's move into the new home!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/13",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/14",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/15",
+  "zh": "厨房",
+  "en": "Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/21",
+  "zh": "帮助露娜搬入新家",
+  "en": "Help Luna move into her new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/22",
+  "zh": "帮助露娜搬入新家",
+  "en": "Help Luna move into her new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/23",
+  "zh": "拿出物品填充房间吧！",
+  "en": "Take out items to fill the room!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/24",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/25",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/26",
+  "zh": "走廊",
+  "en": "Hallway",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/27",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/28",
+  "zh": "清洁洗手间",
+  "en": "Clean the restroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/29",
+  "zh": "把洗手间的脚印擦干净",
+  "en": "Wipe the footprints in the restroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/31",
+  "zh": "前往“璀璨星辰”打扫残局",
+  "en": "Go to \"Brilliant Stars\" to Clean Up the Mess",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/32",
+  "zh": "前往“璀璨星辰”打扫残局",
+  "en": "Go to \"Brilliant Stars\" to Clean Up the Mess",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/33",
+  "zh": "从小车拿出并安装监控",
+  "en": "Take the Surveillance Equipment from the Cart and Install It",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/34",
+  "zh": "拿出地下库房的珠宝并重新摆放",
+  "en": "Take Out the Jewelry from the Basement Storage and Rearrange It",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/35",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/36",
+  "zh": "整理混乱的大厅并重新布置",
+  "en": "Organize the Messy Lobby and Redecorate",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/37",
+  "zh": "为新员工改造地下库房",
+  "en": "Renovate the Basement Storage for the New Employee",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/38",
+  "zh": "修理马桶漏水",
+  "en": "Fix the Leaking Toilet",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/39",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/40",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/41",
+  "zh": "帮鱼霸打扫卫生",
+  "en": "Help Finlord with the Cleaning",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/42",
+  "zh": "帮鱼霸大扫除",
+  "en": "Help Finlord with a Deep Clean",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/43",
+  "zh": "归林之鸟：童年小屋大扫除！",
+  "en": "Bird Back to the Woods: Childhood Cabin Cleanup!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/44",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/45",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/46",
+  "zh": "清理水渍",
+  "en": "Clean Water Marks",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/49",
+  "zh": "修理橱柜",
+  "en": "Repair Cabinet",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/100057",
+  "zh": "修理置物架",
+  "en": "Repair Shelf",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/51",
+  "zh": "帮助雪丽尔整理炼金工坊",
+  "en": "Help Cheryl Organize The Alchemy Workshop",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/52",
+  "zh": "帮助雪丽尔整理炼金工坊",
+  "en": "Help Cheryl Organize The Alchemy Workshop",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/53",
+  "zh": "封存过去的梦",
+  "en": "Seal Away Dreams of the Past",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/54",
+  "zh": "擦除洒落的药水",
+  "en": "Erase the spilled potion",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/55",
+  "zh": "清理打翻的玻璃试剂瓶",
+  "en": "Clean up spilled glass reagent bottles",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/56",
+  "zh": "擦净家具的灰尘",
+  "en": "Wipe Dust Off Furniture",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/57",
+  "zh": "布置二楼工作间",
+  "en": "Decorate the Second-Floor Workroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/58",
+  "zh": "将装订的书籍收到客厅右侧的书架内",
+  "en": "Place Books of Suitable Size on the Bookshelf on the Right Side of the Living Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/59",
+  "zh": "将玻璃瓶、矿石和水晶球整理到左侧壁橱内",
+  "en": "Store the Glass Bottles, Ores, and Crystal Balls in the Left Wall Cabinet",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/60",
+  "zh": "将贴有标签的药剂收纳到右侧壁橱内",
+  "en": "Store the Labeled Potions in the Right Wall Cabinet",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/62",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away the Trash",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/63",
+  "zh": "收拾晓天菜和凌魂华首的物品",
+  "en": "Pack Xiaotiancai and Linghun Huashou's items",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/71",
+  "zh": "帮助晓天菜和凌魂华首搬入新家",
+  "en": "Help Xiaotiancai and Linghun Huashou move into their new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/72",
+  "zh": "帮助晓天菜和凌魂华首搬入新家",
+  "en": "Help Xiaotiancai and Linghun Huashou move into their new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/73",
+  "zh": "将家具搬入客厅",
+  "en": "Move Furniture into the Living Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/74",
+  "zh": "将家具搬入洗手间",
+  "en": "Move Furniture into the Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/75",
+  "zh": "将家具搬入晓天菜的卧室",
+  "en": "Move Furniture into Xiaotiancai's Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/76",
+  "zh": "将家具搬入凌魂华首的卧室",
+  "en": "Move Furniture into Linghun Huashou's Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/77",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/78",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/79",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/80",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/81",
+  "zh": "帮三木布置家具店",
+  "en": "Help Miki set up the furniture store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/82",
+  "zh": "帮三木布置家具店",
+  "en": "Help Miki set up the furniture store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/83",
+  "zh": "清理旧家具",
+  "en": "Clean Up the Old Furniture",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/84",
+  "zh": "重新布置大厅",
+  "en": "Redecorate the Hall",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/85",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/86",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/87",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/88",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/89",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/90",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/91",
+  "zh": "帮助埃尔茨布置博物馆",
+  "en": "Help Elts set up the museum",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/92",
+  "zh": "帮助埃尔茨布置博物馆",
+  "en": "Help Elts set up the museum",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/93",
+  "zh": "为大厅放置合适的藏品",
+  "en": "Place Proper Exhibits in the Lobby",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/94",
+  "zh": "为化石馆放置合适的藏品",
+  "en": "Place Proper Exhibits in the Fossil Hall",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/95",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/96",
+  "zh": "“星河寻迹”活动",
+  "en": "Stellar Trail Hunt Event",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/97",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/98",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/99",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/100",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/101",
+  "zh": "前往205号病房【打包】白老太遗物",
+  "en": "Go to Ward 205 to pack Granny Bai's belongings",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/102",
+  "zh": "归档！遗物处理",
+  "en": "Archive! Handle The Belongings",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/103",
+  "zh": "把病房内可拿走的物品处理完毕",
+  "en": "Remove All Takeable Items From The Ward",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/104",
+  "zh": "重要物件！",
+  "en": "Important Item!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/105",
+  "zh": "关窗！",
+  "en": "Close The Window!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/106",
+  "zh": "帮助病人关窗",
+  "en": "Help The Patient Close The Window",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/107",
+  "zh": "机密文件",
+  "en": "Confidential Document",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/109",
+  "zh": "墨镜",
+  "en": "Sunglasses",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/110",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/120",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/121",
+  "zh": "帮助小鱼搬进海边小屋",
+  "en": "Help Fishie move into the seaside cabin",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/122",
+  "zh": "归林之鸟：欢迎回家！",
+  "en": "Bird of the Woods: Welcome Home!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/123",
+  "zh": "帮助小鱼搬进海边小屋",
+  "en": "Help Fishie move into the seaside cabin",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/124",
+  "zh": "布置实验室",
+  "en": "Set up the laboratory",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/125",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/126",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/127",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/128",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/129",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/130",
+  "zh": "替鱼霸将二楼办公室的东西摆回原位",
+  "en": "Put Things Back in Place in the Second-Floor Office for Finlord",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/131",
+  "zh": "布置二楼办公室",
+  "en": "Decorate the Second-Floor Office",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/132",
+  "zh": "神秘的博物馆",
+  "en": "The Mysterious Museum",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/133",
+  "zh": "探索博物馆的秘密",
+  "en": "Uncover the Secrets of the Museum",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/140",
+  "zh": "放置能量指示球",
+  "en": "Place the energy indicator sphere",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/141",
+  "zh": "放置能量指示球",
+  "en": "Place the energy indicator sphere",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/161",
+  "zh": "回到过去？回！到！未！来！",
+  "en": "Go Back to the Past? TO THE FUTURE!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/162",
+  "zh": "尝试使用传送门",
+  "en": "Try the Portal",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/163",
+  "zh": "尝试使用传送门",
+  "en": "Try the Portal",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/171",
+  "zh": "帮个忙",
+  "en": "Give me a hand",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/172",
+  "zh": "帮个忙",
+  "en": "Give me a hand",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/173",
+  "zh": "大智似乎想让你过去",
+  "en": "Sage seems to want you to come over",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/175",
+  "zh": "邀请",
+  "en": "Invite",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/176",
+  "zh": "邀请",
+  "en": "Invite",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/191",
+  "zh": "帮助阿加莎搬入新家",
+  "en": "Help Agatha move into her new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/192",
+  "zh": "帮助阿加莎搬入新家",
+  "en": "Help Agatha move into her new home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/193",
+  "zh": "布置新家",
+  "en": "Set Up the New Home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/201",
+  "zh": "为戈登布置餐馆。",
+  "en": "Set up the restaurant for Gordon",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/202",
+  "zh": "为戈登布置餐馆。",
+  "en": "Set up the restaurant for Gordon",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/203",
+  "zh": "布置餐馆大厅。",
+  "en": "Decorate the Restaurant Lobby",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/204",
+  "zh": "布置餐馆厨房。",
+  "en": "Decorate the Restaurant Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/211",
+  "zh": "帮卢恩布置灵烛节",
+  "en": "Help Lewen set up the Festival of Spirits",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/213",
+  "zh": "墓地焕新工程",
+  "en": "Graveyard Renewal Project",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/214",
+  "zh": "除掉地面的杂草",
+  "en": "Remove Wild Grass from the Ground",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/215",
+  "zh": "这就是节日氛围！",
+  "en": "This Is the Holiday Spirit!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/216",
+  "zh": "拿出装饰物布置墓地",
+  "en": "Take Out Decorations and Arrange the Graveyard",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/217",
+  "zh": "按照要求摆放祭祀桌和供品",
+  "en": "Place the Offering Table and Items as Required",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/218",
+  "zh": "再见一面吧，故人！",
+  "en": "One Last Goodbye, Old Friend!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/219",
+  "zh": "让六个墓碑里的亡魂出现",
+  "en": "Summon the Spirits from the Six Tombstones",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/221",
+  "zh": "帮马文布置便利店",
+  "en": "Help Marvin set up the convenience store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/222",
+  "zh": "便利店开业",
+  "en": "Convenience Store Opens",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/223",
+  "zh": "把商品摆满货架",
+  "en": "Fill the shelves with goods",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/231",
+  "zh": "帮熊本布置手办屋",
+  "en": "Help Kumamoto set up the figurine room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/232",
+  "zh": "布置手办屋",
+  "en": "Decorate the Figurine Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/233",
+  "zh": "帮熊本布置手办屋",
+  "en": "Help Kumamoto set up the figurine room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/251",
+  "zh": "帮助爱机斯坦完成愿望",
+  "en": "Help EinSmart with His Wish",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/252",
+  "zh": "帮助爱机斯坦完成愿望",
+  "en": "Help EinSmart with His Wish",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/253",
+  "zh": "寻找通往其他房间的入口",
+  "en": "Find the Entrance to Another Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/254",
+  "zh": "和房间中心的门互动",
+  "en": "Interact with the door in the center of the room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/255",
+  "zh": "找到可以种树的位置，并种下树苗",
+  "en": "Find a place to plant the tree",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/256",
+  "zh": "整理散落一地的物品，让爷爷无障碍地行走",
+  "en": "Organize the scattered items so Grandpa can walk around safely",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/257",
+  "zh": "找到爱机斯坦",
+  "en": "Find EinSmart",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/258",
+  "zh": "时空穿越！去往过去的家",
+  "en": "Time travel! Return to your home in the past",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/259",
+  "zh": "帮助老人家继续搬家吧！",
+  "en": "Help Grandpa continue moving",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/261",
+  "zh": "帮露娜的闺蜜搬入新家",
+  "en": "Help Luna's Bestie Move In",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/262",
+  "zh": "帮露娜的闺蜜搬入新家",
+  "en": "Help Luna's Bestie Move In",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/263",
+  "zh": "开启新生活",
+  "en": "Start a New Life",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/264",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/265",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/270",
+  "zh": "塔顶的秘密",
+  "en": "The Secret at the Top of the Tower",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/271",
+  "zh": "找到钥匙前往上层",
+  "en": "Find the key to reach the upper floor",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/272",
+  "zh": "找到钥匙前往上层",
+  "en": "Find the key to reach the upper floor",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/273",
+  "zh": "找到钥匙前往上层",
+  "en": "Find the key to reach the upper floor",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/274",
+  "zh": "发现塔顶的秘密",
+  "en": "Uncover the secret at the top of the tower",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/311",
+  "zh": "帮安娜布置花店",
+  "en": "Help Anna set up the flower shop",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/312",
+  "zh": "帮安娜布置花店",
+  "en": "Help Anna set up the flower shop",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/313",
+  "zh": "计划中的植物店！",
+  "en": "The Flower Shop in Progress!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/314",
+  "zh": "将物体摆在指定位置",
+  "en": "Place the items in the designated spots",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/315",
+  "zh": "美丽的植物",
+  "en": "Beautiful plants",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/316",
+  "zh": "自由地装点这个植物店吧！",
+  "en": "Decorate the flower shop freely!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/331",
+  "zh": "帮马文布置便利店",
+  "en": "Help Marwin set up the convenience store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/332",
+  "zh": "帮马文布置便利店",
+  "en": "Help Marwin set up the convenience store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/333",
+  "zh": "便利店扩张计划！",
+  "en": "Convenience Store Expansion Plan!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/334",
+  "zh": "把商品摆满货架",
+  "en": "Fill the shelves with goods",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/341",
+  "zh": "帮简布置乐器店",
+  "en": "Help Jane set up the instrument store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/342",
+  "zh": "帮简布置乐器店",
+  "en": "Help Jane set up the instrument store",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/343",
+  "zh": "开店首秀！",
+  "en": "Grand Opening Performance!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/344",
+  "zh": "将物品摆在指定位置",
+  "en": "Place the items in the designated spots",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/361",
+  "zh": "找到躲藏的小猫",
+  "en": "Find the hiding kitten",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/362",
+  "zh": "淘气的小猫",
+  "en": "Mischievous kitten",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/363",
+  "zh": "找到躲藏的小猫",
+  "en": "Find the hiding kitten",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/371",
+  "zh": "帮简的朋友布置酒吧",
+  "en": "Help Jane's friend set up her bar",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/372",
+  "zh": "装修前的准备",
+  "en": "Preparation before renovation",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/373",
+  "zh": "清理房间的垃圾",
+  "en": "Clean the trash in the room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/374",
+  "zh": "在律动中微醺",
+  "en": "Lightly drunk in the rhythm",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/375",
+  "zh": "酒吧大厅",
+  "en": "Bar lobby",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/382",
+  "zh": "帮助租客入住",
+  "en": "Help the New Residents Move In",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/383",
+  "zh": "雪女的连环加餐请求",
+  "en": "Cold and Refreshing - Fun!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/384",
+  "zh": "三缺一？",
+  "en": "Lanterns: One Missing",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/385",
+  "zh": "面具碎片大搜查",
+  "en": "Mask Fragment Hunt",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/386",
+  "zh": "谁老爱把荷叶帽顺走？",
+  "en": "Who Keeps Stealing the Lotus Leaf Hat?",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/387",
+  "zh": "雪花屏快递员饿了！",
+  "en": "The Snowy-Static Courier Is Hungry!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/388",
+  "zh": "打盹的箱子",
+  "en": "A Dozing Chest",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/389",
+  "zh": "小小天气管家",
+  "en": "Little Weather Keeper",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000390",
+  "zh": "三味线要先弹给谁听？",
+  "en": "Who Should Hear the Shamisen First?",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000391",
+  "zh": "尾巴？眼睛？耳朵？",
+  "en": "Tail? Eyes? Ears?",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000392",
+  "zh": "电饭锅里不是饭的味道",
+  "en": "That's Not the Smell of Rice Inside",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000393",
+  "zh": "【可选】庭院探索",
+  "en": "(Optional) Garden Exploration",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000394",
+  "zh": "耙沙大师",
+  "en": "Raking Master",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000395",
+  "zh": "童年的玩具",
+  "en": "Toy of Childhood",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000396",
+  "zh": "木偶一家",
+  "en": "The Puppet Family",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000398",
+  "zh": "布置新家",
+  "en": "Set Up the New Home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1042",
+  "zh": "公司的测试",
+  "en": "Company's Test",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1043",
+  "zh": "发挥主观能动性布置样板间",
+  "en": "Use Your Creativity to Arrange the Showroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/100009",
+  "zh": "合照",
+  "en": "A Photo Together",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/100061",
+  "zh": "将玻璃罐植物收纳到窗边的壁橱内",
+  "en": "Store Glass Jar Plants in the Wall Cabinet by the Window",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/100062",
+  "zh": "扫除阴霾",
+  "en": "Clear the gloom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000230",
+  "zh": "突然出现的黑暗密室！",
+  "en": "A Suddenly Appearing Dark Secret Room!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000231",
+  "zh": "想办法照亮房间",
+  "en": "Find a Way to Light Up the Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000260",
+  "zh": "种树！种树！",
+  "en": "Plant! Plant!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000261",
+  "zh": "回到现在，去找爱机斯坦",
+  "en": "Return to the present and find EinSmart",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000262",
+  "zh": "使用爱机斯坦给的按钮",
+  "en": "Use the button EinSmart gave you",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000120",
+  "zh": "待客之道",
+  "en": "The Way of Hospitality",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000121",
+  "zh": "为即将到来的客人倒好茶水",
+  "en": "Pour tea for the incoming guests",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000122",
+  "zh": "把水果放进果盘",
+  "en": "Place the fruits into the fruit bowl",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000123",
+  "zh": "来自世界各地的宝藏",
+  "en": "Treasures from Around the World",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000124",
+  "zh": "把新收到的古玩放进博古架",
+  "en": "Place the newly received antiques onto the display shelf",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/111",
+  "zh": "帮助大智布置报社",
+  "en": "Help Sage set up the newsroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/112",
+  "zh": "帮助大智布置报社",
+  "en": "Help Sage set up the newsroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/113",
+  "zh": "帮助大智布置报社",
+  "en": "Help Sage set up the newsroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/114",
+  "zh": "把旧报纸收到打开的纸箱里",
+  "en": "Put the old newspapers into the open cardboard box",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/115",
+  "zh": "报社清扫大作战！",
+  "en": "Newspaper Office Cleanup Mission!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/116",
+  "zh": "丢掉屋里的废纸团",
+  "en": "Throw away the crumpled paper on the floor",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/117",
+  "zh": "清扫地上的污渍",
+  "en": "Clean up the stains on the floor",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/118",
+  "zh": "一尘不染的麻将桌",
+  "en": "Spotless Mahjong Table",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/119",
+  "zh": "清除麻将桌上的污渍",
+  "en": "Wipe the stains off the Mahjong table",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/224",
+  "zh": "把商品摆满货架",
+  "en": "Fill the shelves with goods",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/351",
+  "zh": "帮助雪丽尔搬入店铺",
+  "en": "Help Cheryl move into the shop",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/352",
+  "zh": "帮助雪丽尔搬入店铺",
+  "en": "Help Cheryl move into the shop",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/353",
+  "zh": "做面包的日常很美好！",
+  "en": "Sweet Days of Baking!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/354",
+  "zh": "烘焙间",
+  "en": "Bakery Room",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/355",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/356",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/392",
+  "zh": "万事俱备，只欠美食",
+  "en": "Everything's Ready, Just Missing the Feast",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/393",
+  "zh": "把厨具放置在合适的地方",
+  "en": "Place the Kitchenware in the Right Spot",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/394",
+  "zh": "清洁小馆",
+  "en": "Clean the Restaurant",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/395",
+  "zh": "清理地面和桌面的脏迹",
+  "en": "Clean Stains on Floors and Tables",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/396",
+  "zh": "清理房间的垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/397",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/398",
+  "zh": "宾至如归",
+  "en": "Feel Right at Home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/399",
+  "zh": "将家具摆在指定位置",
+  "en": "Place the Furniture in the Designated Area",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000400",
+  "zh": "让大厅变得豪华起来",
+  "en": "Make the Restaurant Look Luxurious",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000401",
+  "zh": "帮戈登照顾第一桌客人",
+  "en": "Help Gordon Take Care of the First Guest",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000402",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000403",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000405",
+  "zh": "好味小馆的上帝们",
+  "en": "The Gods of Tasty Diner",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000406",
+  "zh": "帮戈登照顾第二桌客人",
+  "en": "Help Gordon Take Care of the Second Guest",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000407",
+  "zh": "",
+  "en": "",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000408",
+  "zh": "帮助忙碌的戈登照顾客人",
+  "en": "Help the Busy Gordon Take Care of Guests",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6102",
+  "zh": "房间大扫除",
+  "en": "Deep Room Cleaning",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6103",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6104",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6105",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6106",
+  "zh": "清理野生植物",
+  "en": "Clear Wild Plants",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6107",
+  "zh": "清理蜘蛛网",
+  "en": "Remove Spider Webs",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6202",
+  "zh": "房间大扫除",
+  "en": "Deep Room Cleaning",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6203",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6204",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6205",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6206",
+  "zh": "清理蜘蛛网",
+  "en": "Remove Spider Webs",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6302",
+  "zh": "房间大扫除",
+  "en": "Deep Room Cleaning",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6303",
+  "zh": "丢弃垃圾",
+  "en": "Throw Away Trash",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6304",
+  "zh": "擦净污渍",
+  "en": "Wipe Off Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6305",
+  "zh": "清理地面脏迹",
+  "en": "Clean Floor Stains",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6306",
+  "zh": "清理野生植物",
+  "en": "Clear Wild Plants",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/6307",
+  "zh": "清理蜘蛛网",
+  "en": "Remove Spider Webs",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/413",
+  "zh": "抢救物品",
+  "en": "Salvage Items!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/414",
+  "zh": "捞起被水淹掉的物品",
+  "en": "Grab Those Waterlogged Items",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/415",
+  "zh": "营地搬迁",
+  "en": "Time to Move Camp",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/416",
+  "zh": "将捞起的物品搬入新营地",
+  "en": "Haul the Salvaged Loot to the New Camp",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/417",
+  "zh": "焕然一新",
+  "en": "Looking Fresh!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/418",
+  "zh": "清理脏污的物品",
+  "en": "Scrub Those Dirty Items Clean",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/419",
+  "zh": "鱼儿的新家",
+  "en": "A Brand New Home for the Fish",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/1000420",
+  "zh": "把鱼箱里的鱼放进鱼缸",
+  "en": "Move the Fish from the Bucket to the Tank",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/422",
+  "zh": "帮助雅琳搬入新家",
+  "en": "Help A-Rin Move In",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/423",
+  "zh": "帮助雅琳搬入新家",
+  "en": "Help A-Rin Move In",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/425",
+  "zh": "安置大福",
+  "en": "Settle Mochi In",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/426",
+  "zh": "放置柯尔鸭，鸭窝，宠物玩具和自动喂食机",
+  "en": "Set Up the Duck, Nest, Toys, and Feeder",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/427",
+  "zh": "布置挂板",
+  "en": "Deck Out the Pegboard",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/428",
+  "zh": "拍立得和明信片",
+  "en": "Instax Pics and Postcards",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/429",
+  "zh": "把剩下的胶卷洗出来",
+  "en": "Develop the Rest of the Film",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/433",
+  "zh": "衣锦还乡",
+  "en": "Homeward Bound!",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/434",
+  "zh": "将马克库存中的物品搬入新家",
+  "en": "Move Mark's Storage Into the New Home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/435",
+  "zh": "将行李箱中的物品搬入新家",
+  "en": "Unpack the Suitcase Into the New Home",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/436",
+  "zh": "特别展示",
+  "en": "The Grand Display",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/437",
+  "zh": "将雷茜的藏品摆在展柜上",
+  "en": "Showcase Captain Lacy's Collection",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/438",
+  "zh": "封箱仪式",
+  "en": "The Grand Boxing Ceremony",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/439",
+  "zh": "将行李箱清空之后铺上桌布",
+  "en": "Empty the Suitcase and Spread the Tablecloth",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/460",
+  "zh": "传家宝藏",
+  "en": "Heirloom Treasure Hunt",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/461",
+  "zh": "将藏宝库的宝贝放在正确位置",
+  "en": "Put the Treasury Loot in the Right Spot",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/442",
+  "zh": "富豪入住",
+  "en": "Rich Guest Arrives",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/443",
+  "zh": "帮小玛尼搬家",
+  "en": "Help Mani Jr. Move",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/444",
+  "zh": "烧烤派对",
+  "en": "BBQ Party",
+  "ru": ""
+ },
+ {
+  "key": "QuestDescription2/445",
+  "zh": "用派对用具箱里的物品装饰现场",
+  "en": "Decorate with party box items",
+  "ru": ""
+ }
+]

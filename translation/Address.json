@@ -1,0 +1,1100 @@
+[
+ {
+  "key": "Address/L_Hospital_Room203",
+  "zh": "203",
+  "en": "203",
+  "ru": "203"
+ },
+ {
+  "key": "Address/L_Hospital_Room204",
+  "zh": "204",
+  "en": "204",
+  "ru": "204"
+ },
+ {
+  "key": "Address/L_Hospital_Room205",
+  "zh": "205",
+  "en": "205",
+  "ru": "205"
+ },
+ {
+  "key": "Address/唐人街110号",
+  "zh": "唐人街110号",
+  "en": "110 Chinatown",
+  "ru": ""
+ },
+ {
+  "key": "Address/呓语小区16号",
+  "zh": "呓语小区16号",
+  "en": "16 Whisper Court",
+  "ru": ""
+ },
+ {
+  "key": "Address/金荣小区1F7B房",
+  "zh": "金荣小区1F7B房",
+  "en": "1F7B Victory Square",
+  "ru": ""
+ },
+ {
+  "key": "Address/科学小区21号",
+  "zh": "科学小区21号",
+  "en": "21 Science Square",
+  "ru": ""
+ },
+ {
+  "key": "Address/呓语西街42号",
+  "zh": "呓语西街42号",
+  "en": "42 West Whisper Lane",
+  "ru": ""
+ },
+ {
+  "key": "Address/青年公寓601号",
+  "zh": "青年公寓601号",
+  "en": "601 Youth Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/呓语路616号",
+  "zh": "呓语路616号",
+  "en": "616 Whisper Lane",
+  "ru": ""
+ },
+ {
+  "key": "Address/炼金工坊",
+  "zh": "炼金工坊",
+  "en": "Alchemy Lab",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_Hall2",
+  "zh": "纪元石碑厅",
+  "en": "Epoch Stone Hall",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse2_Balcony",
+  "zh": "阳台",
+  "en": "Balcony",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Bar_Room",
+  "zh": "陨石酒吧",
+  "en": "Meteor Bar",
+  "ru": ""
+ },
+ {
+  "key": "Address/MyBasement",
+  "zh": "地下室",
+  "en": "Basement",
+  "ru": ""
+ },
+ {
+  "key": "Address/MyToilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/Bathroom",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHome_Toilet2",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHomeEnding2_Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Reporter_Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Hospital_Room203Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Hospital_Room204Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Hospital_Room205Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/Alchemist_Bathroom",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/mineral_jewelShop_wc",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse2_Toilet",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_XueLier'sHome_Bathroom",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse3_BathRoom",
+  "zh": "洗手间",
+  "en": "Bathroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/海边小屋",
+  "zh": "海边小屋",
+  "en": "Seaside Cabin",
+  "ru": ""
+ },
+ {
+  "key": "Address/BedRoom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHome_BedRoom2",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHomeEnding2_BedRoom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Reporter_Bedroom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse2_BedRoom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Novelist_BedRoom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_XueLier'sHome_Bedroom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse3_BedRoom",
+  "zh": "卧室",
+  "en": "Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/好时光电器",
+  "zh": "好时光电器",
+  "en": "BestTime Appliances",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_Reliquiae",
+  "zh": "生物副展厅",
+  "en": "Biology Side Gallery",
+  "ru": ""
+ },
+ {
+  "key": "Address/Shirkerroom",
+  "zh": "奶茶的卧室",
+  "en": "Boba's Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/ 璀璨星辰 珠宝店",
+  "zh": "“璀璨星辰”珠宝店",
+  "en": "Brilliant Stars Jewelry Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/公交站",
+  "zh": "公交站",
+  "en": "Bus Stop",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_2floor_Major",
+  "zh": "船长室",
+  "en": "Captain's Quarters",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_2floor_Power",
+  "zh": "中央控制室",
+  "en": "Central Control Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/蛋糕店",
+  "zh": "雪丽尔的面包房",
+  "en": "Cheryl's Bakery",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse3_MovieRoom",
+  "zh": "影音室",
+  "en": "Home Theater",
+  "ru": ""
+ },
+ {
+  "key": "Address/store",
+  "zh": "8号便利店",
+  "en": "No. 8 Convenience Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/MyhouseWhole",
+  "zh": "奶油公寓",
+  "en": "Cream Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/双层公寓",
+  "zh": "双层公寓",
+  "en": "Duplex Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/东郊墓地",
+  "zh": "东郊墓地",
+  "en": "East Suburb Graveyard",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_ExampleHouse",
+  "zh": "样板间",
+  "en": "Showroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_ExampleHouse_Room",
+  "zh": "样板间",
+  "en": "Showroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/引导房",
+  "zh": "样板间",
+  "en": "Showroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/Exm Room",
+  "zh": "Exm 住所",
+  "en": "Exm Residence",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_EndingRoom",
+  "zh": "创世终端",
+  "en": "Genesis Terminal",
+  "ru": ""
+ },
+ {
+  "key": "Address/鱼霸的海边小屋",
+  "zh": "海边小屋",
+  "en": "Seaside Cabin",
+  "ru": ""
+ },
+ {
+  "key": "Address/fishman_house_LivingRoom",
+  "zh": "海边小屋",
+  "en": "Seaside Cabin",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_FlowerStore_Garden",
+  "zh": "花圃",
+  "en": "Flower Garden",
+  "ru": ""
+ },
+ {
+  "key": "Address/花店",
+  "zh": "花店",
+  "en": "Flower Shop",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_FlowerStore_Room",
+  "zh": "花店",
+  "en": "Flower Shop",
+  "ru": ""
+ },
+ {
+  "key": "Address/mineral_jewelShop_hall",
+  "zh": "前厅",
+  "en": "Foyer",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_FurnitureStorePlus_Hall",
+  "zh": "前厅",
+  "en": "Foyer",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_XueLier'sHome_Cake",
+  "zh": "烘焙间",
+  "en": "Baking Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Hospital_Garden",
+  "zh": "花园",
+  "en": "Garden",
+  "ru": ""
+ },
+ {
+  "key": "Address/爷爷的家",
+  "zh": "爷爷的家",
+  "en": "Grandpa's Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Scientist_LivingRoom",
+  "zh": "爷爷的房间",
+  "en": "Grandpa's Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Scientist_Alone",
+  "zh": "爷爷的房间",
+  "en": "Grandpa's Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Scientist_LivingRoom2",
+  "zh": "爷爷的房间",
+  "en": "Grandpa's Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/Graveyard",
+  "zh": "墓地",
+  "en": "Graveyard",
+  "ru": ""
+ },
+ {
+  "key": "Address/Graveyard_outside",
+  "zh": "墓地",
+  "en": "Graveyard",
+  "ru": ""
+ },
+ {
+  "key": "Address/WalkLong",
+  "zh": "走廊",
+  "en": "Hallway",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Hospital_WalkLongBE",
+  "zh": "走廊",
+  "en": "Hallway",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHome_WalkLong2",
+  "zh": "走廊",
+  "en": "Hallway",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHomeEnding2_WalkLong",
+  "zh": "走廊",
+  "en": "Hallway",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Hospital_WalkLong",
+  "zh": "走廊",
+  "en": "Hallway",
+  "ru": ""
+ },
+ {
+  "key": "Address/Alchemist_Storehouse",
+  "zh": "草药间",
+  "en": "Herbs Lab",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_Hall",
+  "zh": "大厅",
+  "en": "Main Hall",
+  "ru": ""
+ },
+ {
+  "key": "Address/理想家展示楼",
+  "zh": "理想家展示楼",
+  "en": "Ideal Home Showroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/IKA家具店",
+  "zh": "IKA家具店",
+  "en": "IKA Furniture",
+  "ru": ""
+ },
+ {
+  "key": "Address/珠宝商店",
+  "zh": "珠宝商店",
+  "en": "Jewelry Shop",
+  "ru": ""
+ },
+ {
+  "key": "Address/MyKitchen",
+  "zh": "厨房",
+  "en": "Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Restaurant_kitchen",
+  "zh": "厨房",
+  "en": "Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "Address/Alchemist_Kitchen",
+  "zh": "厨房",
+  "en": "Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "Address/熊本手办屋",
+  "zh": "熊本手办屋",
+  "en": "Kumamoto Figurine House",
+  "ru": ""
+ },
+ {
+  "key": "Address/GuestRoom",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/Livingroom",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHome_GuestRoom2",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHomeEnding2_GuestRoom",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse2_Kitchen",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Myhouse3_LivingRoom",
+  "zh": "客厅",
+  "en": "Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Restaurant_hall",
+  "zh": "大堂",
+  "en": "Lobby",
+  "ru": ""
+ },
+ {
+  "key": "Address/MyBedRoom",
+  "zh": "复式客厅",
+  "en": "Loft Living Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/露娜的双层公寓",
+  "zh": "露娜的双层公寓",
+  "en": "Luna's Duplex Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/bigtable 1",
+  "zh": "麻将桌",
+  "en": "Mahjong Table",
+  "ru": ""
+ },
+ {
+  "key": "Address/树先生家具店",
+  "zh": "树先生家具店",
+  "en": "Mr. Tree's Furniture Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/我的家",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/报社",
+  "zh": "报社",
+  "en": "Newspaper Office",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_WhispleDaily_Office2",
+  "zh": "报社",
+  "en": "Newspaper Office",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_WhispleDaily_Office",
+  "zh": "报社",
+  "en": "Newspaper Office",
+  "ru": ""
+ },
+ {
+  "key": "Address/书报亭",
+  "zh": "书报亭",
+  "en": "Newsstand",
+  "ru": ""
+ },
+ {
+  "key": "Address/8号便利店",
+  "zh": "8号便利店",
+  "en": "No. 8 Convenience Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/8号便利店二店",
+  "zh": "8号便利店二店",
+  "en": "No. 8 Convenience Store Pro",
+  "ru": ""
+ },
+ {
+  "key": "Address/告示牌",
+  "zh": "告示牌",
+  "en": "Notice Board",
+  "ru": ""
+ },
+ {
+  "key": "Address/公园旁地下通道",
+  "zh": "公园旁地下通道",
+  "en": "Parkside Underground Tunnel",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_PotionRoom_room",
+  "zh": "药水间",
+  "en": "Potion Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/随机房间",
+  "zh": "随机房间",
+  "en": "Random Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/红林墓地",
+  "zh": "红林墓地",
+  "en": "Red Forest Cemetery",
+  "ru": ""
+ },
+ {
+  "key": "Address/圣弗拉德米尔医院205病房",
+  "zh": "圣弗拉德米尔医院205病房",
+  "en": "Room 205, St Vladimir Hospital",
+  "ru": ""
+ },
+ {
+  "key": "Address/Handicraft store",
+  "zh": "秘密手办小屋",
+  "en": "Secret Anime Figure Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/fishman_house_Basement",
+  "zh": "秘密基地",
+  "en": "Secret Base",
+  "ru": ""
+ },
+ {
+  "key": "Address/SceretRoom",
+  "zh": "密室",
+  "en": "Secret Chamber",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Luna'sHomeEnding2_SecretRoom",
+  "zh": "密室",
+  "en": "Secret Chamber",
+  "ru": ""
+ },
+ {
+  "key": "Address/自助园艺店",
+  "zh": "自助园艺店",
+  "en": "Self-Service Gardening Shop",
+  "ru": ""
+ },
+ {
+  "key": "Address/沙沙地毯",
+  "zh": "沙沙地毯",
+  "en": "Shasha Carpet",
+  "ru": ""
+ },
+ {
+  "key": "Address/大商场",
+  "zh": "大卖场",
+  "en": "Shopping Mall",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Supermall_new",
+  "zh": "大卖场",
+  "en": "Shopping Mall",
+  "ru": ""
+ },
+ {
+  "key": "Address/大卖场",
+  "zh": "大卖场",
+  "en": "Shopping Mall",
+  "ru": ""
+ },
+ {
+  "key": "Address/样板间",
+  "zh": "样板间",
+  "en": "Showroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/展示房间",
+  "zh": "样板间",
+  "en": "Showroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/圣弗拉德米尔医院",
+  "zh": "圣弗拉德米尔医院",
+  "en": "St. Vladmir Hospital",
+  "ru": ""
+ },
+ {
+  "key": "Address/星星遗迹馆",
+  "zh": "星星遗迹馆",
+  "en": "Star Relic Hall",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_FurnitureStorePlus_SalesArea",
+  "zh": "工作室",
+  "en": "Studio",
+  "ru": ""
+ },
+ {
+  "key": "Address/Alchemist_Mirror",
+  "zh": "亚空间",
+  "en": "Subspace",
+  "ru": ""
+ },
+ {
+  "key": "Address/好味小馆",
+  "zh": "好味小馆",
+  "en": "Tasty Diner",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_Spaceship2",
+  "zh": "舰桥",
+  "en": "The Bridge",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Museum_Spaceship",
+  "zh": "舰桥",
+  "en": "The Bridge",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_MusicRoom_Store",
+  "zh": "很朋克乐器店",
+  "en": "VERY PUNK Instrument Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/Geniusroom",
+  "zh": "小天菜的卧室",
+  "en": "Tiancai's Bedroom",
+  "ru": ""
+ },
+ {
+  "key": "Address/Room",
+  "zh": "天才小屋",
+  "en": "Tiancai's Cabin",
+  "ru": ""
+ },
+ {
+  "key": "Address/Tower",
+  "zh": "塔楼1层",
+  "en": "Tower – 1st Floor",
+  "ru": ""
+ },
+ {
+  "key": "Address/Tower1",
+  "zh": "塔楼2层",
+  "en": "Tower – 2nd Floor",
+  "ru": ""
+ },
+ {
+  "key": "Address/Tower2",
+  "zh": "塔楼3层",
+  "en": "Tower – 3rd Floor",
+  "ru": ""
+ },
+ {
+  "key": "Address/Tower3",
+  "zh": "塔楼楼顶",
+  "en": "Tower – Rooftop",
+  "ru": ""
+ },
+ {
+  "key": "Address/City_center",
+  "zh": "小镇",
+  "en": "Town",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Underground_Room",
+  "zh": "地下实验室",
+  "en": "Underground Lab",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Underground_Room2",
+  "zh": "地下实验室",
+  "en": "Underground Lab",
+  "ru": ""
+ },
+ {
+  "key": "Address/乐器店",
+  "zh": "很朋克乐器店",
+  "en": "VERY PUNK Instrument Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/别墅",
+  "zh": "别墅",
+  "en": "Villa",
+  "ru": ""
+ },
+ {
+  "key": "Address/流浪杂货店",
+  "zh": "流浪杂货店",
+  "en": "Wandering General Store",
+  "ru": ""
+ },
+ {
+  "key": "Address/mineral_jewelShop_workSpace",
+  "zh": "工作区",
+  "en": "Work Area",
+  "ru": ""
+ },
+ {
+  "key": "Address/Alchemist_Alchemy",
+  "zh": "工作间",
+  "en": "Workshop",
+  "ru": ""
+ },
+ {
+  "key": "Address/陨石酒吧",
+  "zh": "陨石酒吧",
+  "en": "Meteor Bar",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Convenience Store2_Room",
+  "zh": "8号便利店二店",
+  "en": "No. 8 Convenience Store Pro",
+  "ru": ""
+ },
+ {
+  "key": "Address/fishman_house_Basement2",
+  "zh": "秘密基地",
+  "en": "Secret Base",
+  "ru": ""
+ },
+ {
+  "key": "Address/fishman_house_Basement3",
+  "zh": "秘密基地",
+  "en": "Secret Base",
+  "ru": ""
+ },
+ {
+  "key": "Address/GD售楼处",
+  "zh": "GD售楼处",
+  "en": "GD Real Estate",
+  "ru": ""
+ },
+ {
+  "key": "Address/炼金小区",
+  "zh": "安逸之家",
+  "en": "Chill Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/隐者小区",
+  "zh": "隐者公寓",
+  "en": "Hermit's Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/科学小区",
+  "zh": "常青小屋",
+  "en": "Evergreen House",
+  "ru": ""
+ },
+ {
+  "key": "Address/公园",
+  "zh": "公园",
+  "en": "Park",
+  "ru": ""
+ },
+ {
+  "key": "Address/住宅区",
+  "zh": "住宅区（家）",
+  "en": "Residential Area (Home)",
+  "ru": ""
+ },
+ {
+  "key": "Address/警察局",
+  "zh": "警察局",
+  "en": "Police Station",
+  "ru": ""
+ },
+ {
+  "key": "Address/篮球场",
+  "zh": "篮球场",
+  "en": "Basketball Court",
+  "ru": ""
+ },
+ {
+  "key": "Address/电影院",
+  "zh": "电影院",
+  "en": "Cinema",
+  "ru": ""
+ },
+ {
+  "key": "Address/博物馆",
+  "zh": "博物馆",
+  "en": "Museum",
+  "ru": ""
+ },
+ {
+  "key": "Address/加油站",
+  "zh": "加油站",
+  "en": "Gas Station",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses36x16",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses16x32",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses16x36",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses16x16",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses36x36",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses32x32",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses54x36",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses18x36",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses25x32",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses36x81",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/UpgradableHouses45x36",
+  "zh": "我的家",
+  "en": "My Home",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_KendoDojo_Room",
+  "zh": "妖怪庭院",
+  "en": "Yokai Garden",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Restaurant_MonsterRoom",
+  "zh": "后厨密室",
+  "en": "The Secret Back Kitchen",
+  "ru": ""
+ },
+ {
+  "key": "Address/神秘庭院",
+  "zh": "神秘庭院",
+  "en": "Shadowed Courtyard",
+  "ru": ""
+ },
+ {
+  "key": "Address/神龛",
+  "zh": "神龛",
+  "en": "Shrine",
+  "ru": ""
+ },
+ {
+  "key": "Address/Basement",
+  "zh": "房间",
+  "en": "Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_A_Rin",
+  "zh": "灰阶公寓",
+  "en": "Grayscale Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Sailor",
+  "zh": "河畔营地",
+  "en": "Riverside Camp",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Captain",
+  "zh": "唐人街2号院",
+  "en": "Chinatown Courtyard No. 2",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_SailorOld",
+  "zh": "旧营地",
+  "en": "Old Camp",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_SailorNew",
+  "zh": "新营地",
+  "en": "New Camp",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_CaptainRoom",
+  "zh": "主屋",
+  "en": "Main House",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_CaptainStorage",
+  "zh": "藏宝室",
+  "en": "Treasure Room",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_A-Rin_Room",
+  "zh": "灰阶公寓",
+  "en": "Grayscale Apartment",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Marni",
+  "zh": "海滨别墅",
+  "en": "Seaside Villa",
+  "ru": ""
+ },
+ {
+  "key": "Address/L_Marni_Room",
+  "zh": "海滨别墅",
+  "en": "Seaside Villa",
+  "ru": ""
+ }
+]

@@ -1,0 +1,608 @@
+[
+ {
+  "key": "CharacterName/鱼霸的朋友",
+  "zh": "鱼霸的朋友",
+  "en": "Finlord's Friends",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/亮晶晶",
+  "zh": "亮晶晶",
+  "en": "Sparky",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/雪丽尔",
+  "zh": "雪丽尔",
+  "en": "Cheryl",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/露娜",
+  "zh": "露娜",
+  "en": "Luna",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/晓天菜_凌魂华首",
+  "zh": "晓天菜&凌魂华首",
+  "en": "Xiaotiancai & Linghun Huashou",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/三木",
+  "zh": "三木",
+  "en": "Miki",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/黑手",
+  "zh": "黑手",
+  "en": "Kuroi",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/三木的朋友",
+  "zh": "三木的朋友",
+  "en": "Miki's Friend",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/大智",
+  "zh": "大智",
+  "en": "Sage",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/爱机斯坦",
+  "zh": "爱机斯坦",
+  "en": "EinSmart",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/埃尔茨",
+  "zh": "埃尔茨",
+  "en": "Elts",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/阿加莎",
+  "zh": "阿加莎",
+  "en": "Agatha",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/戈登",
+  "zh": "戈登",
+  "en": "Gordon",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/卢恩",
+  "zh": "卢恩",
+  "en": "Lewen",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/马文",
+  "zh": "马文",
+  "en": "Marwin",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/博物馆馆长",
+  "zh": "博物馆馆长",
+  "en": "Museum Curator",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/熊本",
+  "zh": "熊本",
+  "en": "Kumamoto",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/小机器人",
+  "zh": "马克",
+  "en": "Mark",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/???",
+  "zh": "???",
+  "en": "???",
+  "ru": "???"
+ },
+ {
+  "key": "CharacterName/鱼霸",
+  "zh": "鱼霸",
+  "en": "Finlord",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/家具铺老板",
+  "zh": "家具铺老板",
+  "en": "Furniture Store Owner",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/爷爷",
+  "zh": "爷爷",
+  "en": "Grandpa",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/马克原型",
+  "zh": "马克原型",
+  "en": "Mark Prototype",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/梅洛蒂",
+  "zh": "梅洛蒂",
+  "en": "Melody",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/红色扫地马克",
+  "zh": "红色扫地马克",
+  "en": "Red Sweeping Mark",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/蓝色扫地马克",
+  "zh": "蓝色扫地马克",
+  "en": "Blue Sweeping Mark",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/镇长",
+  "zh": "镇长",
+  "en": "Mayor",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/厨师马克",
+  "zh": "厨师马克",
+  "en": "Chef Mark",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/猫",
+  "zh": "猫",
+  "en": "Cat",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/居民",
+  "zh": "居民",
+  "en": "Townfolk",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/伟大的科学家爱机斯坦",
+  "zh": "伟大的科学家爱机斯坦",
+  "en": "The Great Scientist EinSmart",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/简",
+  "zh": "简",
+  "en": "Jane",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/爱机斯坦的委托",
+  "zh": "伟大的科学家爱机斯坦",
+  "en": "The Great Scientist EinSmart",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/露娜的委托",
+  "zh": "露娜",
+  "en": "Luna",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/雪丽尔的委托",
+  "zh": "衷心感谢 雪丽尔",
+  "en": "Sincerely, Cheryl",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/简的委托",
+  "zh": "最酷的简",
+  "en": "The Coolest, Jane",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/被施法的镜子",
+  "zh": "被施法的镜子",
+  "en": "Cursed Mirror",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/史上最伟大的记者大智",
+  "zh": "史上最伟大的记者大智",
+  "en": "Sage, the greatest journalist in history",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/好味神厨",
+  "zh": "好味神厨",
+  "en": "Tasty Chef",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/卢恩的委托",
+  "zh": "月下守墓人",
+  "en": "The Gravekeeper Under the Moon",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/不知名的男人",
+  "zh": "不知名的男人",
+  "en": "Unknown Man",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/幽灵猫",
+  "zh": "幽灵猫",
+  "en": "Ghost Cat",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/幽灵甲",
+  "zh": "幽灵甲",
+  "en": "Ghost A",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/幽灵乙",
+  "zh": "幽灵乙",
+  "en": "Ghost B",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/空白",
+  "zh": "???",
+  "en": "???",
+  "ru": "???"
+ },
+ {
+  "key": "CharacterName/鱼霸的委托",
+  "zh": "鱼霸的委托",
+  "en": "Finlord's Task",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/xx的委托",
+  "zh": "佳酿仙人",
+  "en": "Wine Fairy",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/担心的父母",
+  "zh": "担心的父母",
+  "en": "Worried Parents",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/公司",
+  "zh": "公司",
+  "en": "Company",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/安娜",
+  "zh": "安娜",
+  "en": "Anna",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/回家的人",
+  "zh": "回家的人",
+  "en": "The One Who Returned Home",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/神秘的声音",
+  "zh": "神秘的声音",
+  "en": "Mysterious Voice",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/马文的委托",
+  "zh": "厉害的马文",
+  "en": "Marwin the Great",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/邦尼服装店老板",
+  "zh": "邦尼服装店老板",
+  "en": "Owner of Bonnie Clothing Store",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/快来薅家纺店老板",
+  "zh": "快来薅家纺店老板",
+  "en": "Owner of Hurry-to-Grab Home Textiles",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/乾坤杂货铺店长",
+  "zh": "乾坤杂货铺店长",
+  "en": "Manager of Qiankun General Store",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/齿轮灯具店老板",
+  "zh": "齿轮灯具店老板",
+  "en": "Owner of Gear Lighting Store",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/三木家具店老板",
+  "zh": "三木家具店老板",
+  "en": "Owner of Miki Furniture Store",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/不高兴电器店老板",
+  "zh": "不高兴电器店老板",
+  "en": "Owner of Grumpy Appliances",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/举铁书屋营业员",
+  "zh": "举铁书屋营业员",
+  "en": "Clerk at Iron-Lifting Bookstore",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/米拉",
+  "zh": "米拉",
+  "en": "Mira",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/护士",
+  "zh": "护士",
+  "en": "Nurse",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/小鱼",
+  "zh": "小鱼",
+  "en": "Fishie",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/打工人",
+  "zh": "打工人",
+  "en": "Employee",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/鱼人",
+  "zh": "鱼人",
+  "en": "Finlord",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/伊恩",
+  "zh": "伊恩",
+  "en": "Ian",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/白老太",
+  "zh": "白老太",
+  "en": "Lady Bai",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/老奶奶病人",
+  "zh": "老奶奶病人",
+  "en": "Grandma patient",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/老爷爷病人",
+  "zh": "老爷爷病人",
+  "en": "Grandpa patient",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/白猫",
+  "zh": "白猫",
+  "en": "White Kitten",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/古德曼古德豪斯",
+  "zh": "古德曼·古德豪斯",
+  "en": "Goodman Goodhouse",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/爱机斯坦的爷爷",
+  "zh": "爱机斯坦的爷爷",
+  "en": "EinSmart's Grandpa",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/章鱼",
+  "zh": "章鱼",
+  "en": "Octopus",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/自动收银台",
+  "zh": "自动收银台",
+  "en": "Automatic Checkout Counter",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/招财点单猫",
+  "zh": "招财点单猫",
+  "en": "Lucky Waiter Cat",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/顾客",
+  "zh": "顾客",
+  "en": "Guest",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/雪女",
+  "zh": "雪女",
+  "en": "Yuki-onna",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/面具妖",
+  "zh": "鬼面具",
+  "en": "Hannya Mask",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/锦",
+  "zh": "锦",
+  "en": "Jinn",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/河童",
+  "zh": "河童",
+  "en": "Kappa",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/贞子",
+  "zh": "贞子",
+  "en": "Sadako",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/狸猫",
+  "zh": "狸猫",
+  "en": "Tanuki",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/宝箱怪",
+  "zh": "宝箱怪",
+  "en": "Mimic Chest",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/大头",
+  "zh": "大头",
+  "en": "Mr. Big-Head",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/外星人",
+  "zh": "外星人",
+  "en": "E.T.",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/达摩",
+  "zh": "达摩",
+  "en": "Daruma",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/红色灯笼",
+  "zh": "红色灯笼",
+  "en": "Red Lantern",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/黑色灯笼",
+  "zh": "黑色灯笼",
+  "en": "Black Lantern",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/异常图鉴",
+  "zh": "异常图鉴",
+  "en": "Abnormal Collection",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/异常马克",
+  "zh": "异常马克",
+  "en": "Abnormal Mark",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/流浪汉",
+  "zh": "流浪汉",
+  "en": "The Homeless",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/手机",
+  "zh": "???",
+  "en": "???",
+  "ru": "???"
+ },
+ {
+  "key": "CharacterName/雅琳",
+  "zh": "雅琳",
+  "en": "A-Rin",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/大福",
+  "zh": "大福",
+  "en": "Mochi",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/波波",
+  "zh": "波波",
+  "en": "Bobo",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/雷茜船长",
+  "zh": "雷茜船长",
+  "en": "Captain Lacy",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/小玛尼",
+  "zh": "小玛尼",
+  "en": "Marni Jr.",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/小玛尼的侄女",
+  "zh": "小玛尼的侄女",
+  "en": "Marni Jr.'s Niece",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/来自过去的声音",
+  "zh": "来自过去的声音",
+  "en": "Voices from the Past",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/迷你玛尼",
+  "zh": "迷你玛尼",
+  "en": "Mini Marni",
+  "ru": ""
+ },
+ {
+  "key": "CharacterName/节日大使",
+  "zh": "节日大使",
+  "en": "Holiday Ambassador",
+  "ru": ""
+ }
+]

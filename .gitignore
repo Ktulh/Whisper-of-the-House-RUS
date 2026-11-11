@@ -1,0 +1,11 @@
+# Игровые файлы и промежуточные дампы не коммитим
+/extracted/
+/build/
+/dist/
+*.assets
+*.resS
+*.bundle
+__pycache__/
+.venv/
+/tools/ilspy/
+/work/
