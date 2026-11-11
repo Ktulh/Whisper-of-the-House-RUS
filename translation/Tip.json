@@ -3,102 +3,102 @@
   "key": "Tip/提示不遮挡货架",
   "zh": "出售商品用的货架，不可放置其他物品",
   "en": "Display shelf for sale items only. Other objects can't be placed.",
-  "ru": ""
+  "ru": "Стеллаж только для товаров. Другие предметы ставить нельзя."
  },
  {
   "key": "Tip/不要遮挡购物车",
   "zh": "购物结算区禁止置物",
   "en": "No item placement allowed in the checkout area.",
-  "ru": ""
+  "ru": "В зоне кассы нельзя ничего ставить."
  },
  {
   "key": "Tip/获得",
   "zh": "获得",
   "en": "Acquired",
-  "ru": ""
+  "ru": "Получено"
  },
  {
   "key": "Tip/天黑了",
   "zh": "该休息咯，去放松放松吧。ヽ( ﾟ▽ﾟ)ノ",
   "en": "Time for a break—go chill out! ヽ( ﾟ▽ﾟ)ノ",
-  "ru": ""
+  "ru": "Пора отдохнуть и расслабиться! ヽ( ﾟ▽ﾟ)ノ"
  },
  {
   "key": "Tip/天亮了",
   "zh": "太阳搬家完毕，请验收！┗|｀O′|┛",
   "en": "Sun relocation complete! Please inspect the delivery! ┗|｀O′|┛",
-  "ru": ""
+  "ru": "Переезд солнца завершён! Примите работу! ┗|｀O′|┛"
  },
  {
   "key": "Tip/睡觉中",
   "zh": "启动睡眠模式 zzz",
   "en": "Activating sleep mode zzz",
-  "ru": ""
+  "ru": "Включаю спящий режим zzz"
  },
  {
   "key": "Tip/买不起",
   "zh": "钱包空空如也...",
   "en": "The wallet is empty...",
-  "ru": ""
+  "ru": "Кошелёк пуст..."
  },
  {
   "key": "Tip/完成任务天黑了",
   "zh": "没有委托啦，去放松放松吧。ヽ( ﾟ▽ﾟ)ノ（明天可能会有新的委托）",
   "en": "No tasks for now, go take it easy! ヽ( ﾟ▽ﾟ)ノ (There might be new ones tomorrow.)",
-  "ru": ""
+  "ru": "Заказов пока нет, можно отдыхать! ヽ( ﾟ▽ﾟ)ノ (Завтра, возможно, появятся новые.)"
  },
  {
   "key": "Tip/还未开放",
   "zh": "还未开放",
   "en": "Not Yet Available",
-  "ru": ""
+  "ru": "Пока недоступно"
  },
  {
   "key": "Tip/默认物体不能收起哦",
   "zh": "默认物体不能收起哦！",
   "en": "Default items can't be put away!",
-  "ru": ""
+  "ru": "Стандартные предметы нельзя убрать!"
  },
  {
   "key": "Tip/完成更多任务再来吧",
   "zh": "完成更多任务再来吧",
   "en": "Come back after completing more tasks!",
-  "ru": ""
+  "ru": "Возвращайтесь, когда выполните больше заданий!"
  },
  {
   "key": "Tip/植物生长需要阳光",
   "zh": "植物生长需要阳光，还是放到房间里吧。",
   "en": "Plants need sunlight to grow, please keep them in the sunroom.",
-  "ru": ""
+  "ru": "Растениям для роста нужен солнечный свет — лучше поставить их в комнату."
  },
  {
   "key": "Tip/花盆不够大",
   "zh": "花盆不够大",
   "en": "The pot is too small",
-  "ru": ""
+  "ru": "Горшок слишком мал"
  },
  {
   "key": "Tip/餐馆没钱收",
   "zh": "明天再来收钱吧",
   "en": "Come back to collect the money tomorrow",
-  "ru": ""
+  "ru": "Приходите за деньгами завтра"
  },
  {
   "key": "Tip/餐馆没解锁收钱",
   "zh": "收银台还在准备中~",
   "en": "The checkout counter isn't ready yet~",
-  "ru": ""
+  "ru": "Касса ещё не готова~"
  },
  {
   "key": "Tip/特性切换物体失败",
   "zh": "请放置到更宽敞的地方再操作~",
   "en": "Needs more space. Try placing it somewhere more open~",
-  "ru": ""
+  "ru": "Нужно больше места. Попробуйте переставить предмет туда, где попросторнее~"
  },
  {
   "key": "Tip/神秘力量封印",
   "zh": "有神秘力量封印了这个物体，是什么呢？",
   "en": "Some mysterious power has sealed this thing. What could it be?",
-  "ru": ""
+  "ru": "Какая-то таинственная сила запечатала этот предмет. Что же это может быть?"
  }
 ]

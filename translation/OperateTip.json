@@ -3,109 +3,109 @@
   "key": "OperateTip/开灯",
   "zh": "开灯",
   "en": "Turn On the Lights",
-  "ru": ""
+  "ru": "Включить свет"
  },
  {
   "key": "OperateTip/关灯",
   "zh": "关灯",
   "en": "Turn Off the Lights",
-  "ru": ""
+  "ru": "Выключить свет"
  },
  {
   "key": "OperateTip/打扫",
   "zh": "打扫",
   "en": "Clean",
-  "ru": ""
+  "ru": "Убрать"
  },
  {
   "key": "OperateTip/进门_长按",
   "zh": "进出门（长按）",
   "en": "Enter/Exit (Hold)",
-  "ru": ""
+  "ru": "Войти/выйти (удерживать)"
  },
  {
   "key": "OperateTip/拿起",
   "zh": "拿起",
   "en": "Pick Up",
-  "ru": ""
+  "ru": "Взять"
  },
  {
   "key": "OperateTip/放下",
   "zh": "放下",
   "en": "Put Down",
-  "ru": ""
+  "ru": "Положить"
  },
  {
   "key": "OperateTip/旋转",
   "zh": "旋转",
   "en": "Rotate",
-  "ru": ""
+  "ru": "Повернуть"
  },
  {
   "key": "OperateTip/查看",
   "zh": "查看",
   "en": "Inspect",
-  "ru": ""
+  "ru": "Осмотреть"
  },
  {
   "key": "OperateTip/扔垃圾",
   "zh": "扔垃圾",
   "en": "Throw Trash",
-  "ru": ""
+  "ru": "Выбросить мусор"
  },
  {
   "key": "OperateTip/放入炼金",
   "zh": "放入炼金",
   "en": "Add to Alchemy",
-  "ru": ""
+  "ru": "Добавить в алхимию"
  },
  {
   "key": "OperateTip/互动物件",
   "zh": "互动物件",
   "en": "Interact with Items",
-  "ru": ""
+  "ru": "Взаимодействовать с предметами"
  },
  {
   "key": "OperateTip/拿出东西",
   "zh": "拿出东西",
   "en": "Take Out",
-  "ru": ""
+  "ru": "Достать вещи"
  },
  {
   "key": "OperateTip/移动",
   "zh": "移动",
   "en": "Move",
-  "ru": ""
+  "ru": "Идти"
  },
  {
   "key": "OperateTip/传送",
   "zh": "传送",
   "en": "Teleport",
-  "ru": ""
+  "ru": "Телепорт"
  },
  {
   "key": "OperateTip/睡觉_长按",
   "zh": "睡觉（长按）",
   "en": "Sleep (Hold)",
-  "ru": ""
+  "ru": "Спать (удерживать)"
  },
  {
   "key": "OperateTip/放前面",
   "zh": "缩小",
   "en": "Zoom Out",
-  "ru": ""
+  "ru": "Отдалить"
  },
  {
   "key": "OperateTip/放后面",
   "zh": "放大",
   "en": "Zoom In",
-  "ru": ""
+  "ru": "Приблизить"
  },
  {
   "key": "OperateTip/交互",
   "zh": "交互",
   "en": "Interact",
-  "ru": ""
+  "ru": "Взаимодействовать"
  },
  {
   "key": "OperateTip/?",
@@ -117,360 +117,360 @@
   "key": "OperateTip/解锁",
   "zh": "解锁",
   "en": "Unlock",
-  "ru": ""
+  "ru": "Открепить"
  },
  {
   "key": "OperateTip/已锁定",
   "zh": "已锁定",
   "en": "Locked",
-  "ru": ""
+  "ru": "Закреплено"
  },
  {
   "key": "OperateTip/树人家坏结局",
   "zh": "已经堆满了箱子",
   "en": "Full of Boxes.",
-  "ru": ""
+  "ru": "Всё заставлено коробками."
  },
  {
   "key": "OperateTip/没钱抽奖",
   "zh": "钱包空空如也...",
   "en": "The wallet is empty...",
-  "ru": ""
+  "ru": "В кошельке пусто..."
  },
  {
   "key": "OperateTip/点击透视功能可以拿起背后物件哦",
   "zh": "点击<bounce><sprite=\"按键Icon\" index=47><color=#0c0c0b><b>透视模式</b></color></bounce>可以拿起背后物件哦",
   "en": "Click <bounce><sprite=\"按键Icon\" index=47><color=#0c0c0b><b>X-Ray View</b></color></bounce> to grab objects from behind you.",
-  "ru": ""
+  "ru": "Нажмите <bounce><sprite=\"按键Icon\" index=47><color=#0c0c0b><b>Режим просвечивания</b></color></bounce>, чтобы брать предметы, скрытые за другими."
  },
  {
   "key": "OperateTip/外出",
   "zh": "外出",
   "en": "Out",
-  "ru": ""
+  "ru": "Выйти"
  },
  {
   "key": "OperateTip/坐公交",
   "zh": "坐公交",
   "en": "Take the Bus",
-  "ru": ""
+  "ru": "Сесть на автобус"
  },
  {
   "key": "OperateTip/拾取",
   "zh": "拾取",
   "en": "Pick Up",
-  "ru": ""
+  "ru": "Взять"
  },
  {
   "key": "OperateTip/坐",
   "zh": "坐",
   "en": "Sit",
-  "ru": ""
+  "ru": "Сесть"
  },
  {
   "key": "OperateTip/修改描述",
   "zh": "修改描述",
   "en": "Edit Description",
-  "ru": ""
+  "ru": "Изменить описание"
  },
  {
   "key": "OperateTip/科学家传送门可以穿越了",
   "zh": "科学家传送门可以穿越了",
   "en": "The Scientist's Portal is Ready.",
-  "ru": ""
+  "ru": "Портал учёного готов к путешествию."
  },
  {
   "key": "OperateTip/珠宝店坏结局不让进入提示",
   "zh": "旺铺转让",
   "en": "For Rent",
-  "ru": ""
+  "ru": "Сдаётся в аренду"
  },
  {
   "key": "OperateTip/鼠标上东西不是垃圾",
   "zh": "此物禁止投喂垃圾桶！",
   "en": "This item cannot be thrown in the trash.",
-  "ru": ""
+  "ru": "Этим нельзя кормить мусорное ведро!"
  },
  {
   "key": "OperateTip/关卡结束小机器人不让放东西",
   "zh": "这个房间整理完了，下班咯！",
   "en": "This room is done—clock out time!",
-  "ru": ""
+  "ru": "Эта комната готова — конец смены!"
  },
  {
   "key": "OperateTip/放入东西",
   "zh": "放入东西",
   "en": "Place items",
-  "ru": ""
+  "ru": "Положить вещи"
  },
  {
   "key": "OperateTip/WASD移动",
   "zh": "移动",
   "en": "Move",
-  "ru": ""
+  "ru": "Идти"
  },
  {
   "key": "OperateTip/主场景进入关卡",
   "zh": "进门",
   "en": "Enter",
-  "ru": ""
+  "ru": "Войти"
  },
  {
   "key": "OperateTip/抽奖",
   "zh": "购物",
   "en": "Shopping",
-  "ru": ""
+  "ru": "Испытать удачу"
  },
  {
   "key": "OperateTip/主场景邮箱",
   "zh": "查看邮件",
   "en": "Check Mail",
-  "ru": ""
+  "ru": "Проверить почту"
  },
  {
   "key": "OperateTip/展开",
   "zh": "展开",
   "en": "Unfold",
-  "ru": ""
+  "ru": "Раскрыть"
  },
  {
   "key": "OperateTip/收起",
   "zh": "收起",
   "en": "Collapse",
-  "ru": ""
+  "ru": "Свернуть"
  },
  {
   "key": "OperateTip/切换形态",
   "zh": "变化",
   "en": "Change",
-  "ru": ""
+  "ru": "Сменить форму"
  },
  {
   "key": "OperateTip/躺下/立起",
   "zh": "躺下/立起",
   "en": "Lie down/stand up",
-  "ru": ""
+  "ru": "Лечь/встать"
  },
  {
   "key": "OperateTip/拿出",
   "zh": "拿出",
   "en": "Take out",
-  "ru": ""
+  "ru": "Достать"
  },
  {
   "key": "OperateTip/回收机关着",
   "zh": "回收机关着",
   "en": "Recycle Bin Closed",
-  "ru": ""
+  "ru": "Пункт переработки закрыт"
  },
  {
   "key": "OperateTip/放大缩小",
   "zh": "放大/缩小",
   "en": "Zoom In/Zoom Out",
-  "ru": ""
+  "ru": "Приблизить/Отдалить"
  },
  {
   "key": "OperateTip/拖拽镜头",
   "zh": "移动镜头（长按）",
   "en": "Move Camera(Hold)",
-  "ru": ""
+  "ru": "Двигать камеру (удерживать)"
  },
  {
   "key": "OperateTip/测试内容",
   "zh": "移动镜头（长按）",
   "en": "Move Camera(Hold)",
-  "ru": ""
+  "ru": "Двигать камеру (удерживать)"
  },
  {
   "key": "OperateTip/里面好像是落叶瓶盖之类的",
   "zh": "里面好像是落叶瓶盖之类的",
   "en": "Looks like it's filled with things like fallen leaves and bottle caps.",
-  "ru": ""
+  "ru": "Похоже, внутри опавшие листья, крышки от бутылок и всякое такое."
  },
  {
   "key": "OperateTip/开启",
   "zh": "哎呀，这个门上锁了",
   "en": "Oops, the door is locked.",
-  "ru": ""
+  "ru": "Ой, дверь заперта."
  },
  {
   "key": "OperateTip/挖",
   "zh": "挖",
   "en": "Dig",
-  "ru": ""
+  "ru": "Копать"
  },
  {
   "key": "OperateTip/拍照模式禁止过门",
   "zh": "哎呀，拍照的时候不可以过门",
   "en": "Oops! You can't walk through the door while taking a photo.",
-  "ru": ""
+  "ru": "Ой! Во время фотосъёмки нельзя проходить через дверь."
  },
  {
   "key": "OperateTip/开启/关闭",
   "zh": "开启/关闭",
   "en": "Open/Close",
-  "ru": ""
+  "ru": "Открыть/Закрыть"
  },
  {
   "key": "OperateTip/对话",
   "zh": "对话",
   "en": "Conversation",
-  "ru": ""
+  "ru": "Поговорить"
  },
  {
   "key": "OperateTip/敬请期待正式版内容",
   "zh": "敬请期待正式版内容",
   "en": "Coming soon in Official Release",
-  "ru": ""
+  "ru": "Скоро в полной версии"
  },
  {
   "key": "OperateTip/该物件不能回收",
   "zh": "该物件不能回收",
   "en": "This item is not recyclable",
-  "ru": ""
+  "ru": "Этот предмет нельзя сдать в переработку"
  },
  {
   "key": "OperateTip/点亮",
   "zh": "点亮",
   "en": "Light Up",
-  "ru": ""
+  "ru": "Зажечь"
  },
  {
   "key": "OperateTip/关闭抽屉",
   "zh": "关闭抽屉",
   "en": "Close the Drawer",
-  "ru": ""
+  "ru": "Закрыть ящик"
  },
  {
   "key": "OperateTip/Bug鼠标提示",
   "zh": "查看",
   "en": "Check",
-  "ru": ""
+  "ru": "Осмотреть"
  },
  {
   "key": "OperateTip/动画循环提示",
   "zh": "交互",
   "en": "Interact",
-  "ru": ""
+  "ru": "Взаимодействовать"
  },
  {
   "key": "OperateTip/皮肤循环提示",
   "zh": "交互",
   "en": "Interact",
-  "ru": ""
+  "ru": "Взаимодействовать"
  },
  {
   "key": "OperateTip/打包",
   "zh": "打包",
   "en": "Pack",
-  "ru": ""
+  "ru": "Упаковать"
  },
  {
   "key": "OperateTip/修理",
   "zh": "修理",
   "en": "Repair",
-  "ru": ""
+  "ru": "Починить"
  },
  {
   "key": "OperateTip/安装",
   "zh": "安装",
   "en": "Install",
-  "ru": ""
+  "ru": "Установить"
  },
  {
   "key": "OperateTip/擦除",
   "zh": "擦除",
   "en": "Erase",
-  "ru": ""
+  "ru": "Стереть"
  },
  {
   "key": "OperateTip/展开/收起",
   "zh": "展开/收起",
   "en": "Expand / Collapse",
-  "ru": ""
+  "ru": "Раскрыть / Свернуть"
  },
  {
   "key": "OperateTip/手上多个物体无法触发",
   "zh": "一次只能1个哦！",
   "en": "Only one at a time!",
-  "ru": ""
+  "ru": "Только по одному!"
  },
  {
   "key": "OperateTip/请新晋家政工录入名称",
   "zh": "欢迎新晋家政工！请录入姓名 ┗|｀O′|┛",
   "en": "New housekeeper detected! Please input your name ┗|｀O′|┛",
-  "ru": ""
+  "ru": "Обнаружен новый помощник по дому! Введите имя ┗|｀O′|┛"
  },
  {
   "key": "OperateTip/整理",
   "zh": "整理",
   "en": "Organize",
-  "ru": ""
+  "ru": "Прибрать"
  },
  {
   "key": "OperateTip/打开抽屉",
   "zh": "打开抽屉",
   "en": "Open the Drawer",
-  "ru": ""
+  "ru": "Открыть ящик"
  },
  {
   "key": "OperateTip/放入",
   "zh": "放入",
   "en": "Put in",
-  "ru": ""
+  "ru": "Положить внутрь"
  },
  {
   "key": "OperateTip/编辑描述",
   "zh": "编辑描述",
   "en": "Edit Info",
-  "ru": ""
+  "ru": "Править описание"
  },
  {
   "key": "OperateTip/摆正",
   "zh": "摆正",
   "en": "Align",
-  "ru": ""
+  "ru": "Выровнять"
  },
  {
   "key": "OperateTip/移动镜头",
   "zh": "移动镜头",
   "en": "Move Camera",
-  "ru": ""
+  "ru": "Двигать камеру"
  },
  {
   "key": "OperateTip/导入",
   "zh": "导入",
   "en": "Import",
-  "ru": ""
+  "ru": "Импорт"
  },
  {
   "key": "OperateTip/导出",
   "zh": "导出",
   "en": "Export",
-  "ru": ""
+  "ru": "Экспорт"
  },
  {
   "key": "OperateTip/可以移动咯",
   "zh": "可以移动咯",
   "en": "Drag It Anywhere!",
-  "ru": ""
+  "ru": "Можно двигать!"
  },
  {
   "key": "OperateTip/无法移动咯",
   "zh": "无法移动咯",
   "en": "Not Going Anywhere!",
-  "ru": ""
+  "ru": "Ни с места!"
  },
  {
   "key": "OperateTip/有污渍无法切换",
   "zh": "擦干污渍再切换吧",
   "en": "Wipe The Stains Dry Before Switching",
-  "ru": ""
+  "ru": "Сначала вытрите пятна, потом переключайте"
  },
  {
   "key": "OperateTip/背面还有污渍",
   "zh": "背面还有污渍",
   "en": "There are still Stains on the Back",
-  "ru": ""
+  "ru": "С обратной стороны ещё остались пятна"
  }
 ]

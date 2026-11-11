@@ -3,336 +3,336 @@
   "key": "Mod/上传",
   "zh": "上传",
   "en": "Upload",
-  "ru": ""
+  "ru": "Загрузить"
  },
  {
   "key": "Mod/更新",
   "zh": "更新",
   "en": "Updating",
-  "ru": ""
+  "ru": "Обновление…"
  },
  {
   "key": "Mod/上传中",
   "zh": "上传中",
   "en": "Uploading",
-  "ru": ""
+  "ru": "Загрузка…"
  },
  {
   "key": "Mod/上传失败",
   "zh": "上传失败",
   "en": "Upload Failed",
-  "ru": ""
+  "ru": "Ошибка загрузки"
  },
  {
   "key": "Mod/已启用",
   "zh": "已启用",
   "en": "Enabled",
-  "ru": ""
+  "ru": "Включено"
  },
  {
   "key": "Mod/已禁用",
   "zh": "已禁用",
   "en": "Disabled",
-  "ru": ""
+  "ru": "Выключено"
  },
  {
   "key": "Mod/删除",
   "zh": "删除",
   "en": "Delete",
-  "ru": ""
+  "ru": "Удалить"
  },
  {
   "key": "Mod/确认删除Mod",
   "zh": "确认删除？\n该行为无法撤销\nMOD包含物件会同步删除",
   "en": "Confirm DELETION?\nThis Action Cannot Be Undone.\nAll Objects In This MOD Will Be Deleted.",
-  "ru": ""
+  "ru": "Удалить?\nЭто действие нельзя отменить.\nВсе предметы этого мода тоже будут удалены."
  },
  {
   "key": "Mod/进入编辑器",
   "zh": "进入编辑器",
   "en": "Enter Editor",
-  "ru": ""
+  "ru": "Открыть редактор"
  },
  {
   "key": "Mod/导入封面",
   "zh": "导入封面",
   "en": "Import Cover",
-  "ru": ""
+  "ru": "Импорт обложки"
  },
  {
   "key": "Mod/确认删除物件",
   "zh": "确认删除物件？\n该行为无法撤销",
   "en": "Confirm DELETE Object?\nThis Action Cannot Be Undone.",
-  "ru": ""
+  "ru": "Удалить предмет?\nЭто действие нельзя отменить."
  },
  {
   "key": "Mod/制作家具包",
   "zh": "制作家具包？",
   "en": "Create Furniture Pack?",
-  "ru": ""
+  "ru": "Создать пакет мебели?"
  },
  {
   "key": "Mod/寻找模组",
   "zh": "寻找模组",
   "en": "Browse Mods",
-  "ru": ""
+  "ru": "Найти моды"
  },
  {
   "key": "Mod/管理模组",
   "zh": "管理模组",
   "en": "Manage Mods",
-  "ru": ""
+  "ru": "Управление модами"
  },
  {
   "key": "Mod/利用官方编辑器制作修改模组",
   "zh": "利用官方编辑器制作修改模组（家具包） ",
   "en": "Use The Official Editor To Create / Edit Mods (Furniture Packs)",
-  "ru": ""
+  "ru": "Создавать и изменять моды (пакеты мебели) в официальном редакторе"
  },
  {
   "key": "Mod/在创意工坊上浏览",
   "zh": "在创意工坊上浏览（注意需要网络支持）",
   "en": "Browse In The Workshop (Internet Required)",
-  "ru": ""
+  "ru": "Смотреть в Мастерской (нужен интернет)"
  },
  {
   "key": "Mod/管理本地已下载的模组",
   "zh": "管理本地已下载的模组/自己制作的模组",
   "en": "Manage Downloaded / Created Mods",
-  "ru": ""
+  "ru": "Управление скачанными и своими модами"
  },
  {
   "key": "Mod/退出编辑器",
   "zh": "退出编辑器",
   "en": "Exit Editor",
-  "ru": ""
+  "ru": "Выйти из редактора"
  },
  {
   "key": "Mod/创建新家具包",
   "zh": "创建新家具包",
   "en": "Create New Furniture Pack",
-  "ru": ""
+  "ru": "Создать пакет мебели"
  },
  {
   "key": "Mod/删除当前家具包",
   "zh": "删除当前家具包",
   "en": "Delete Current Furniture Pack",
-  "ru": ""
+  "ru": "Удалить текущий пакет мебели"
  },
  {
   "key": "Mod/包含物件",
   "zh": "包含物件（点击编辑）",
   "en": "Included Items (Click To Edit)",
-  "ru": ""
+  "ru": "Предметы в пакете (нажмите, чтобы изменить)"
  },
  {
   "key": "Mod/创建新物件",
   "zh": "创建新物件",
   "en": "Create New Item",
-  "ru": ""
+  "ru": "Создать предмет"
  },
  {
   "key": "Mod/导入图片",
   "zh": "导入图片（选择文件夹）",
   "en": "Import Image (Select Folder)",
-  "ru": ""
+  "ru": "Импорт изображения (выбрать папку)"
  },
  {
   "key": "Mod/它是什么样子呢",
   "zh": "它是什么样子呢？",
   "en": "What Does It Look Like?",
-  "ru": ""
+  "ru": "Как он выглядит?"
  },
  {
   "key": "Mod/给它取个名字吧",
   "zh": "给它取个名字吧",
   "en": "Give It A Name",
-  "ru": ""
+  "ru": "Дайте ему имя"
  },
  {
   "key": "Mod/物件信息",
   "zh": "物件信息",
   "en": "Item Info",
-  "ru": ""
+  "ru": "Сведения о предмете"
  },
  {
   "key": "Mod/物件大小",
   "zh": "物件大小",
   "en": "Item Size",
-  "ru": ""
+  "ru": "Размер предмета"
  },
  {
   "key": "Mod/物件分类",
   "zh": "物件分类",
   "en": "Item Category",
-  "ru": ""
+  "ru": "Категория предмета"
  },
  {
   "key": "Mod/物件功能",
   "zh": "物件功能",
   "en": "Item Function",
-  "ru": ""
+  "ru": "Назначение предмета"
  },
  {
   "key": "Mod/有多大呢",
   "zh": "有多大呢？",
   "en": "What Is The Size?",
-  "ru": ""
+  "ru": "Какого он размера?"
  },
  {
   "key": "Mod/物体可以放在它的哪个面上",
   "zh": "物体可以放在它的哪个面上？",
   "en": "Which Surface Can Objects Be Placed On?",
-  "ru": ""
+  "ru": "На какую поверхность можно ставить предметы?"
  },
  {
   "key": "Mod/对齐模式",
   "zh": "对齐模式",
   "en": "Alignment Mode",
-  "ru": ""
+  "ru": "Режим выравнивания"
  },
  {
   "key": "Mod/墙上",
   "zh": "墙上",
   "en": "On The Wall",
-  "ru": ""
+  "ru": "На стене"
  },
  {
   "key": "Mod/请选择",
   "zh": "请选择",
   "en": "Please Select",
-  "ru": ""
+  "ru": "Выберите"
  },
  {
   "key": "Mod/售卖价格",
   "zh": "售卖价格",
   "en": "Price For Sale",
-  "ru": ""
+  "ru": "Цена продажи"
  },
  {
   "key": "Mod/房间分类",
   "zh": "房间分类",
   "en": "Room Category",
-  "ru": ""
+  "ru": "Категория по комнатам"
  },
  {
   "key": "Mod/功能分类",
   "zh": "功能分类",
   "en": "Function Category",
-  "ru": ""
+  "ru": "Категория по назначению"
  },
  {
   "key": "Mod/想在哪里抽到呢",
   "zh": "想在哪里抽到呢?",
   "en": "Where Should It Be Available In Mystery Boxes?",
-  "ru": ""
+  "ru": "В каких коробках-сюрпризах он будет выпадать?"
  },
  {
   "key": "Mod/四向旋转",
   "zh": "四向旋转",
   "en": "Rotate In Four Directions",
-  "ru": ""
+  "ru": "Поворот на 4 стороны"
  },
  {
   "key": "Mod/当前无背面信息",
   "zh": "当前无背面信息",
   "en": "No Back Side Info",
-  "ru": ""
+  "ru": "Нет данных о задней стороне"
  },
  {
   "key": "Mod/制作背面",
   "zh": "制作背面（选择文件夹）",
   "en": "Create Back Side (Select Folder)",
-  "ru": ""
+  "ru": "Создать заднюю сторону (выбрать папку)"
  },
  {
   "key": "Mod/附加灯",
   "zh": "附加灯",
   "en": "Add Light",
-  "ru": ""
+  "ru": "Добавить свет"
  },
  {
   "key": "Mod/保存物件",
   "zh": "保存物件",
   "en": "Save Item",
-  "ru": ""
+  "ru": "Сохранить предмет"
  },
  {
   "key": "Mod/保存家具包信息",
   "zh": "保存家具包信息",
   "en": "Save Furniture Pack",
-  "ru": ""
+  "ru": "Сохранить пакет мебели"
  },
  {
   "key": "Mod/确认删除模组",
   "zh": "确认删除模组？",
   "en": "DELETE Mod?",
-  "ru": ""
+  "ru": "Удалить мод?"
  },
  {
   "key": "Mod/家具包名字",
   "zh": "家具包名字",
   "en": "Furniture Pack ID",
-  "ru": ""
+  "ru": "Название пакета мебели"
  },
  {
   "key": "Mod/家具包版本",
   "zh": "家具包版本",
   "en": "Furniture Pack Version",
-  "ru": ""
+  "ru": "Версия пакета мебели"
  },
  {
   "key": "Mod/当前为物件背面",
   "zh": "当前为物件背面",
   "en": "Currently Viewing Back Side",
-  "ru": ""
+  "ru": "Сейчас показана задняя сторона"
  },
  {
   "key": "Mod/编辑体积时无法移动物件",
   "zh": "编辑大小时无法<sprite=\"按键Icon\" index=19>移动物件",
   "en": "Object Cannot Be Moved While Editing Size <sprite=\"按键Icon\" index=19>",
-  "ru": ""
+  "ru": "Нельзя перемещать предмет при изменении размера <sprite=\"按键Icon\" index=19>"
  },
  {
   "key": "Mod/顶面",
   "zh": "顶面",
   "en": "Top",
-  "ru": ""
+  "ru": "Сверху"
  },
  {
   "key": "Mod/左侧",
   "zh": "左侧",
   "en": "Left Side",
-  "ru": ""
+  "ru": "Слева"
  },
  {
   "key": "Mod/右侧",
   "zh": "右侧",
   "en": "Right Side",
-  "ru": ""
+  "ru": "Справа"
  },
  {
   "key": "Mod/告诉全世界你的家具包多有意思",
   "zh": "告诉全世界你的家具包多有意思~",
   "en": "Show The World Your Amazing Furniture Pack~",
-  "ru": ""
+  "ru": "Расскажите всему миру, какой классный у вас пакет мебели~"
  },
  {
   "key": "Mod/编辑模组名",
   "zh": "编辑模组名",
   "en": "Edit Mod Name",
-  "ru": ""
+  "ru": "Изменить название мода"
  },
  {
   "key": "Mod/灯光设置",
   "zh": "灯光设置",
   "en": "Lighting Settings",
-  "ru": ""
+  "ru": "Настройки освещения"
  },
  {
   "key": "Mod/对齐灯光",
   "zh": "对齐灯光",
   "en": "Align Light",
-  "ru": ""
+  "ru": "Выровнять свет"
  }
 ]
