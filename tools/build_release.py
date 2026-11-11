@@ -5,6 +5,7 @@ from common import ROOT
 FILES = ["Установить перевод.bat", "Удалить перевод.bat", "install.ps1", "Patcher.cs", "ru.tsv"]
 
 README_TXT = """Русификатор Whisper of the House
+Сделан для версии игры 1.3.0.6 (сборка Steam 26070739).
 
 1. Закройте игру.
 2. Запустите "Установить перевод.bat" (двойной щелчок).

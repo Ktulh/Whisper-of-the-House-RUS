@@ -10,6 +10,9 @@ $DataFolderName = 'Whisper of the House_Data'
 $AssetName = 'resources.assets'
 $BackupName = 'resources.assets.rus-backup'
 $MarkerName = 'rus-patch.sha256'
+$SteamAppId = '2589500'
+$TestedGameVersion = '1.3.0.6'
+$TestedSteamBuild = '26070739'
 $Here = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 function Say($text, $color = 'Gray') { Write-Host $text -ForegroundColor $color }
@@ -68,6 +71,17 @@ try {
     }
     if (-not (Test-GameFolder $GamePath)) { throw "В выбранной папке нет игры (не найден $DataFolderName\$AssetName)." }
     Say "Папка игры: $GamePath"
+
+    # Compare the installed Steam build with the one the translation was made for
+    $manifest = Join-Path (Split-Path -Parent (Split-Path -Parent $GamePath)) "appmanifest_$SteamAppId.acf"
+    if ($Mode -eq 'install' -and (Test-Path -LiteralPath $manifest)) {
+        $m = [regex]::Match((Get-Content -LiteralPath $manifest -Raw), '"buildid"\s+"(\d+)"')
+        if ($m.Success -and $m.Groups[1].Value -ne $TestedSteamBuild) {
+            Say "Внимание: перевод делался для версии игры $TestedGameVersion (сборка Steam $TestedSteamBuild)," 'Yellow'
+            Say "а у вас установлена сборка $($m.Groups[1].Value). Перевод, скорее всего, встанет нормально," 'Yellow'
+            Say 'но новые строки из обновления останутся на английском. Проверьте, нет ли новой версии перевода.' 'Yellow'
+        }
+    }
 
     if (Get-Process -Name $GameFolderName -ErrorAction SilentlyContinue) {
         throw 'Игра запущена. Закройте её и запустите установщик снова.'
