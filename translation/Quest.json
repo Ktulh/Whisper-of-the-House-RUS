@@ -3,756 +3,756 @@
   "key": "Quest/交互",
   "zh": "交互",
   "en": "Interact",
-  "ru": ""
+  "ru": "Взаимодействовать"
  },
  {
   "key": "Quest/任务提示_已完成",
   "zh": "已完成",
   "en": "Completed",
-  "ru": ""
+  "ru": "Выполнено"
  },
  {
   "key": "Quest/任务笔记本UI_住址",
   "zh": "住址：",
   "en": "Address:",
-  "ru": ""
+  "ru": "Адрес:"
  },
  {
   "key": "Quest/任务笔记本UI_名字",
   "zh": "名字：",
   "en": "Name:",
-  "ru": ""
+  "ru": "Имя:"
  },
  {
   "key": "Quest/任务笔记本UI_职业",
   "zh": "职业：",
   "en": "Job:",
-  "ru": ""
+  "ru": "Профессия:"
  },
  {
   "key": "Quest/任务面板下小提示_完成基础任务后敲章即可离开",
   "zh": "完成基础任务后敲章即可离开",
   "en": "Stamp to exit once tasks are completed.",
-  "ru": ""
+  "ru": "Выполните основные задания и поставьте печать, чтобы уйти."
  },
  {
   "key": "Quest/古德曼.古德豪斯",
   "zh": "古德曼.古德豪斯",
   "en": "Goodman Goodhouse",
-  "ru": ""
+  "ru": "Гудмен Гудхаус"
  },
  {
   "key": "Quest/古德豪斯镇长的信内容",
   "zh": "你好！我是呓语小镇的镇长，古德曼·古德豪斯。\n\n欢迎你搬到我们美丽的小镇！呓语小镇是个温暖和平的地方，相信你很快会爱上这里的。你的新邻居们大概不久后就会来寻求你的帮助，我期望你的到来能为小镇带来新的风采。\n\n再次欢迎你成为小镇大家庭的一员！",
   "en": "Hello! I'm Goodman Goodhouse, the mayor of Whisper Town. Welcome to our beautiful town! \n\nWhisper Town is a warm and peaceful place, and I'm sure you'll soon fall in love with it. Your new neighbors will likely come to you for help before long, and I hope your arrival will bring a fresh touch to our community. \n\nOnce again, welcome to the big family of our town!",
-  "ru": ""
+  "ru": "Здравствуйте! Я Гудмен Гудхаус, мэр городка Шёпот. Добро пожаловать в наш прекрасный городок!\n\nШёпот — тёплое и мирное место, и я уверен, что вы очень скоро его полюбите. Новые соседи, вероятно, вскоре придут к вам за помощью, и я надеюсь, что ваш приезд привнесёт в жизнь городка свежие краски.\n\nЕщё раз добро пожаловать в большую семью нашего городка!"
  },
  {
   "key": "Quest/合同委托书",
   "zh": "合同委托书",
   "en": "Contract Agreement",
-  "ru": ""
+  "ru": "Договор подряда"
  },
  {
   "key": "Quest/呓语小区16号",
   "zh": "呓语小区16号",
   "en": "16 Whisper Community",
-  "ru": ""
+  "ru": "Квартал Шёпота, 16"
  },
  {
   "key": "Quest/呓语路616号",
   "zh": "呓语路616号",
   "en": "616 Whisper Road",
-  "ru": ""
+  "ru": "ул. Шёпота, 616"
  },
  {
   "key": "Quest/委托11",
   "zh": "委托来自镇民 ",
   "en": "Request from a Town Resident",
-  "ru": ""
+  "ru": "Заказ от жителя городка"
  },
  {
   "key": "Quest/客户要求",
   "zh": "---客户要求---",
   "en": "Client Request",
-  "ru": ""
+  "ru": "Требования заказчика"
  },
  {
   "key": "Quest/Promise",
   "zh": "我已知悉，本公司承诺必将全力满足每一位客户的需求！",
   "en": "I acknowledge and confirm that our company is fully committed to meeting every client's needs!",
-  "ru": ""
+  "ru": "Принимаю к сведению и подтверждаю: наша Компания приложит все силы, чтобы исполнить пожелания каждого заказчика!"
  },
  {
   "key": "Quest/房间已经收拾完成 去看看别的房间吧",
   "zh": "房间已经收拾完成，去看看别的房间吧",
   "en": "This room is all tidied up. Let's go check out the other rooms.",
-  "ru": ""
+  "ru": "С этой комнатой всё. Пойдём посмотрим, что в других."
  },
  {
   "key": "Quest/接下来把车子里的东西都拿出来吧",
   "zh": "接下来把车子里的东西都拿出来吧",
   "en": "Let's take everything out of the car.",
-  "ru": ""
+  "ru": "Теперь достанем всё из машины."
  },
  {
   "key": "Quest/搬运货物中",
   "zh": "搬运货物中",
   "en": "Moving items.",
-  "ru": ""
+  "ru": "Переносим вещи."
  },
  {
   "key": "Quest/来自镇民的委托",
   "zh": "委托来自镇民 ",
   "en": "Request from a Town Resident",
-  "ru": ""
+  "ru": "Заказ от жителя городка"
  },
  {
   "key": "Quest/来自镇民的委托1",
   "zh": "委托来自镇民 ",
   "en": "Request from a Town Resident",
-  "ru": ""
+  "ru": "Заказ от жителя городка"
  },
  {
   "key": "Quest/移动",
   "zh": "移动",
   "en": "Move",
-  "ru": ""
+  "ru": "Идти"
  },
  {
   "key": "Quest/金荣小区1F7B房",
   "zh": "金荣小区1F7B房",
   "en": "1F7B Victory Square",
-  "ru": ""
+  "ru": "Квартал Победы, кв. 1F7B"
  },
  {
   "key": "Quest/镇长的信",
   "zh": "镇长的信",
   "en": "A Letter from the Mayor",
-  "ru": ""
+  "ru": "Письмо от мэра"
  },
  {
   "key": "Quest/青年公寓601号",
   "zh": "青年公寓601号",
   "en": "601 Youth Apartment",
-  "ru": ""
+  "ru": "Молодёжный дом, кв. 601"
  },
  {
   "key": "Quest/特殊任务",
   "zh": "特殊任务",
   "en": "Special Tasks",
-  "ru": ""
+  "ru": "Особые задания"
  },
  {
   "key": "Quest/xx的委托信",
   "zh": "<ClientName>的委托信",
   "en": "Request Letter from <ClientName>",
-  "ru": ""
+  "ru": "Письмо-заказ: <ClientName>"
  },
  {
   "key": "Quest/古德豪斯镇长的信",
   "zh": "古德曼·古德豪斯 敬上",
   "en": "Best Regards,\nGoodman Goodhouse",
-  "ru": ""
+  "ru": "С наилучшими пожеланиями,\nГудмен Гудхаус"
  },
  {
   "key": "Quest/SuitTitle_0",
   "zh": "想要一间放得下标本的工作室",
   "en": "Want a studio big enough to hold all my specimens",
-  "ru": ""
+  "ru": "Нужна студия, где поместятся все мои экспонаты"
  },
  {
   "key": "Quest/SuitDescription_0",
   "zh": "搬来小镇之前我就盘算着，这次一定弄一间能好好收纳我的标本和旧书的小屋。干花、羽毛、昆虫骨头，还有些翻了几十年的老古籍...这间屋子应该看着有点年代感，但也别太压抑，最好一进门就能闻到纸张味和干草香。",
   "en": "Even before moving to this town, I'd already decided—this time, I'm going to make a space where I can properly store all my collections. Dried flowers, feathers, insect bones, and old books I've read over and over again... The room should have a sense of age, but not feel gloomy— Ideally, the moment you walk in, you'd smell old paper and the dry scent of wild grass.",
-  "ru": ""
+  "ru": "Ещё до переезда в этот городок у меня созрел план: на этот раз обязательно обустрою место, где можно как следует разместить всю мою коллекцию. Засушенные цветы, перья, косточки насекомых и старые книги, зачитанные до дыр... Пусть в комнате чувствуется дух времени, но без мрачности — а в идеале, чтобы с порога пахло старой бумагой и сухими полевыми травами."
  },
  {
   "key": "Quest/SuitTitle_1",
   "zh": "给我的乐器找个舒服的位置吧！",
   "en": "Help me find a comfy spot for my instruments!",
-  "ru": ""
+  "ru": "Помогите найти уютное местечко для моих инструментов!"
  },
  {
   "key": "Quest/SuitDescription_1",
   "zh": "钢琴、吉他、音箱我都带来了，就是这间屋子有点乱。麻烦你帮忙收拾一下，不用装修得太浮夸，主要是让人感到舒服。最好还能划分出练琴、录音的区域。",
   "en": "I brought my piano, guitar, and speakers, but this place is a mess. Could you help me tidy it up? Nothing too flashy—just something cozy and pleasant. It'd be great if we could split it into a practice area and a recording zone.",
-  "ru": ""
+  "ru": "Пианино, гитара и колонки уже здесь, но в комнате сущий бардак. Поможешь навести порядок? Ничего вычурного — просто чтобы было уютно и приятно. А ещё здорово было бы разделить её на зону для репетиций и зону для записи."
  },
  {
   "key": "Quest/SuitTitle_2",
   "zh": "想布置一间钓鱼佬小屋，嘿嘿",
   "en": "I want to decorate a little fisherman's hut—hehe.",
-  "ru": ""
+  "ru": "Хочу обустроить домик заядлого рыбака — хе-хе."
  },
  {
   "key": "Quest/SuitDescription_2",
   "zh": "我有时间就会去钓鱼，不钓鱼的时候也喜欢在屋里整理渔具。这次我专门找了个房间来陈列我的鱼竿和标本，还有几张钓到大鱼的纪念照片也想挂在墙上炫耀！希望这个房间能给我带来海上的好运，嘿嘿...",
   "en": "I go fishing whenever I have time, and when I don't, I like sorting my gear indoors. This time, I picked out a room just to show off my rods and specimens, and I've got some proud fishing photos I'd love to hang on the wall! Hope this space brings me good luck from the sea—hehe...",
-  "ru": ""
+  "ru": "Рыбачу при каждой возможности, а когда не рыбачу — люблю перебирать снасти дома. На этот раз под удочки и чучела рыб отведена целая комната, а ещё хочу повесить на стену парочку фото с крупным уловом — пусть все завидуют! Надеюсь, эта комната принесёт мне морскую удачу, хе-хе..."
  },
  {
   "key": "Quest/SuitTitle_3",
   "zh": "能帮我整理一下鞋匠铺吗？",
   "en": "Can you help me organize my cobbler's shop?",
-  "ru": ""
+  "ru": "Поможете навести порядок в моей сапожной мастерской?"
  },
  {
   "key": "Quest/SuitDescription_3",
   "zh": "我最近太心烦了······钉子、刷子、皮革、线，全都堆在一起，乱得我自己都找不到东西。谁能帮我把这间屋子好好收拾一下，让我能安心修鞋。报酬丰厚，非常感谢！",
   "en": "Lately I've been so stressed out... Nails, brushes, leather, thread—they're all piled together, and I can't find anything. Someone please help me get this space back in order so I can fix shoes in peace. I'll pay well—thank you so much!",
-  "ru": ""
+  "ru": "Нервы в последнее время ни к чёрту... Гвозди, щётки, кожа, нитки — всё свалено в кучу, ничего не найти. Кто-нибудь, помогите навести здесь порядок, чтобы можно было спокойно чинить обувь. Заплачу щедро — огромное спасибо!"
  },
  {
   "key": "Quest/SuitTitle_4",
   "zh": "生命不息，运动不止！",
   "en": "Life is motion!",
-  "ru": ""
+  "ru": "Жизнь — это движение!"
  },
  {
   "key": "Quest/SuitDescription_4",
   "zh": "搬家期间都没地方锻炼了，我的运动之魂啊！急招助手帮我装修家庭健身房，所有锻炼器材都要摆出来。我已经迫不及待要锻炼了！",
   "en": "I haven't had anywhere to work out since moving, and my fitness soul is crying! I'm urgently looking for someone to help me set up a home gym. I want to lay out all my equipment. I can't wait any longer—I need to move my body now!",
-  "ru": ""
+  "ru": "После переезда негде тренироваться, и моя спортивная душа рыдает! Срочно ищу помощника, чтобы обустроить домашний спортзал и разложить весь инвентарь. Больше ждать не могу — мне надо двигаться прямо сейчас!"
  },
  {
   "key": "Quest/SuitTitle_5",
   "zh": "哔——打造我的电竞角",
   "en": "Beep—help me build my gaming zone!",
-  "ru": ""
+  "ru": "Бип — помогите обустроить мой игровой уголок!"
  },
  {
   "key": "Quest/SuitDescription_5",
   "zh": "有一个能让我一直宅在家里，舒舒服服地打游戏的电竞房是我的梦想！我的主机，卡带，手柄什么的都放在这里了，有人能帮帮我设计房间吗？",
   "en": "My dream is to have a cozy room where I can game all day at home. My console, cartridges, controllers—they're all here. Can someone help me design the perfect setup?",
-  "ru": ""
+  "ru": "Моя мечта — уютная комната, где можно целыми днями сидеть дома и играть. Приставка, картриджи, геймпады — всё уже здесь. Кто-нибудь поможет обустроить идеальное игровое место?"
  },
  {
   "key": "Quest/SuitTitle_6",
   "zh": "假如有一间小花铺会很好吧？",
   "en": "Wouldn't it be lovely to have a little flower shop?",
-  "ru": ""
+  "ru": "Правда, было бы чудесно завести маленькую цветочную лавку?"
  },
  {
   "key": "Quest/SuitDescription_6",
   "zh": "我习惯每天清晨去花市挑些鲜切花，带回家满屋都是香味。最近我想着开一间通风朝阳的小花铺，要有包花束的空间，也得留个角让顾客休息。我不太懂室内装修，你能帮我吗？",
   "en": "Every morning, I go to the flower market to pick fresh-cut blooms and fill my home with fragrance. Now, I'm thinking of opening a breezy, sunny flower shop. I need a space to wrap bouquets and a cozy corner for guests to rest. I don't know much about interior design—can you help me?",
-  "ru": ""
+  "ru": "Каждое утро я хожу на цветочный рынок за свежесрезанными цветами, и дома всё благоухает. А теперь подумываю открыть светлую, солнечную цветочную лавку, полную свежего воздуха. Нужно место, где собирать букеты, и уютный уголок, где покупатели смогут отдохнуть. В дизайне интерьеров я не очень разбираюсь — поможешь?"
  },
  {
   "key": "Quest/SuitTitle_7",
   "zh": "好想再回去一次童年啊！",
   "en": "I wish I could return to childhood just once.",
-  "ru": ""
+  "ru": "Хоть бы разок вернуться в детство."
  },
  {
   "key": "Quest/SuitDescription_7",
   "zh": "小时候的暑假都在乡下的姥姥家过，现在老屋和院子里的那口水井都拆光了。时光不能倒流，但这次搬家我还是留下了一些老家具：葡萄藤、吊扇、老藤椅...你能不能帮我把这个房间布置成我记忆里的样子？",
   "en": "I spent all my summer holidays at my grandma's country house, but now the old house and the well in the yard are gone. Time won't turn back, but I saved a few old things when I moved: grapevine, ceiling fan, wicker chairs... Could you help me recreate the room from my memories?",
-  "ru": ""
+  "ru": "Все летние каникулы детства проходили в деревне у бабушки, но теперь ни старого дома, ни колодца во дворе больше нет. Время вспять не повернуть, но кое-что из старых вещей переехало вместе со мной: виноградная лоза, потолочный вентилятор, плетёные кресла... Поможешь воссоздать комнату из моих воспоминаний?"
  },
  {
   "key": "Quest/SuitTitle_8",
   "zh": "想有个属于自己的林中小屋",
   "en": "I want a little forest cabin of my own.",
-  "ru": ""
+  "ru": "Хочу свой домик в лесу."
  },
  {
   "key": "Quest/SuitDescription_8",
   "zh": "我总是刷到别人建造树屋的视频，看着他们在大自然里劈柴生火，我可羡慕了！这次总算有机会了，想请你和我一起，把这间小屋打造成一个亲近自然、安静简单、能发呆做梦的地方。",
   "en": "I always watch those treehouse-building videos—seeing people chop wood and light fires in nature—it's so dreamy! Now I finally have the chance, and I'd love your help to turn this room into a quiet, nature-filled place where I can daydream and do nothing.",
-  "ru": ""
+  "ru": "Всё время смотрю видео о том, как люди строят домики на деревьях, колют дрова и разводят костры прямо на природе, — как же я завидую! И вот наконец выпал шанс: помоги мне превратить эту комнату в тихий уголок на лоне природы, где можно мечтать и ничего не делать."
  },
  {
   "key": "Quest/SuitTitle_9",
   "zh": "想住进一间有中式味道的屋子",
   "en": "I want to live in a room with a Chinese aesthetic.",
-  "ru": ""
+  "ru": "Хочу жить в комнате в китайском стиле."
  },
  {
   "key": "Quest/SuitDescription_9",
   "zh": "我向往中式水墨画里静、稳、留白的意境。我的房间不用太复杂，有气韵和禅意就行，能选用上好的木材就更好了。事成之后请你来喝喝茶，赏赏字画。",
   "en": "I admire the stillness, balance, and blank space in Chinese ink paintings. My room doesn't have to be complex—as long as it has elegance and a bit of Zen, I'll be happy. If we could use fine wood, even better. Once it's done, I'll invite you over for tea and art appreciation.",
-  "ru": ""
+  "ru": "Меня восхищают покой, равновесие и пустота китайской живописи тушью. Комната не обязательно должна быть сложной — главное, чтобы в ней были изящество и капелька дзена. А если получится использовать хорошее дерево — ещё лучше. Когда всё будет готово, приглашу тебя на чай — полюбоваться картинами и каллиграфией."
  },
  {
   "key": "Quest/SuitTitle_10",
   "zh": "为我的猫效力！",
   "en": "Serve my cat!",
-  "ru": ""
+  "ru": "Служите моему коту!"
  },
  {
   "key": "Quest/SuitDescription_10",
   "zh": "这间房间的女主人其实是我的猫，而我只是负责为她铲屎的两脚兽。这一地的玩具和零食，我都无从下脚了。麻烦你帮我整理出一个能躺着撸猫的房间吧！",
   "en": "The true lady of this room is actually my cat—I'm just the two-legged servant in charge of her litter box. There are toys and snacks all over the floor; I can barely walk through it. Please help me turn it into a room where I can lie down and cuddle my cat!",
-  "ru": ""
+  "ru": "Настоящая хозяйка этой комнаты — моя кошка, а я при ней всего лишь двуногое, приставленное к лотку. Пол завален игрушками и вкусняшками — ступить некуда. Помоги, пожалуйста, превратить всё это в комнату, где можно валяться и тискать мою кошку!"
  },
  {
   "key": "Quest/SuitTitle_11",
   "zh": "我最喜欢可爱的玩偶了！",
   "en": "I love cute plushies!",
-  "ru": ""
+  "ru": "Обожаю милые плюшевые игрушки!"
  },
  {
   "key": "Quest/SuitDescription_11",
   "zh": "我的娃娃实在太多了，都没地方放了。我想拜托你打造一间能展示我的所有玩偶的屋子。一回家就能被它们团团围住，那感觉也太棒啦！到时候我要拍好看的照片！",
   "en": "I have too many dolls, and there's no room left. I'd like you to design a room that can display all of them. Being surrounded by my plushies would be the best. I'm definitely taking lots of cute photos when it's done!",
-  "ru": ""
+  "ru": "Кукол у меня столько, что их уже некуда ставить. Хочу попросить тебя оформить комнату, где можно выставить их всех. Возвращаться домой и утопать в плюшевых игрушках — что может быть лучше! А когда всё будет готово, обязательно наделаю кучу милых фоток!"
  },
  {
   "key": "Quest/SuitTitle_12",
   "zh": "请为我打造一间魔法占卜屋",
   "en": "Please build me a magical fortune-telling room",
-  "ru": ""
+  "ru": "Создайте мне волшебный салон гаданий"
  },
  {
   "key": "Quest/SuitDescription_12",
   "zh": "我其实一直在研究星盘、水晶球、蜡烛什么的...现在我想拥有一个能冥想、占卜、算塔罗的空间。最好保持我的神秘感，以便我聚集我的巫术能量。",
   "en": "I've actually been studying star charts, crystal balls, candles, and stuff… Now I want a space where I can meditate, divine, and read tarot cards. It has to keep a sense of mystery—that's how I channel my magical energy.",
-  "ru": ""
+  "ru": "Вообще-то я давно изучаю звёздные карты, хрустальные шары, свечи и всё такое… Теперь мне нужно место для медитаций, гаданий и раскладов Таро. И обязательно с атмосферой таинственности — так я собираю свою магическую энергию."
  },
  {
   "key": "Quest/SuitTitle_13",
   "zh": "需要一个安静的推理办公室",
   "en": "I need a quiet detective office",
-  "ru": ""
+  "ru": "Нужен тихий кабинет детектива"
  },
  {
   "key": "Quest/SuitDescription_13",
   "zh": "写字楼租不起了...我打算把这间旧房子重新收拾收拾，撑起个“事务所”的样子。侦探嘛，必须要有面线索墙和几个文件盒。哦，我还需要一台咖啡机，没有咖啡因我完全没办法工作！",
   "en": "Can't afford office rent… so I plan to turn this old house into a \"detective agency.\" A real detective needs a clue wall and some file boxes. Oh, and I need a coffee machine. No caffeine, no work!",
-  "ru": ""
+  "ru": "Аренда офиса мне не по карману… так что хочу превратить этот старый дом в «детективное агентство». Настоящему детективу нужна стена с уликами и пара коробок для документов. Ах да, и кофемашина. Нет кофеина — нет работы!"
  },
  {
   "key": "Quest/SuitTitle_14",
   "zh": "装修一间直播间",
   "en": "Help me set up a proper streaming room",
-  "ru": ""
+  "ru": "Помогите обустроить настоящую комнату для стримов"
  },
  {
   "key": "Quest/SuitDescription_14",
   "zh": "作为一名游戏主播，偶尔情绪激动的时候也会控制不住音量。希望这个直播间的隔音效果好一点，别再吵到邻居了！我不想再被投诉了哒咩！",
   "en": "As a gaming streamer, I sometimes get a little too loud when I'm hyped. I really hope this room can be soundproofed—I don't want to get any more noise complaints!",
-  "ru": ""
+  "ru": "Я игровой стример, и на эмоциях порой ору слишком громко. Очень надеюсь, что в этой комнате будет хорошая звукоизоляция — больше никаких жалоб от соседей, не-не-не!"
  },
  {
   "key": "Quest/SuitTitle_15",
   "zh": "别问我这间房的用途",
   "en": "Don't ask what this room is for",
-  "ru": ""
+  "ru": "Не спрашивайте, зачем эта комната"
  },
  {
   "key": "Quest/SuitDescription_15",
   "zh": "最近喜欢上了古玩，挑着挑着手就停不下来。瓷的、铜的、纸的、木的...额，怕别人看见说我疯了。装修别太高调。我可没说这是收藏室啊！",
   "en": "I've been getting into antiques lately, and once I start picking them out, I just can't stop. Ceramic, bronze, paper, wood… I'm worried people will think I've lost it if they see, so don't make it look too flashy. And no, I never said it's a collection room!",
-  "ru": ""
+  "ru": "В последнее время увлекаюсь антиквариатом — как начну выбирать, не могу остановиться. Фарфор, бронза, бумага, дерево… Боюсь, увидят — решат, что у меня крыша поехала, так что без лишнего блеска в отделке. И вообще, кто сказал, что это комната для коллекции?!"
  },
  {
   "key": "Quest/SuitTitle_16",
   "zh": "周末想躲在这里敲点木头",
   "en": "I want to hide here on weekends and do some woodworking",
-  "ru": ""
+  "ru": "Хочу прятаться здесь по выходным и столярничать"
  },
  {
   "key": "Quest/SuitDescription_16",
   "zh": "每次拿起锯子加工木头的时候，手心一沾上木屑，我就感觉很幸福。我想委托一个人帮我设计一间工作室，让我在空闲时间能够做做最喜欢的木工活。",
   "en": "There's something about touching sawdust and working with wood that makes me feel at peace. I'm looking for someone to design a workshop where I can enjoy my favorite hobby when I have time.",
-  "ru": ""
+  "ru": "Когда держу в руках пилу, а ладони в древесных опилках, на душе становится спокойно. Ищу того, кто спроектирует мне мастерскую, чтобы в свободное время заниматься любимым делом — столярничать."
  },
  {
   "key": "Quest/SuitTitle_17",
   "zh": "舒心泡澡的放松公寓",
   "en": "A relaxing bath apartment, please",
-  "ru": ""
+  "ru": "Квартира, чтобы всласть понежиться в ванне"
  },
  {
   "key": "Quest/SuitDescription_17",
   "zh": "对我来说，洗浴疗愈是一个家的灵魂，其他功能无所谓。泡澡不是简单的清洁，而是内心的平和宁静。每天的收束很重要，所以我要认真对待。找个懂我的人接受我的装修委托！",
   "en": "For me, bathing is the soul of a home. Everything else is secondary. It's not just about washing—it's about restoring peace inside. Ending the day right is important to me, so I want someone who understands to take this on.",
-  "ru": ""
+  "ru": "Для меня ванна — душа дома. Всё остальное вторично. Дело не просто в мытье — дело в том, чтобы вернуть себе внутренний покой. Правильно завершить день для меня очень важно, поэтому ищу того, кто меня поймёт и возьмётся за этот заказ."
  },
  {
   "key": "Quest/SuitTitle_18",
   "zh": "想住进动画片里的夏天",
   "en": "I want to live in an animated summer",
-  "ru": ""
+  "ru": "Хочу жить в мультяшном лете"
  },
  {
   "key": "Quest/SuitDescription_18",
   "zh": "我想住进小时候动画片里才有的夏天：波子汽水咕嘟响，电风扇吱呀吱呀地转，风铃在窗边摇，外头有蝉叫。如果你能做到就尽管联系我吧！",
   "en": "Like the ones from childhood cartoons—fizzy soda bubbling, electric fan humming, wind chimes swaying by the window, cicadas buzzing outside. If you can make that happen, contact me now!",
-  "ru": ""
+  "ru": "Хочу поселиться в том самом лете из мультиков моего детства: булькает газировка с шариком, жужжит вентилятор, у окна покачивается музыка ветра, а снаружи стрекочут цикады. Если сможешь такое устроить — скорее пиши!"
  },
  {
   "key": "Quest/SuitTitle_19",
   "zh": "香香软软的小面包",
   "en": "Soft and fragrant little buns",
-  "ru": ""
+  "ru": "Мягкие ароматные булочки"
  },
  {
   "key": "Quest/SuitDescription_19",
   "zh": "原本只是想去帮帮雪丽尔，没想到真的爱上烘焙了。我的家里现在飘满了黄油香。你能帮我整理一下厨房吗？我想在里面调试香草蛋糕的新配方。",
   "en": "I only meant to help Cheryl out at first, but I ended up falling in love with baking. Now my home is filled with the scent of butter. Can you help me organize the kitchen? I want to work on a new vanilla cake recipe.",
-  "ru": ""
+  "ru": "Поначалу хотелось просто помочь Шерил, но в итоге выпечка меня совершенно покорила. Теперь весь дом пропах сливочным маслом. Поможешь навести порядок на кухне? Хочу отработать новый рецепт ванильного торта."
  },
  {
   "key": "Quest/SuitTitle_20",
   "zh": "征求氛围感水吧设计",
   "en": "Looking for a cozy cocktail bar design",
-  "ru": ""
+  "ru": "Ищу дизайн уютного коктейль-бара"
  },
  {
   "key": "Quest/SuitDescription_20",
   "zh": "我想要一个有氛围感的吧台，能调出各式各样漂亮的鸡尾酒。摆几把高脚凳，放点喜欢的唱片，可以和三五好友在这儿聊到日出，也可以一个人坐着吹风。",
   "en": "I want a bar counter with great vibes where I can mix all kinds of beautiful cocktails. Just a few high stools, some favorite records, and it'll be perfect for chatting with friends until sunrise—or sitting alone, enjoying the breeze.",
-  "ru": ""
+  "ru": "Хочу атмосферную барную стойку, где можно смешивать самые разные красивые коктейли. Пара высоких табуретов, любимые пластинки — и готово: идеальное место, чтобы болтать с друзьями до рассвета или сидеть в одиночестве, подставив лицо ветерку."
  },
  {
   "key": "Quest/SuitTitle_21",
   "zh": "请为我布置一间植物实验室",
   "en": "Help me set up a plant lab",
-  "ru": ""
+  "ru": "Помогите обустроить ботаническую лабораторию"
  },
  {
   "key": "Quest/SuitDescription_21",
   "zh": "作为一名植物研究员，我特意找了一间屋子作为光照实验室。每一盆植物都有最合适的温度和光线。现在家里已经被我搬来一堆土、花盆和仪器了！如果有人能接受我的装修委托，我会准备一盆自己培育的稀有香草作为谢礼。",
   "en": "As a plant researcher, I've chosen this room as a light experiment lab. Every plant needs the right temperature and lighting. Now the house is full of soil, pots, and equipment! If anyone can take on this interior job, I'll gift them a rare herb I grew myself.",
-  "ru": ""
+  "ru": "Я исследую растения, и эта комната станет моей лабораторией света. Каждому растению нужны свои температура и освещение. А сейчас весь дом завален землёй, горшками и приборами! Тому, кто возьмётся за этот заказ на отделку, подарю редкую пряную траву, выращенную своими руками."
  },
  {
   "key": "Quest/SuitTitle_22",
   "zh": "周四电影之夜！",
   "en": "Thursday movie night!",
-  "ru": ""
+  "ru": "Четверг — вечер кино!"
  },
  {
   "key": "Quest/SuitDescription_22",
   "zh": "小镇电影社每周四都会放映一部电影，但我们一直没有一个专属的空间。这次我想为大家准备一个舒适宽敞的室内影院，最好可以投影在整面墙上，让大家更沉浸地感受电影的魅力。",
   "en": "Our town's film club screens a movie every Thursday, but we've never had a dedicated space. I want to build a cozy, spacious home theater where we can project onto the whole wall and really get immersed in the movie magic.",
-  "ru": ""
+  "ru": "Киноклуб нашего городка каждый четверг показывает фильм, но своего помещения у нас так и не появилось. Хочу устроить уютный и просторный домашний кинотеатр, где можно проецировать изображение на всю стену и с головой погружаться в магию кино."
  },
  {
   "key": "Quest/SuitTitle_23",
   "zh": "放学之后的秘密基地！",
   "en": "A secret base after school!",
-  "ru": ""
+  "ru": "Тайная база после уроков!"
  },
  {
   "key": "Quest/SuitDescription_23",
   "zh": "我们几个组了个地下乐队，但一直没固定的场地排练。好不容易找到这个房间，麻烦你帮我们把它布置成叛逆的摇滚空间吧，能放下架子鼓、音响和几把电吉他就好。",
   "en": "A few of us started a garage band, but we've never had a proper place to rehearse. Now that we found this room, could you help us turn it into a rebellious rock space? Just enough room for a drum set, speakers, and a few electric guitars would be great.",
-  "ru": ""
+  "ru": "Мы с ребятами собрали гаражную группу, но нормального места для репетиций у нас так и не нашлось. И вот наконец есть эта комната — поможешь превратить её в бунтарское рок-логово? Лишь бы влезли барабанная установка, колонки и пара электрогитар."
  },
  {
   "key": "Quest/SuitTitle_24",
   "zh": "读书破万卷",
   "en": "A book lover's dream",
-  "ru": ""
+  "ru": "Мечта книголюба"
  },
  {
   "key": "Quest/SuitDescription_24",
   "zh": "我是真的太爱书了，结果书越堆越多，连床底下都快塞满了。于是我有了个小小的梦想：把这间房子打造成属于我自己的家庭图书馆。想要有一整面的书墙，也想有安静的阅读空间，在翻书声中静静地度过每一个午后。如果你能帮我一起实现这个梦想，那就太好了！",
   "en": "I love books so much, they've started to pile up everywhere—even under my bed. So I dreamed of turning this room into my own home library. I want a full wall of books and a peaceful reading spot to spend every afternoon lost in pages. If you can help me make this happen, I'll be so grateful!",
-  "ru": ""
+  "ru": "Я так люблю книги, что они уже громоздятся повсюду — даже под кроватью. Вот и появилась мечта: превратить эту комнату в собственную домашнюю библиотеку. Хочу целую стену книг и тихий уголок для чтения, чтобы проводить каждый день под шелест страниц. Поможешь воплотить эту мечту — моей благодарности не будет предела!"
  },
  {
   "key": "Quest/SuitTitle_25",
   "zh": "少年探险队！",
   "en": "Junior explorers unite!",
-  "ru": ""
+  "ru": "Юные исследователи, вперёд!"
  },
  {
   "key": "Quest/SuitDescription_25",
   "zh": "我平时喜欢野营、徒步，走走停停，看山看水。这间房算是我为数不多的落脚点，虽然不常待，但对我来说很重要。屋里堆着地图、望远镜、帐篷、水壶...每一样都是我的旅伴。想找个靠谱的人帮我好好整理一下！",
   "en": "I love camping and hiking—wandering, resting, watching the mountains and rivers. This room is one of my rare resting spots, and it's important to me. It's piled with maps, binoculars, tents, water bottles… all my travel buddies. I need someone reliable to help me organize it all.",
-  "ru": ""
+  "ru": "Обожаю походы и кемпинг — бродить, отдыхать на привалах, любоваться горами и реками. Эта комната — одно из немногих мест, где я останавливаюсь, и она мне очень дорога. Тут навалены карты, бинокли, палатки, фляги… все мои попутчики. Нужен надёжный человек, который поможет всё это разобрать."
  },
  {
   "key": "Quest/SuitTitle_26",
   "zh": "动漫社委托",
   "en": "Anime club request",
-  "ru": ""
+  "ru": "Заказ от аниме-клуба"
  },
  {
   "key": "Quest/SuitDescription_26",
   "zh": "动漫社其实就是一群志同道合的人，凑在一起讨论番剧剧情，现场还原名场面。这个聚会地点对我们来说挺重要的，但现在实在太乱了，假发、道具和服装全堆在一起。我们想拜托你帮忙整理一下，最好能保持住Cosplay的氛围，让我们能把梦里的角色真正地召唤到现实中来！",
   "en": "The anime club is just a bunch of like-minded folks who get together to talk about anime and re-create iconic scenes. This meeting space means a lot to us, but it's become a mess—wigs, props, and costumes are all over. We'd love your help to tidy it up while keeping the cosplay vibes alive!",
-  "ru": ""
+  "ru": "Аниме-клуб — это просто компания единомышленников: собираемся, обсуждаем аниме и воссоздаём культовые сцены. Это место встреч для нас очень много значит, но тут сущий хаос — парики, реквизит и костюмы валяются повсюду. Будем рады, если поможешь прибраться и при этом сохранить косплейную атмосферу!"
  },
  {
   "key": "Quest/SuitTitle_27",
   "zh": "想开一家咖啡小站",
   "en": "Dreaming of a coffee stop",
-  "ru": ""
+  "ru": "Мечтаю о кофейне"
  },
  {
   "key": "Quest/SuitDescription_27",
   "zh": "我本来就爱喝咖啡，收集了不少进口豆子，想干脆开一家豆香四溢的咖啡小站。最好带点生活气息，可以让镇民在这里聊天歇脚，享受自由散漫的悠闲时刻。",
   "en": "I'm a coffee lover who's collected lots of imported beans. So I figured, why not open a cozy little coffee stand? One with a relaxed vibe where townsfolk can sit, chat, and enjoy the aroma of freshly brewed beans.",
-  "ru": ""
+  "ru": "Обожаю кофе, и у меня скопилась целая коллекция импортных зёрен. Вот и подумалось: почему бы не открыть маленькую уютную кофейню? Непринуждённую, где жители городка могут посидеть, поболтать и насладиться ароматом свежесваренного кофе."
  },
  {
   "key": "Quest/SuitTitle_28",
   "zh": "真的要交稿了！",
   "en": "Final deadline is here!",
-  "ru": ""
+  "ru": "Дедлайн горит!"
  },
  {
   "key": "Quest/SuitDescription_28",
   "zh": "我是一个写了好几年的网络小说作者，虽然一直不太有人看，但这次我真的感觉灵感来了！所以我想请人帮我把这间屋子布置得安静一点——最好有柔软的椅子、厚重的遮光窗帘，能让我不被打扰。别打断我的思路！如果我的小说大卖，一定算你一份功劳！",
   "en": "I've been writing web novels for years—never had many readers, but this time inspiration really hit me! So I need a calm writing space: soft chair, thick blackout curtains, and no interruptions. Don't break my focus! If this novel becomes a hit, you'll get all the credit!",
-  "ru": ""
+  "ru": "Уже несколько лет пишу сетевые романы — читателей всегда было негусто, но на этот раз меня по-настоящему накрыло вдохновением! Так что мне нужно тихое место для работы: мягкое кресло, плотные светонепроницаемые шторы и никаких помех. Не сбивай меня с мысли! Если роман выстрелит — вся слава тебе!"
  },
  {
   "key": "Quest/SuitTitle_29",
   "zh": "在日落后微醺",
   "en": "A little tipsy after sunset",
-  "ru": ""
+  "ru": "Лёгкий хмель после заката"
  },
  {
   "key": "Quest/SuitDescription_29",
   "zh": "夕阳落在了城市的天际线后面，端起酒杯看看电视，这就是我想要的生活。",
   "en": "The sun sets behind the city skyline, I raise my wine glass and watch TV—this is the life I want.",
-  "ru": ""
+  "ru": "Солнце садится за городской горизонт, я поднимаю бокал вина и смотрю телевизор — вот она, жизнь моей мечты."
  },
  {
   "key": "Quest/SuitTitle_30",
   "zh": "开一家小工作室",
   "en": "Open a small company",
-  "ru": ""
+  "ru": "Открыть маленькую студию"
  },
  {
   "key": "Quest/SuitDescription_30",
   "zh": "我是一个有良心的企业家，这次回小镇，就是想为小镇提供更多的就业岗位，让小镇繁荣发展嘿嘿。",
   "en": "I'm an ethical entrepreneur. Coming back to hometown this time, I just want to create more jobs and bring prosperity to the town, hehe.",
-  "ru": ""
+  "ru": "Я предприниматель с чистой совестью. Возвращаюсь в родной городок с одной целью: создать побольше рабочих мест и помочь ему процветать, хе-хе."
  },
  {
   "key": "Quest/SuitTitle_31",
   "zh": "是时候开始健康生活了",
   "en": "Time to start a healthy life",
-  "ru": ""
+  "ru": "Пора заняться здоровьем"
  },
  {
   "key": "Quest/SuitDescription_31",
   "zh": "忙碌的生活需要健康的体魄。你！现在！马上！一二三四，呼吸伸展！双臂张开，力量满满！",
   "en": "A healthy life needs a strong body. You! Right now! One-two-three-four—breathe, stretch! Arms wide open, full of energy!",
-  "ru": ""
+  "ru": "В суматошной жизни без крепкого тела никуда. Ты! Прямо сейчас! Раз-два-три-четыре — вдох, тянемся! Руки шире, энергии через край!"
  },
  {
   "key": "Quest/SuitTitle_32",
   "zh": "帮我打造一间充满灵感的工作室吧",
   "en": "Help Me Create an Inspiring Studio",
-  "ru": ""
+  "ru": "Помогите создать вдохновляющую студию"
  },
  {
   "key": "Quest/SuitDescription_32",
   "zh": "我想把这间屋子改成专用的漫画工作室！房间的采光一定要好，让人坐下来就想拿起笔！",
   "en": "I want to turn this place into a dedicated manga Studio! It needs plenty of natural light—the kind that makes you want to pick up a pen the moment you sit down!",
-  "ru": ""
+  "ru": "Хочу превратить это место в настоящую студию для рисования манги! Света нужно много, естественного — такого, чтобы, едва сев за стол, сразу хотелось взяться за перо!"
  },
  {
   "key": "Quest/SuitTitle_33",
   "zh": "想要一个让魔法扎根的家",
   "en": "A Home Where Magic Can Take Root",
-  "ru": ""
+  "ru": "Дом, где пустит корни магия"
  },
  {
   "key": "Quest/SuitDescription_33",
   "zh": "嘘——这是个秘密。我最近在研究一些古老的草药和矿物配方，急需一间可以安心实验的魔药室。风格最好神秘、复古一点，光线不用太亮，最好能挂几盏的壁灯，这才像个真正的魔药工坊。",
   "en": "Shh—it's a secret. I've been researching ancient herbal and mineral formulas lately, and I desperately need a potion room where I can experiment in peace. I'd like it to feel mysterious and vintage, with dim lighting and a few wall sconces. Now that's what a real potion workshop should look like.",
-  "ru": ""
+  "ru": "Тсс — это секрет. В последнее время изучаю древние рецепты из трав и минералов, и мне позарез нужна зельеварня, где можно спокойно ставить опыты. Хочется, чтобы там было таинственно и старинно: приглушённый свет, пара настенных бра. Вот как должна выглядеть настоящая мастерская зельевара!"
  },
  {
   "key": "Quest/SuitTitle_34",
   "zh": "我的二次元圣殿！",
   "en": "My Anime Sanctuary!",
-  "ru": ""
+  "ru": "Моё аниме-святилище!"
  },
  {
   "key": "Quest/SuitDescription_34",
   "zh": "救命！我的柜子已经彻底爆仓了，还有好几个刚拆箱的绝版手办没地方放！这次我下定决心要整一个专属的收藏室。",
   "en": "Help! My cabinets are completely overflowing, and I still have several newly unboxed, limited-edition figures with nowhere to put them! This time, I'm determined to create a dedicated collection room.",
-  "ru": ""
+  "ru": "Спасите! Шкафы забиты под завязку, а несколько только что распакованных лимитированных фигурок поставить уже некуда! На этот раз всё решено: обустраиваю отдельную комнату для коллекции."
  },
  {
   "key": "Quest/SuitTitle_35",
   "zh": "赐我一间能大展身手的厨房",
   "en": "Grant Me a Kitchen Where I Can Work My Magic",
-  "ru": ""
+  "ru": "Дайте мне кухню, где я смогу творить чудеса"
  },
  {
   "key": "Quest/SuitDescription_35",
   "zh": "对我来说，最治愈的事情就是待在厨房里研发新菜品了。我想把这里布置成一个超好用的料理空间！",
   "en": "Nothing soothes me more than spending time in the Kitchen developing new dishes. I want to turn this place into an incredibly practical cooking space!",
-  "ru": ""
+  "ru": "Ничто не успокаивает меня так, как возня на кухне над новыми блюдами. Хочу превратить это место в невероятно удобное пространство для готовки!"
  },
  {
   "key": "Quest/SuitTitle_36",
   "zh": "粗犷的雕刻工作室",
   "en": "A Rugged Sculpting Studio",
-  "ru": ""
+  "ru": "Брутальная мастерская скульптора"
  },
  {
   "key": "Quest/SuitDescription_36",
   "zh": "搞雕刻的人总是免不了和木屑、泥巴或者石粉打交道，所以我希望这间工作室能兼顾实用和耐脏。除了工作台之外，我还会摆上我亲手雕刻的作品。",
   "en": "Sculptors inevitably have to deal with sawdust, clay, and stone dust, so I want this Studio to be both practical and easy to keep looking clean. Along with a workbench, I'll also display pieces I've carved myself.",
-  "ru": ""
+  "ru": "Скульптору никуда не деться от опилок, глины и каменной пыли, поэтому мастерская должна быть практичной и немаркой. Кроме верстака, здесь будут стоять работы, вырезанные моими руками."
  },
  {
   "key": "Quest/SuitTitle_37",
   "zh": "每天都举行生日派对的房间",
   "en": "A Room Where Every Day Is a Birthday Party",
-  "ru": ""
+  "ru": "Комната, где каждый день — день рождения"
  },
  {
   "key": "Quest/SuitDescription_37",
   "zh": "我最喜欢庆祝生日了，我的一年365天都在开生日派对！我想邀请小镇上所有的好朋友来家里狂欢！帮我把这个大客厅布置成派对现场吧！",
   "en": "I love celebrating birthdays so much that I throw birthday parties all 365 days of the year! I want to invite all my good friends from Town over for a blast! Help me turn this big Living Room into the ultimate party venue!",
-  "ru": ""
+  "ru": "Обожаю праздновать дни рождения — так обожаю, что устраиваю вечеринки все 365 дней в году! Хочу позвать всех своих друзей из городка и оторваться на полную! Помоги превратить эту большую гостиную в лучшее место для вечеринки!"
  },
  {
   "key": "Quest/SuitTitle_38",
   "zh": "不用看天气的室内野餐房",
   "en": "An Indoor Picnic Room for Any Weather",
-  "ru": ""
+  "ru": "Комната для пикника в любую погоду"
  },
  {
   "key": "Quest/SuitDescription_38",
   "zh": "唉，每次兴冲冲准备去野餐总是碰上大暴雨，真是太扫兴了。我干脆打算在屋里弄个“室内野餐”圣地！让我就算在屋里，也能和小伙伴一起吃着三明治、吃着水果，假装在郊外享受悠闲的午后。",
   "en": "Ugh, every time I get excited about going on a picnic, a huge rainstorm rolls in and ruins everything. So I've decided to create an “indoor picnic” paradise instead! I want to enjoy sandwiches and fruit with my friends indoors while pretending we're spending a leisurely afternoon out in the countryside.",
-  "ru": ""
+  "ru": "Эх, стоит мне загореться идеей пикника, как обязательно налетает ливень и всё портит. Поэтому решено: устрою дома райский уголок для «пикника в четырёх стенах»! Хочу уплетать с друзьями бутерброды и фрукты прямо в комнате и делать вид, что мы проводим неспешный денёк за городом."
  },
  {
   "key": "Quest/SuitTitle_39",
   "zh": "明亮专业的美妆工作室",
   "en": "A Bright, Professional Beauty Studio",
-  "ru": ""
+  "ru": "Светлая профессиональная студия красоты"
  },
  {
   "key": "Quest/SuitDescription_39",
   "zh": "作为一名化妆师，我的化妆品真的多到数不清。我需要一间超级精致、明亮的工作室。整体风格希望是干净、现代的！",
   "en": "As a makeup artist, I have more cosmetics than I can count. I need an exceptionally elegant, brightly lit Studio with a clean, modern look!",
-  "ru": ""
+  "ru": "Я визажист, и косметики у меня столько, что не сосчитать. Мне нужна изысканная, залитая светом студия — чистая и современная!"
  },
  {
   "key": "Quest/SuitTitle_40",
   "zh": "静谧的中式茶室",
   "en": "A Tranquil Chinese Tea Room",
-  "ru": ""
+  "ru": "Тихая китайская чайная комната"
  },
  {
   "key": "Quest/SuitDescription_40",
   "zh": "最近生活节奏太快了，总想找个地方静静心。我想布置一间充满禅意和墨香的中式茶室。",
   "en": "Life has been moving too fast lately, and I've been longing for somewhere to calm my mind. I'd like to create a Chinese tea room filled with Zen tranquility and the fragrance of ink.",
-  "ru": ""
+  "ru": "Жизнь в последнее время несётся слишком быстро, и так хочется уголка, где можно успокоить мысли. Мечтаю о китайской чайной комнате, полной дзенского покоя и аромата туши."
  },
  {
   "key": "Quest/SuitTitle_41",
   "zh": "打造一间离星星最近的天文馆测室",
   "en": "Create an Observatory Close to the Stars",
-  "ru": ""
+  "ru": "Обсерватория поближе к звёздам"
  },
  {
   "key": "Quest/SuitDescription_41",
   "zh": "我想在天空漫游......化为点缀苍穹的星辰......",
   "en": "I long to roam the skies... to become a star adorning the vast expanse above...",
-  "ru": ""
+  "ru": "Хочу странствовать по небу... стать звездой, что украшает бескрайний небосвод..."
  },
  {
   "key": "Quest/SuitTitle_42",
   "zh": "想在房间里感受海滨度假的快乐",
   "en": "Bring the Joy of a Seaside Vacation into My Room",
-  "ru": ""
+  "ru": "Морской отпуск у меня в комнате"
  },
  {
   "key": "Quest/SuitDescription_42",
   "zh": "请把我的房间变成海滨度假风吧！整体色调一定要是蓝白相间的，让人一进门就想到沙滩。",
   "en": "Please give my room a seaside resort look! The color scheme absolutely has to be blue and white, so that the moment anyone walks in, they'll think of the beach.",
-  "ru": ""
+  "ru": "Пожалуйста, превратите мою комнату в морской курорт! Цвета — непременно белый с синим, чтобы любой, кто войдёт, сразу вспоминал пляж."
  },
  {
   "key": "Quest/SuitTitle_43",
   "zh": "想要一间从童话里的梦幻小屋",
   "en": "A Dreamy Cottage Straight Out of a Fairy Tale",
-  "ru": ""
+  "ru": "Домик мечты прямо из сказки"
  },
  {
   "key": "Quest/SuitDescription_43",
   "zh": "我从小就有一个梦想，住在魔法森林的童话小屋里。这个房间一定要布置得超级梦幻和温馨！我想要有很多很多、郁郁葱葱的花朵和绿植。",
   "en": "Ever since I was little, I've dreamed of living in a fairy-tale cottage in an enchanted forest. This room has to feel incredibly dreamy and cozy! I want it filled with countless lush flowers and green plants.",
-  "ru": ""
+  "ru": "С самого детства мечтаю жить в сказочном домике посреди волшебного леса. Эта комната должна получиться невероятно уютной и волшебной! Хочу, чтобы она утопала в цветах и пышной зелени."
  },
  {
   "key": "Quest/SuitTitle_44",
   "zh": "帮我们重温青春的宿舍",
   "en": "A Dorm to Help Us Relive Our Youth",
-  "ru": ""
+  "ru": "Общежитие, чтобы вспомнить молодость"
  },
  {
   "key": "Quest/SuitDescription_44",
   "zh": "毕业好多年了，真的很怀念当年和室友们一起熬夜赶论文、聊八卦的日子。我想把这个房间改成经典的学校宿舍风。",
   "en": "It's been years since graduation, and I really miss those nights spent staying up late with my roommates, rushing to finish our papers and sharing gossip. I want to give this room the look of a classic school dorm.",
-  "ru": ""
+  "ru": "Выпускной давно позади, а я до сих пор скучаю по ночам с соседями по комнате: доделывали курсовые в последний момент и перемывали всем косточки. Хочу превратить эту комнату в настоящее студенческое общежитие."
  },
  {
   "key": "Quest/SuitTitle_45",
   "zh": "治愈满满的缤纷甜品站",
   "en": "A Colorful Feel-Good Dessert Bar",
-  "ru": ""
+  "ru": "Яркий десертный уголок для хорошего настроения"
  },
  {
   "key": "Quest/SuitDescription_45",
   "zh": "甜食绝对是世界上最棒的解压神器！我不打算开大店，就想在自己的家里弄一个小小的甜品站，让每一个路过的邻居都能闻到甜甜的香气。",
   "en": "Sweets are hands down the best stress reliever in the world! I don't want to open a big shop—just a little dessert bar in my own home, where every neighbor passing by can catch a whiff of something sweet.",
-  "ru": ""
+  "ru": "Сладости — лучшее средство от стресса на свете, и точка! Большую кондитерскую открывать не собираюсь — только маленький десертный уголок у себя дома, чтобы каждый проходящий мимо сосед чуял сладкий аромат."
  },
  {
   "key": "Quest/SuitTitle_46",
   "zh": "布置我的潮流衣帽间",
   "en": "Designing My Trendy Walk-In Closet",
-  "ru": ""
+  "ru": "Модная гардеробная моей мечты"
  },
  {
   "key": "Quest/SuitDescription_46",
   "zh": "作为一个衣服狂热爱好者，“今天穿什么”是我每天最重要的问题。我急需一个梦幻般的超大衣帽间！",
   "en": "As a total fashion fanatic, “What should I wear today?” is the most important question I face every day. I desperately need a huge, dreamy walk-in closet!",
-  "ru": ""
+  "ru": "Мода — моя страсть, и вопрос «Что надеть сегодня?» — главный вопрос моего дня. Мне позарез нужна огромная гардеробная мечты!"
  },
  {
   "key": "Quest/SuitTitle_47",
   "zh": "给我的毛孩子一个玩耍的空间",
   "en": "A Place for My Pup to Play",
-  "ru": ""
+  "ru": "Место для игр моего щенка"
  },
  {
   "key": "Quest/SuitDescription_47",
   "zh": "刚领养了一只精力超级旺盛的小狗狗，我想给它打造一个专属的玩耍和休息空间，让它可以在屋里快乐地撒欢、摇尾巴。",
   "en": "I just adopted a super energetic puppy, and I want to create a special place where it can play and rest—somewhere it can romp around the house and wag its tail to its heart's content.",
-  "ru": ""
+  "ru": "У меня недавно появился ужасно энергичный щенок, и я хочу устроить ему собственный уголок для игр и отдыха — чтобы он вдоволь носился по дому и вилял хвостом."
  },
  {
   "key": "Quest/SuitTitle_48",
   "zh": "想要一间专业的摄影工作室",
   "en": "A Professional Photography Studio",
-  "ru": ""
+  "ru": "Профессиональная фотостудия"
  },
  {
   "key": "Quest/SuitDescription_48",
   "zh": "拍照是我的生命！我需要一间兼顾拍摄和后期的工作室。不用太多花哨的装饰，黑白灰色调、专业冷酷一点就好。",
   "en": "Photography is my life! I need a Studio for both photo shoots and post-production. Nothing too ornate—just a cool, professional look in black, white, and gray.",
-  "ru": ""
+  "ru": "Фотография — моя жизнь! Мне нужна студия и для съёмок, и для обработки. Никаких излишеств — только строгий профессиональный стиль в чёрном, белом и сером."
  },
  {
   "key": "Quest/SuitTitle_49",
   "zh": "围绕睡觉设计的房间",
   "en": "A Room Designed Around Sleep",
-  "ru": ""
+  "ru": "Комната, созданная для сна"
  },
  {
   "key": "Quest/SuitDescription_49",
   "zh": "作为一个严重的失眠患者兼重度床榻依赖者，我唯一的诉求就是：睡个好觉！这个房间的一切都要为睡眠服务。房间正中心必须是一张超大、超软的双人床，配合着味道轻柔的香薰。只要能让我一躺下就一秒入睡，那就完美了。",
   "en": "As someone with severe insomnia who practically lives in bed, I have just one request: a good night's sleep! Everything in this room should be designed with sleep in mind. There must be an enormous, ultra-soft double bed right in the center, paired with a gently scented diffuser. If it can help me fall asleep the second I lie down, it'll be perfect.",
-  "ru": ""
+  "ru": "Я страдаю жуткой бессонницей и практически живу в кровати, поэтому у меня всего одна просьба: крепкий сон! Всё в этой комнате должно служить сну. В самом центре — огромная, сверхмягкая двуспальная кровать, а рядом — диффузор с нежным ароматом. Если я буду засыпать в ту же секунду, как лягу, — это будет идеально."
  }
 ]

@@ -3,13 +3,13 @@
   "key": "QuestCompletionPrompt/Side",
   "zh": "工作任务",
   "en": "Work Tasks",
-  "ru": ""
+  "ru": "Рабочие задания"
  },
  {
   "key": "QuestCompletionPrompt/Explore",
   "zh": "探索事件",
   "en": "Exploration Events",
-  "ru": ""
+  "ru": "События"
  },
  {
   "key": "QuestCompletionPrompt/11",
@@ -21,25 +21,25 @@
   "key": "QuestCompletionPrompt/12",
   "zh": "已完成“搬入新家吧！”。",
   "en": "Task Completed: \"Move Into Your New Home!\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Переезд в новый дом!»"
  },
  {
   "key": "QuestCompletionPrompt/13",
   "zh": "已完成“客厅”。",
   "en": "Task Completed: \"Living Room\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Гостиная»"
  },
  {
   "key": "QuestCompletionPrompt/14",
   "zh": "已完成“洗手间”。",
   "en": "Task Completed: \"Bathroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Санузел»"
  },
  {
   "key": "QuestCompletionPrompt/15",
   "zh": "已完成“厨房”。",
   "en": "Task Completed: \"Kitchen\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Кухня»"
  },
  {
   "key": "QuestCompletionPrompt/21",
@@ -57,37 +57,37 @@
   "key": "QuestCompletionPrompt/23",
   "zh": "已完成“拿出物品填充房间吧！”。",
   "en": "Task Completed: \"Unpack and Fill the Room!\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Распаковать вещи и обставить комнату!»"
  },
  {
   "key": "QuestCompletionPrompt/24",
   "zh": "已完成“客厅”。",
   "en": "Task Completed: \"Living Room\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Гостиная»"
  },
  {
   "key": "QuestCompletionPrompt/25",
   "zh": "已完成“洗手间”。",
   "en": "Task Completed: \"Bathroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Санузел»"
  },
  {
   "key": "QuestCompletionPrompt/26",
   "zh": "已完成“走廊”。",
   "en": "Task Completed: \"Hallway\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Коридор»"
  },
  {
   "key": "QuestCompletionPrompt/27",
   "zh": "已完成“卧室”。",
   "en": "Task Completed: \"Bedroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Спальня»"
  },
  {
   "key": "QuestCompletionPrompt/28",
   "zh": "已完成“清洁洗手间”。",
   "en": "Task Completed: \"Clean Bathroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Убрать санузел»"
  },
  {
   "key": "QuestCompletionPrompt/31",
@@ -105,7 +105,7 @@
   "key": "QuestCompletionPrompt/33",
   "zh": "已完成“安装监控”。",
   "en": "Task Completed: \"Install the Surveillance System\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Установить видеонаблюдение»"
  },
  {
   "key": "QuestCompletionPrompt/34",
@@ -123,19 +123,19 @@
   "key": "QuestCompletionPrompt/36",
   "zh": "已完成“整理混乱的大厅并重新布置”。",
   "en": "Task Completed: \"Clean Up and Rearrange the Messy Lobby\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Прибрать и заново обставить захламлённый вестибюль»"
  },
  {
   "key": "QuestCompletionPrompt/37",
   "zh": "已完成“为新员工改造地下库房”。",
   "en": "Task Completed: \"Renovate the Basement Storage for the New Employee\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Переделать подвальную кладовую для нового сотрудника»"
  },
  {
   "key": "QuestCompletionPrompt/38",
   "zh": "已完成“修理马桶漏水”。",
   "en": "Event Explored: \"Fix the Leaking Toilet\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Починить протекающий унитаз»"
  },
  {
   "key": "QuestCompletionPrompt/39",
@@ -165,37 +165,37 @@
   "key": "QuestCompletionPrompt/43",
   "zh": "已完成“归林之鸟：童年小屋大扫除！”。",
   "en": "Event Explored: \"Bird Back to the Woods: Childhood Cabin Cleanup!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Птица вернулась в лес: уборка в домике детства!»"
  },
  {
   "key": "QuestCompletionPrompt/44",
   "zh": "已完成“丢弃垃圾”。",
   "en": "Task Completed: \"Throw Away Trash\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Выбросить мусор»"
  },
  {
   "key": "QuestCompletionPrompt/45",
   "zh": "已完成“擦净污渍”。",
   "en": "Task Completed: \"Wipe Off Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Оттереть пятна»"
  },
  {
   "key": "QuestCompletionPrompt/46",
   "zh": "已完成“清理水渍”。",
   "en": "Task Completed: \"Clean Water Marks\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Убрать водяные разводы»"
  },
  {
   "key": "QuestCompletionPrompt/49",
   "zh": "已完成“修理橱柜”。",
   "en": "Task Completed: \"Repair Cabinet\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Починить шкафчик»"
  },
  {
   "key": "QuestCompletionPrompt/100057",
   "zh": "已完成“修理置物架”。",
   "en": "Task Completed: \"Repair Shelf\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Починить стеллаж»"
  },
  {
   "key": "QuestCompletionPrompt/51",
@@ -213,25 +213,25 @@
   "key": "QuestCompletionPrompt/53",
   "zh": "已完成“封存过去的梦”。",
   "en": "Event Explored: \"Seal Away Dreams of the Past\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Запечатать сны прошлого»"
  },
  {
   "key": "QuestCompletionPrompt/54",
   "zh": "已完成“擦除洒落的药水”。",
   "en": "Task Completed: \"Wipe Up Spilled Potion\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Вытереть пролитое зелье»"
  },
  {
   "key": "QuestCompletionPrompt/55",
   "zh": "已完成“清理打翻的玻璃试剂瓶”。",
   "en": "Task Completed: \"Clean Up Tipped-Over Glass Vial\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Убрать опрокинутую склянку»"
  },
  {
   "key": "QuestCompletionPrompt/100062",
   "zh": "已完成“扫除阴霾”。",
   "en": "Task Completed: \"Clear the Gloom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Развеять мрак»"
  },
  {
   "key": "QuestCompletionPrompt/57",
@@ -255,7 +255,7 @@
   "key": "QuestCompletionPrompt/60",
   "zh": "已完成“女孩遗失的手帕”。",
   "en": "Event Explored: \"Find the Girl's Lost Handkerchief\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Найти платок, который потеряла девушка»"
  },
  {
   "key": "QuestCompletionPrompt/62",
@@ -345,13 +345,13 @@
   "key": "QuestCompletionPrompt/83",
   "zh": "已完成工作任务“清理旧家具”。",
   "en": "Task Completed: \"Clear Out Old Furniture\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Вынести старую мебель»"
  },
  {
   "key": "QuestCompletionPrompt/84",
   "zh": "已完成工作任务“重新布置大厅”。",
   "en": "Task Completed: \"Redecorate the Lobby\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Заново обставить вестибюль»"
  },
  {
   "key": "QuestCompletionPrompt/85",
@@ -405,13 +405,13 @@
   "key": "QuestCompletionPrompt/93",
   "zh": "已完成工作任务“为大厅放置合适的藏品”。",
   "en": "Task Completed: \"Place Exhibits in the Lobby\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Расставить экспонаты в вестибюле»"
  },
  {
   "key": "QuestCompletionPrompt/94",
   "zh": "已完成工作任务“为化石馆放置合适的藏品”。",
   "en": "Task Completed: \"Place Exhibits in the Fossil Hall\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Расставить экспонаты в зале окаменелостей»"
  },
  {
   "key": "QuestCompletionPrompt/95",
@@ -423,7 +423,7 @@
   "key": "QuestCompletionPrompt/96",
   "zh": "已完成探索事件“星河寻迹活动”。",
   "en": "Event Explored: \"Stellar Trail Hunt\"",
-  "ru": ""
+  "ru": "Событие пройдено: «По следам Млечного Пути»"
  },
  {
   "key": "QuestCompletionPrompt/97",
@@ -459,7 +459,7 @@
   "key": "QuestCompletionPrompt/102",
   "zh": "已完成“归档！遗物处理”。",
   "en": "Task Completed: \"Archive! Relic Sorting\"",
-  "ru": ""
+  "ru": "Задание выполнено: «В архив! Разбор реликвий»"
  },
  {
   "key": "QuestCompletionPrompt/103",
@@ -471,13 +471,13 @@
   "key": "QuestCompletionPrompt/104",
   "zh": "已完成“重要物件！”。",
   "en": "Task Completed: \"Important Items!\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Важные вещи!»"
  },
  {
   "key": "QuestCompletionPrompt/105",
   "zh": "已完成“关窗！”。",
   "en": "Task Completed: \"Close The Window!\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Закрыть окно!»"
  },
  {
   "key": "QuestCompletionPrompt/106",
@@ -525,13 +525,13 @@
   "key": "QuestCompletionPrompt/113",
   "zh": "已完成工作任务“布置新办公室 ”。",
   "en": "Task Completed: \"Set Up the New Office\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Обустроить новый офис»"
  },
  {
   "key": "QuestCompletionPrompt/114",
   "zh": "已完成工作任务“归档房内遗留文件到纸箱”。",
   "en": "Task Completed: \"Archive Remaining Files into Boxes\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Сложить оставшиеся бумаги в коробки»"
  },
  {
   "key": "QuestCompletionPrompt/115",
@@ -579,19 +579,19 @@
   "key": "QuestCompletionPrompt/122",
   "zh": "已完成“归林之鸟：欢迎回家！”。",
   "en": "Event Explored: \"Bird Back to the Woods: Welcome Home!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Птица вернулась в лес: с возвращением домой!»"
  },
  {
   "key": "QuestCompletionPrompt/123",
   "zh": "已完成“擦净家具的灰尘”。",
   "en": "Task Completed: \"Wipe Dust Off Furniture\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Стереть пыль с мебели»"
  },
  {
   "key": "QuestCompletionPrompt/124",
   "zh": "已完成工作任务“布置实验室 ”。",
   "en": "Task Completed:  \"Decorate the Lab\"",
-  "ru": ""
+  "ru": "Задание выполнено:  «Обустроить лабораторию»"
  },
  {
   "key": "QuestCompletionPrompt/125",
@@ -615,49 +615,49 @@
   "key": "QuestCompletionPrompt/192",
   "zh": "已完成工作任务“布置新家”。",
   "en": "Task Completed: \"Set Up the New Home\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Обустроить новый дом»"
  },
  {
   "key": "QuestCompletionPrompt/203",
   "zh": "已完成工作任务“布置餐馆大厅”。",
   "en": "Task Completed: \"Decorate the Restaurant Lobby\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Обустроить обеденный зал ресторана»"
  },
  {
   "key": "QuestCompletionPrompt/204",
   "zh": "已完成工作任务“布置餐馆厨房”。",
   "en": "Task Completed: \"Decorate the Restaurant Kitchen\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Обустроить кухню ресторана»"
  },
  {
   "key": "QuestCompletionPrompt/213",
   "zh": "已完成“墓地焕新工程”。",
   "en": "Event Explored: \"Graveyard Renewal Project\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Кладбище в новом облике»"
  },
  {
   "key": "QuestCompletionPrompt/215",
   "zh": "已完成“这就是节日氛围！”。",
   "en": "Event Explored: \"This Is the Holiday Spirit!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Вот оно, праздничное настроение!»"
  },
  {
   "key": "QuestCompletionPrompt/218",
   "zh": "已完成“再见一面吧，故人！”。",
   "en": "Event Explored: \"One Last Goodbye, Old Friend!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Попрощаемся напоследок, старый друг!»"
  },
  {
   "key": "QuestCompletionPrompt/223",
   "zh": "已完成“便利店开业”。",
   "en": "Event Explored: \"Convenience Store Opens\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Открытие магазина у дома»"
  },
  {
   "key": "QuestCompletionPrompt/233",
   "zh": "已完成工作任务“布置手办屋”。",
   "en": "Task Completed: \"Decorate the Figurine Room\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Обустроить комнату с фигурками»"
  },
  {
   "key": "QuestCompletionPrompt/253",
@@ -687,396 +687,396 @@
   "key": "QuestCompletionPrompt/257",
   "zh": "已完成“找到爱机斯坦”。",
   "en": "Event Explored: \"Find EinSmart\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Найти Умнштейна»"
  },
  {
   "key": "QuestCompletionPrompt/258",
   "zh": "已完成“时空穿越！去往过去的家”。",
   "en": "Event Explored: \"Time Travel! Back to the Home in the Past\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Путешествие во времени! Назад, в дом из прошлого»"
  },
  {
   "key": "QuestCompletionPrompt/259",
   "zh": "已完成“帮助老人家继续搬家吧！”。",
   "en": "Event Explored: \"Help Grandpa Keep Moving!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Помочь Дедушке с переездом!»"
  },
  {
   "key": "QuestCompletionPrompt/1000260",
   "zh": "已完成“种树！种树！”。",
   "en": "Event Explored: \"Plant Trees! Plant Trees!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Сажаем деревья! Сажаем деревья!»"
  },
  {
   "key": "QuestCompletionPrompt/263",
   "zh": "已完成“开启新生活”。",
   "en": "Event Explored: \"Start a New Life\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Начать новую жизнь»"
  },
  {
   "key": "QuestCompletionPrompt/264",
   "zh": "已完成“洗手间”。",
   "en": "Task Completed: \"Bathroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Санузел»"
  },
  {
   "key": "QuestCompletionPrompt/265",
   "zh": "已完成“卧室”。",
   "en": "Task Completed: \"Bedroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Спальня»"
  },
  {
   "key": "QuestCompletionPrompt/313",
   "zh": "已完成“计划中的植物店！”。",
   "en": "Task Completed: \"The Planned Flower Shop!\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Цветочный магазин по плану!»"
  },
  {
   "key": "QuestCompletionPrompt/333",
   "zh": "已完成“便利店扩张计划”。",
   "en": "Task Completed: \"Convenience Store Expansion Plan\"",
-  "ru": ""
+  "ru": "Задание выполнено: «План расширения магазина у дома»"
  },
  {
   "key": "QuestCompletionPrompt/343",
   "zh": "已完成“开店首秀！”。",
   "en": "Task Completed: \"Opening Day Debut!\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Дебют в день открытия!»"
  },
  {
   "key": "QuestCompletionPrompt/353",
   "zh": "已完成“做面包的日常很美好！”。",
   "en": "Event Explored: \"Sweet Days of Baking!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Сладкие будни пекаря!»"
  },
  {
   "key": "QuestCompletionPrompt/354",
   "zh": "已完成“烘焙间”。",
   "en": "Task Completed: \"Bakery Room\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Пекарский цех»"
  },
  {
   "key": "QuestCompletionPrompt/355",
   "zh": "已完成“卧室”。",
   "en": "Task Completed: \"Bedroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Спальня»"
  },
  {
   "key": "QuestCompletionPrompt/356",
   "zh": "已完成“洗手间”。",
   "en": "Task Completed: \"Bathroom\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Санузел»"
  },
  {
   "key": "QuestCompletionPrompt/270",
   "zh": "已完成“塔顶的秘密”。",
   "en": "Event Explored: \"The Secret at the Top of the Tower\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Тайна на вершине башни»"
  },
  {
   "key": "QuestCompletionPrompt/372",
   "zh": "已完成“装修前的准备”。",
   "en": "Task Completed: \"Pre-renovation Prep\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Подготовка к ремонту»"
  },
  {
   "key": "QuestCompletionPrompt/374",
   "zh": "已完成“在律动中微醺”。",
   "en": "Event Explored: \"Lightly Drunk in the Rhythm\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Хмельные ритмы»"
  },
  {
   "key": "QuestCompletionPrompt/382",
   "zh": " 已完成“找到藏匿的妖怪们”。",
   "en": "Event Explored: \"Find the Hidden Yokai\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Найти спрятавшихся ёкаев»"
  },
  {
   "key": "QuestCompletionPrompt/383",
   "zh": " 已完成“雪女的连环加餐请求”。",
   "en": "Event Explored: \"Silent in the Frost\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Тишина в инее»"
  },
  {
   "key": "QuestCompletionPrompt/384",
   "zh": " 已完成“三缺一？”。",
   "en": "Event Explored: \"Lanterns: One Missing\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Фонари: одного не хватает»"
  },
  {
   "key": "QuestCompletionPrompt/385",
   "zh": " 已完成“面具碎片大搜查”。",
   "en": "Event Explored: \"Mask Fragment Hunt\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Охота за осколками маски»"
  },
  {
   "key": "QuestCompletionPrompt/386",
   "zh": " 已完成“谁老爱把荷叶帽顺走？”。",
   "en": "Event Explored: \"Who Keeps Taking the Lotus Leaf Hat?\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Кто всё время таскает шляпу из листа лотоса?»"
  },
  {
   "key": "QuestCompletionPrompt/387",
   "zh": " 已完成“雪花屏快递员饿了！”。",
   "en": "Event Explored: \"The Static-Screen Courier Is Hungry!\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Курьер с рябью на экране проголодался!»"
  },
  {
   "key": "QuestCompletionPrompt/388",
   "zh": " 已完成“打盹的箱子”。",
   "en": "Event Explored: \"The Dozing Chest\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Сундук-соня»"
  },
  {
   "key": "QuestCompletionPrompt/389",
   "zh": " 已完成“小小天气管家”。",
   "en": "Event Explored: \"Little Weather Keeper\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Маленький хранитель погоды»"
  },
  {
   "key": "QuestCompletionPrompt/1000390",
   "zh": " 已完成“三味线要先弹给谁听？”。",
   "en": "Event Explored: \"Who Gets the First Shamisen Tune?\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Кому сыграть первую мелодию на сямисэне?»"
  },
  {
   "key": "QuestCompletionPrompt/1000391",
   "zh": " 已完成“尾巴？眼睛？耳朵？”。",
   "en": "Event Explored: \"Tail? Eyes? Ears?\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Хвост? Глаза? Уши?»"
  },
  {
   "key": "QuestCompletionPrompt/1000392",
   "zh": " 已完成“电饭锅里不是饭的味道”。",
   "en": "Event Explored: \"That's Not the Smell of Rice in There\"",
-  "ru": ""
+  "ru": "Событие пройдено: «В рисоварке пахнет вовсе не рисом»"
  },
  {
   "key": "QuestCompletionPrompt/1000393",
   "zh": " 已完成“庭院探索”。",
   "en": "Event Explored: \"Courtyard Exploration\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Исследование двора»"
  },
  {
   "key": "QuestCompletionPrompt/1000394",
   "zh": " 已完成“耙沙大师”。",
   "en": "Event Explored: \"Master of Sand-Raking\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Мастер песочных узоров»"
  },
  {
   "key": "QuestCompletionPrompt/1000395",
   "zh": " 已完成“童年的玩具”。",
   "en": "Event Explored: \"Toy from Childhood\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Игрушка из детства»"
  },
  {
   "key": "QuestCompletionPrompt/1000396",
   "zh": " 已完成“木偶一家”。",
   "en": "Event Explored: \"The Puppet Family\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Кукольная семья»"
  },
  {
   "key": "QuestCompletionPrompt/1000398",
   "zh": "已完成“布置新家”。",
   "en": "Task Completed: \"Set Up the New Home\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Обустроить новый дом»"
  },
  {
   "key": "QuestCompletionPrompt/392",
   "zh": "已完成“万事俱备，只欠美食”。",
   "en": "Event Explored: \"Everything's Ready, Just Missing the Feast\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Всё готово, не хватает только угощения»"
  },
  {
   "key": "QuestCompletionPrompt/394",
   "zh": "已完成“宾至如归”。",
   "en": "Event Explored: \"Feel Right at Home\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Как дома»"
  },
  {
   "key": "QuestCompletionPrompt/1000405",
   "zh": "已完成“好味小馆的上帝们”。",
   "en": "Task Completed: \"The Gods of Tasty Diner\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Боги „Вкуснотищи“»"
  },
  {
   "key": "QuestCompletionPrompt/6102",
   "zh": "已完成“房间大扫除”。",
   "en": "Task Completed: \"Deep Room Cleaning\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Генеральная уборка комнаты»"
  },
  {
   "key": "QuestCompletionPrompt/6103",
   "zh": "已完成“丢弃垃圾”。",
   "en": "Task Completed: \"Throw Away Trash\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Выбросить мусор»"
  },
  {
   "key": "QuestCompletionPrompt/6104",
   "zh": "已完成“擦净污渍”。",
   "en": "Task Completed: \"Wipe Off Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Оттереть пятна»"
  },
  {
   "key": "QuestCompletionPrompt/6105",
   "zh": "已完成“清理地面脏迹”。",
   "en": "Task Completed: \"Clean Floor Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Отмыть пятна на полу»"
  },
  {
   "key": "QuestCompletionPrompt/6106",
   "zh": "已完成“清理野生植物”。",
   "en": "Task Completed: \"Clear Wild Plants\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Убрать дикие растения»"
  },
  {
   "key": "QuestCompletionPrompt/6107",
   "zh": "已完成“清理蜘蛛网”。",
   "en": "Task Completed: \"Remove Spider Webs\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Смести паутину»"
  },
  {
   "key": "QuestCompletionPrompt/6202",
   "zh": "已完成“房间大扫除”。",
   "en": "Task Completed: \"Deep Room Cleaning\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Генеральная уборка комнаты»"
  },
  {
   "key": "QuestCompletionPrompt/6203",
   "zh": "已完成“丢弃垃圾”。",
   "en": "Task Completed: \"Throw Away Trash\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Выбросить мусор»"
  },
  {
   "key": "QuestCompletionPrompt/6204",
   "zh": "已完成“擦净污渍”。",
   "en": "Task Completed: \"Wipe Off Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Оттереть пятна»"
  },
  {
   "key": "QuestCompletionPrompt/6205",
   "zh": "已完成“清理地面脏迹”。",
   "en": "Task Completed: \"Clean Floor Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Отмыть пятна на полу»"
  },
  {
   "key": "QuestCompletionPrompt/6206",
   "zh": "已完成“清理蜘蛛网”。",
   "en": "Task Completed: \"Remove Spider Webs\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Смести паутину»"
  },
  {
   "key": "QuestCompletionPrompt/6302",
   "zh": "已完成“房间大扫除”。",
   "en": "Task Completed: \"Deep Room Cleaning\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Генеральная уборка комнаты»"
  },
  {
   "key": "QuestCompletionPrompt/6303",
   "zh": "已完成“丢弃垃圾”。",
   "en": "Task Completed: \"Throw Away Trash\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Выбросить мусор»"
  },
  {
   "key": "QuestCompletionPrompt/6304",
   "zh": "已完成“擦净污渍”。",
   "en": "Task Completed: \"Wipe Off Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Оттереть пятна»"
  },
  {
   "key": "QuestCompletionPrompt/6305",
   "zh": "已完成“清理地面脏迹”。",
   "en": "Task Completed: \"Clean Floor Stains\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Отмыть пятна на полу»"
  },
  {
   "key": "QuestCompletionPrompt/6306",
   "zh": "已完成“清理野生植物”。",
   "en": "Task Completed: \"Clear Wild Plants\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Убрать дикие растения»"
  },
  {
   "key": "QuestCompletionPrompt/6307",
   "zh": "已完成“清理蜘蛛网”。",
   "en": "Task Completed: \"Remove Spider Webs\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Смести паутину»"
  },
  {
   "key": "QuestCompletionPrompt/413",
   "zh": "已完成“抢救物品”",
   "en": "Task Completed: \"Rescued Items\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Спасённые вещи»"
  },
  {
   "key": "QuestCompletionPrompt/415",
   "zh": "已完成“营地搬迁”",
   "en": "Task Completed: \"Camp Relocation\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Переезд лагеря»"
  },
  {
   "key": "QuestCompletionPrompt/417",
   "zh": "已完成“焕然一新”",
   "en": "Task Completed: \"Brand New Look\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Всё как новое»"
  },
  {
   "key": "QuestCompletionPrompt/419",
   "zh": "已完成“鱼儿的新家”",
   "en": "Event Explored: \"Fish's New Home\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Новый дом для рыбки»"
  },
  {
   "key": "QuestCompletionPrompt/422",
   "zh": "已完成“帮助雅琳搬入新家”。",
   "en": "Task Completed: \"Helped A-Rin Move Into Her New Home\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Помочь Арин переехать в новый дом»"
  },
  {
   "key": "QuestCompletionPrompt/425",
   "zh": "已完成“安置大福”。",
   "en": "Task Completed: \"Settled Mochi\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Устроить Моти»"
  },
  {
   "key": "QuestCompletionPrompt/427",
   "zh": "已完成“布置挂板”。",
   "en": "Task Completed: \"Set Up the Pegboard\"",
-  "ru": ""
+  "ru": "Задание выполнено: «Оформить перфорированную панель»"
  },
  {
   "key": "QuestCompletionPrompt/433",
   "zh": "已完成“衣锦还乡”",
   "en": "Event Explored: \"Homecoming\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Возвращение с триумфом»"
  },
  {
   "key": "QuestCompletionPrompt/436",
   "zh": "已完成“特别展示”",
   "en": "Event Explored: \"Special Exhibition\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Особая выставка»"
  },
  {
   "key": "QuestCompletionPrompt/438",
   "zh": "已完成“封箱仪式”",
   "en": "Event Explored: \"Sealing Ceremony\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Церемония запечатывания»"
  },
  {
   "key": "QuestCompletionPrompt/460",
   "zh": "已完成“传家宝藏”",
   "en": "Event Explored: \"Heirloom Treasure\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Фамильное сокровище»"
  },
  {
   "key": "QuestCompletionPrompt/442",
   "zh": "已完成“富豪入住”",
   "en": "Event Explored: \"Rich Guest Arrives\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Приезд богача»"
  },
  {
   "key": "QuestCompletionPrompt/444",
   "zh": "已完成“烧烤派对”",
   "en": "Event Explored: \"BBQ Party\"",
-  "ru": ""
+  "ru": "Событие пройдено: «Вечеринка-барбекю»"
  }
 ]

@@ -122,7 +122,7 @@ def check(a):
                 problems.append({"key": e["key"], "issue": "tags", "en": e["en"], "ru": e["ru"]})
             elif e["en"].count("\n") != e["ru"].count("\n"):
                 problems.append({"key": e["key"], "issue": "newlines", "en": e["en"], "ru": e["ru"]})
-            elif LATIN.search(re.sub(r"<[^>]*>|\{[^}]*\}", "", e["ru"])) and LATIN.search(e["en"]) and not a.allow_latin:
+            elif LATIN.search(re.sub(r"<[^>]*>|\{[^}]*\}|\\n", "", e["ru"])) and LATIN.search(e["en"]) and not a.allow_latin:
                 problems.append({"key": e["key"], "issue": "latin", "en": e["en"], "ru": e["ru"]})
     os.makedirs(WORK, exist_ok=True)
     json.dump(problems, open(os.path.join(WORK, "check.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
