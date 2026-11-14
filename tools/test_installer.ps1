@@ -76,7 +76,8 @@ $one = ($tsvLines | Select-Object -First 3) -join "`n"
 $blank = Join-Path $Work 'blank.tsv'
 [IO.File]::WriteAllText($blank, $one + "`n" + (($tsvLines | Select-Object -Skip 3 | Select-Object -First 1) -split "`t")[0] + "`t`n" + (($tsvLines | Select-Object -Skip 4) -join "`n") + "`n", (Utf8NoBom))
 $r = Try-Patch $Original $blank $out
-Check 'empty-translation row is skipped (14.4k+ still applied)' ($r.ok -and $r.msg -match '15421\D+15421') $r.msg
+$expectN = $tsvLines.Count - 1
+Check 'empty-translation row is skipped (the rest still applied)' ($r.ok -and $r.msg -match "$expectN\D+$expectN") $r.msg
 Remove-Item $out -ErrorAction SilentlyContinue
 
 # ---------------------------------------------------------------- installer end-to-end on a fake game folder

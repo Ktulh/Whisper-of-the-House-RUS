@@ -124,7 +124,7 @@ public static class WotHPatcher
             for (int i = 0; i < nl; i++)
             {
                 string v = r.S();
-                if (i == EnglishColumn && type == 0) res.English[term] = v;
+                if (i == EnglishColumn) res.English[term] = v;
             }
             r.Skip(r.I32());                       // flags
             int nt = r.I32();                      // touch-screen variants
@@ -168,7 +168,9 @@ public static class WotHPatcher
             int type = r.I32(); w.I32(type);
             int nl = r.I32(); w.I32(nl);
             string ru;
-            bool has = tr.TryGetValue(term, out ru) && type == 0;
+            // any term type: the developers also stored real on-screen text in "Sprite"-type terms (e.g. the grandma's notes).
+            // Only keys listed in ru.tsv are ever touched, so sprite/font names stay as they are.
+            bool has = tr.TryGetValue(term, out ru);
             for (int i = 0; i < nl; i++)
             {
                 int start = r.P;

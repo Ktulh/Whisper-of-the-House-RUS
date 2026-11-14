@@ -24,6 +24,12 @@
   "ru": "<B>Отчёт об исследовании энергии</B>\n\nКак только сбор энергии завершится, корабль сможет взлететь — но ценой гибели городка."
  },
  {
+  "key": "Image/鱼人任务",
+  "zh": "<B>任务代号“艺术已死”</B>\n\n目标：艺术家三木\n目的：杀死三木的创作力\n内容：鱼脑袋，你的任务是在目标不注意的时刻，将他的雕刻刀替换成我们特制的<B>依赖刀</B>，并确认他是否对上瘾，及时汇报给我。",
+  "en": "<B>Mission Codename: \"Art Is Dead\"</B>\n\nTarget: The artist Miki  \nObjective: Eliminate Miki's creative drive  \nDetails: Fishbrain, your mission is to secretly replace his sculpting knife with our specially made <B>Dependency Blade</B> when he's not looking. Observe if he develops an addiction and report back to me immediately.",
+  "ru": "<B>Кодовое название операции: «Искусство мертво»</B>\n\nЦель: художник Мики\nЗадача: убить творческий порыв Мики\nСуть: Рыбья голова, твоя задача — в момент, когда цель не смотрит, подменить его резец нашим особым <B>«Ножом зависимости»</B>, выяснить, подсядет ли он на него, и вовремя доложить мне."
+ },
+ {
   "key": "Image/鱼人任务档案2",
   "zh": "<B>任务代号“宝石行动”</B>\n\n目标：宝石店店长亮晶晶\n内容：将能量传输装置安装在宝石店内，宝石店的戒备很高，记得做点伪装！\n\n结果：失败\n你这个鱼脑袋!不会伪装成电力公司的光明正大上门去安装能量传输装置吗?居然还和宝石店的员工打起来了，你要气死我吗?\n第二次行动结果：成功",
   "en": "<B>Mission Codename: \"Operation Gemstone\"</B>\n\nTarget: Gem shop owner Sparky \nDetails: Install the energy transfer device inside the gem shop. Security is tight, so remember to use some disguise!\n\nOutcome: Failed  \nYou fish-brain! Couldn't you at least pretend to be from the power company and walk in like you belong there?! And you even got into a fight with the staff—are you trying to give me a heart attack?\n\nSecond Attempt Outcome: Success",
@@ -120,6 +126,12 @@
   "ru": "Если растение случайно засохнет или вырастет не то, что хотелось, уберите его лопатой."
  },
  {
+  "key": "Image/星球游戏",
+  "zh": "于知者讲台高悬之光\n于壁中生灵之颚下 \n于远古绿意之怀抱中 \n于巨石闪星之狭间中",
+  "en": "In the lofty light above the scholar's podium  \nBeneath the jaws of the wall-dwelling creature  \nWithin the embrace of ancient greenery  \nIn the crevice between star-lit stone giants\n",
+  "ru": "В высоком свете над кафедрой знающего\nПод челюстями существа, живущего в стене\nВ объятиях древней зелени\nВ теснине меж исполинским камнем и мерцающей звездой\n"
+ },
+ {
   "key": "Image/科学家设计稿3-1",
   "zh": "三个相位球同时安装就可以解锁箱子的门。",
   "en": "Install all three Bloch Spheres at the same time to unlock the chest.",
@@ -142,6 +154,12 @@
   "zh": "7月22日 雨\n\n起不来。\n\n猫粮刚送到，太慢！\n\n黑手煮的汤太淡，下回还是我来煮。",
   "en": "July 22, Rainy\n\nCouldn't get up from the bed. \n\nThe cat food just arrived—too slow! \n\nThe soup Kuroi made was so bland. I'll cook it myself next time.",
   "ru": "22 июля, дождь\n\nНе встать с постели.\n\nКорм только привезли — копуши!\n\nСуп у Курои пресный. В следующий раз сварю сама."
+ },
+ {
+  "key": "Image/奶奶日记1",
+  "zh": "敲下水管",
+  "en": "Knock the pipe",
+  "ru": "Постучи по трубе"
  },
  {
   "key": "Image/科学家设计稿2-2",
@@ -174,6 +192,12 @@
   "ru": "Журнал операции 003"
  },
  {
+  "key": "Image/馆长给鱼人的任务",
+  "zh": "新讯息：埃尔茨\n鱼霸，前几日我给博物馆二楼的办公室进行了大扫除，有空记得去帮我把里面的东西摆回原位，记得不要在白天的时候行动。",
+  "en": "New Message: Elts\nFinlord, a few days ago I gave the office on the second floor of the museum a thorough cleaning. When you have time, please help me put everything back in place—just make sure not to go during the day.  ",
+  "ru": "Новое сообщение: Эльц\nРыбарон, на днях я устроил в кабинете на втором этаже музея генеральную уборку. Когда будет время, помоги, пожалуйста, расставить всё по местам — только не днём."
+ },
+ {
   "key": "Image/请等待他长大吧",
   "zh": "请等待他长大吧！",
   "en": "Please wait for it to grow!",
@@ -184,6 +208,12 @@
   "zh": "请等待他长大吧！",
   "en": "Please wait for it to grow~",
   "ru": "Подождите, пока растение подрастёт~"
+ },
+ {
+  "key": "Image/奶奶日记2",
+  "zh": "篮子里猫粮别放太少",
+  "en": "Put enough cat food in the basket",
+  "ru": "Корма в корзине не жалей"
  },
  {
   "key": "Image/科学家设计稿2-3",
@@ -214,6 +244,12 @@
   "zh": "往好了想，在找到操纵杆之前，里面的东西是绝对安全的！\n新发明——<b>爱机斯坦保险箱</b>！",
   "en": "Think positively, the contents are absolutely safe until the lever is found!\nNew invention——<b>EinSmart Safe</b>!",
   "ru": "Зато есть и плюс: пока рычаг не найден, содержимое в полной безопасности!\nНовое изобретение — <b>Сейф Умнштейна</b>!"
+ },
+ {
+  "key": "Image/奶奶日记3",
+  "zh": "写给笨手笨脚的",
+  "en": "For the clumsy ones",
+  "ru": "Для неумех"
  },
  {
   "key": "Image/幼儿园寄信1",

@@ -8,6 +8,10 @@ import UnityPy
 import i2
 from common import *
 
+# I2 term type 5 ("Sprite") is also (mis)used by the developers for real on-screen text, e.g. Image/奶奶日记1.
+# These ones are genuine sprite names (the English column holds an asset name) and must NOT be translated.
+SPRITE_TERMS = {"Image/GameTitle", "Image/配方底", "Image/配方1", "Image/配方2", "Image/配方3", "Image/法阵"}
+
 
 def main():
     os.makedirs(ORIGINAL_DIR, exist_ok=True)
@@ -19,7 +23,7 @@ def main():
     doc = i2.parse(find_i2(env).get_raw_data())
     by_cat = {}
     for t in doc["terms"]:
-        if t["type"] != 0:
+        if t["type"] != 0 and (t["type"] != 5 or t["term"] in SPRITE_TERMS):
             continue
         cat = t["term"].split("/")[0] if "/" in t["term"] else "_root"
         by_cat.setdefault(cat, []).append(t)
