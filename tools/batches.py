@@ -10,7 +10,7 @@ Identical English strings inside one category are translated once (dedup).
 Strings without Latin letters (numbers, "...", "???") are copied as-is.
 """
 import argparse, glob, json, os, re
-from common import ROOT, TRANSLATION_DIR
+from common import ROOT, TRANSLATION_DIR, load_cat, save_cat, all_cats   # originals come from extracted/source (run export.py)
 
 WORK = os.path.join(ROOT, "work")
 TAG_RE = re.compile(r"<[^>]*>|\{[^}]*\}|#\d+|\\n|%[sd]")
@@ -20,20 +20,6 @@ LATIN = re.compile(r"[A-Za-z]")
 def key_sort(k):
     tail = k.split("/", 1)[-1]
     return (0, int(tail), "") if tail.isdigit() else (1, 0, tail)
-
-
-def load_cat(cat):
-    return json.load(open(os.path.join(TRANSLATION_DIR, f"{cat}.json"), encoding="utf-8"))
-
-
-def save_cat(cat, data):
-    with open(os.path.join(TRANSLATION_DIR, f"{cat}.json"), "w", encoding="utf-8", newline="\n") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1)
-        f.write("\n")
-
-
-def all_cats():
-    return sorted(os.path.splitext(os.path.basename(p))[0] for p in glob.glob(os.path.join(TRANSLATION_DIR, "*.json")))
 
 
 def make(a):

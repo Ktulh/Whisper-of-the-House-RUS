@@ -1,608 +1,507 @@
 [
  {
   "key": "CharacterName/鱼霸的朋友",
-  "zh": "鱼霸的朋友",
-  "en": "Finlord's Friends",
-  "ru": "Друзья Рыбарона"
+  "ru": "Друзья Рыбарона",
+  "h": "cd99817d"
  },
  {
   "key": "CharacterName/亮晶晶",
-  "zh": "亮晶晶",
-  "en": "Sparky",
-  "ru": "Блестяшка"
+  "ru": "Блестяшка",
+  "h": "00467654"
  },
  {
   "key": "CharacterName/雪丽尔",
-  "zh": "雪丽尔",
-  "en": "Cheryl",
-  "ru": "Шерил"
+  "ru": "Шерил",
+  "h": "187037e1"
  },
  {
   "key": "CharacterName/露娜",
-  "zh": "露娜",
-  "en": "Luna",
-  "ru": "Луна"
+  "ru": "Луна",
+  "h": "baaf10f1"
  },
  {
   "key": "CharacterName/晓天菜_凌魂华首",
-  "zh": "晓天菜&凌魂华首",
-  "en": "Xiaotiancai & Linghun Huashou",
-  "ru": "Сяотяньцай и Линхунь Хуашоу"
+  "ru": "Сяотяньцай и Линхунь Хуашоу",
+  "h": "a481983e"
  },
  {
   "key": "CharacterName/三木",
-  "zh": "三木",
-  "en": "Miki",
-  "ru": "Мики"
+  "ru": "Мики",
+  "h": "55fbbf86"
  },
  {
   "key": "CharacterName/黑手",
-  "zh": "黑手",
-  "en": "Kuroi",
-  "ru": "Курои"
+  "ru": "Курои",
+  "h": "0a97297a"
  },
  {
   "key": "CharacterName/三木的朋友",
-  "zh": "三木的朋友",
-  "en": "Miki's Friend",
-  "ru": "Друг Мики"
+  "ru": "Друг Мики",
+  "h": "7ca52274"
  },
  {
   "key": "CharacterName/大智",
-  "zh": "大智",
-  "en": "Sage",
-  "ru": "Всезнайкин"
+  "ru": "Всезнайкин",
+  "h": "c3bd776c"
  },
  {
   "key": "CharacterName/爱机斯坦",
-  "zh": "爱机斯坦",
-  "en": "EinSmart",
-  "ru": "Умнштейн"
+  "ru": "Умнштейн",
+  "h": "e672f627"
  },
  {
   "key": "CharacterName/埃尔茨",
-  "zh": "埃尔茨",
-  "en": "Elts",
-  "ru": "Эльц"
+  "ru": "Эльц",
+  "h": "29d02e5b"
  },
  {
   "key": "CharacterName/阿加莎",
-  "zh": "阿加莎",
-  "en": "Agatha",
-  "ru": "Агата"
+  "ru": "Агата",
+  "h": "a6f9fea9"
  },
  {
   "key": "CharacterName/戈登",
-  "zh": "戈登",
-  "en": "Gordon",
-  "ru": "Гордон"
+  "ru": "Гордон",
+  "h": "b6c33e69"
  },
  {
   "key": "CharacterName/卢恩",
-  "zh": "卢恩",
-  "en": "Lewen",
-  "ru": "Льюэн"
+  "ru": "Льюэн",
+  "h": "649131ae"
  },
  {
   "key": "CharacterName/马文",
-  "zh": "马文",
-  "en": "Marwin",
-  "ru": "Марвин"
+  "ru": "Марвин",
+  "h": "119adf7c"
  },
  {
   "key": "CharacterName/博物馆馆长",
-  "zh": "博物馆馆长",
-  "en": "Museum Curator",
-  "ru": "Директор музея"
+  "ru": "Директор музея",
+  "h": "95a60cd2"
  },
  {
   "key": "CharacterName/熊本",
-  "zh": "熊本",
-  "en": "Kumamoto",
-  "ru": "Кумамото"
+  "ru": "Кумамото",
+  "h": "77bbe06d"
  },
  {
   "key": "CharacterName/小机器人",
-  "zh": "马克",
-  "en": "Mark",
-  "ru": "Марк"
+  "ru": "Марк",
+  "h": "31e9697d"
  },
  {
   "key": "CharacterName/???",
-  "zh": "???",
-  "en": "???",
-  "ru": "???"
+  "ru": "???",
+  "h": "2d86c2a6"
  },
  {
   "key": "CharacterName/鱼霸",
-  "zh": "鱼霸",
-  "en": "Finlord",
-  "ru": "Рыбарон"
+  "ru": "Рыбарон",
+  "h": "23d8eb61"
  },
  {
   "key": "CharacterName/家具铺老板",
-  "zh": "家具铺老板",
-  "en": "Furniture Store Owner",
-  "ru": "Хозяин мебельной лавки"
+  "ru": "Хозяин мебельной лавки",
+  "h": "c07adf06"
  },
  {
   "key": "CharacterName/爷爷",
-  "zh": "爷爷",
-  "en": "Grandpa",
-  "ru": "Дедушка"
+  "ru": "Дедушка",
+  "h": "32807eef"
  },
  {
   "key": "CharacterName/马克原型",
-  "zh": "马克原型",
-  "en": "Mark Prototype",
-  "ru": "Прототип Марка"
+  "ru": "Прототип Марка",
+  "h": "30c87395"
  },
  {
   "key": "CharacterName/梅洛蒂",
-  "zh": "梅洛蒂",
-  "en": "Melody",
-  "ru": "Мелоди"
+  "ru": "Мелоди",
+  "h": "448d5097"
  },
  {
   "key": "CharacterName/红色扫地马克",
-  "zh": "红色扫地马克",
-  "en": "Red Sweeping Mark",
-  "ru": "Красный Марк-уборщик"
+  "ru": "Красный Марк-уборщик",
+  "h": "5c716dfc"
  },
  {
   "key": "CharacterName/蓝色扫地马克",
-  "zh": "蓝色扫地马克",
-  "en": "Blue Sweeping Mark",
-  "ru": "Синий Марк-уборщик"
+  "ru": "Синий Марк-уборщик",
+  "h": "212dfde3"
  },
  {
   "key": "CharacterName/镇长",
-  "zh": "镇长",
-  "en": "Mayor",
-  "ru": "Мэр"
+  "ru": "Мэр",
+  "h": "96ea8904"
  },
  {
   "key": "CharacterName/厨师马克",
-  "zh": "厨师马克",
-  "en": "Chef Mark",
-  "ru": "Марк-повар"
+  "ru": "Марк-повар",
+  "h": "bab65fe6"
  },
  {
   "key": "CharacterName/猫",
-  "zh": "猫",
-  "en": "Cat",
-  "ru": "Кот"
+  "ru": "Кот",
+  "h": "cebe54c7"
  },
  {
   "key": "CharacterName/居民",
-  "zh": "居民",
-  "en": "Townfolk",
-  "ru": "Житель"
+  "ru": "Житель",
+  "h": "4911976a"
  },
  {
   "key": "CharacterName/伟大的科学家爱机斯坦",
-  "zh": "伟大的科学家爱机斯坦",
-  "en": "The Great Scientist EinSmart",
-  "ru": "Великий учёный Умнштейн"
+  "ru": "Великий учёный Умнштейн",
+  "h": "661dc8c9"
  },
  {
   "key": "CharacterName/简",
-  "zh": "简",
-  "en": "Jane",
-  "ru": "Джейн"
+  "ru": "Джейн",
+  "h": "1b78097f"
  },
  {
   "key": "CharacterName/爱机斯坦的委托",
-  "zh": "伟大的科学家爱机斯坦",
-  "en": "The Great Scientist EinSmart",
-  "ru": "Великий учёный Умнштейн"
+  "ru": "Великий учёный Умнштейн",
+  "h": "661dc8c9"
  },
  {
   "key": "CharacterName/露娜的委托",
-  "zh": "露娜",
-  "en": "Luna",
-  "ru": "Луна"
+  "ru": "Луна",
+  "h": "baaf10f1"
  },
  {
   "key": "CharacterName/雪丽尔的委托",
-  "zh": "衷心感谢 雪丽尔",
-  "en": "Sincerely, Cheryl",
-  "ru": "С сердечной благодарностью, Шерил"
+  "ru": "С сердечной благодарностью, Шерил",
+  "h": "dc4dbe32"
  },
  {
   "key": "CharacterName/简的委托",
-  "zh": "最酷的简",
-  "en": "The Coolest, Jane",
-  "ru": "Самая крутая Джейн"
+  "ru": "Самая крутая Джейн",
+  "h": "47dbda66"
  },
  {
   "key": "CharacterName/被施法的镜子",
-  "zh": "被施法的镜子",
-  "en": "Cursed Mirror",
-  "ru": "Заколдованное зеркало"
+  "ru": "Заколдованное зеркало",
+  "h": "8caec021"
  },
  {
   "key": "CharacterName/史上最伟大的记者大智",
-  "zh": "史上最伟大的记者大智",
-  "en": "Sage, the greatest journalist in history",
-  "ru": "Всезнайкин, величайший журналист в истории"
+  "ru": "Всезнайкин, величайший журналист в истории",
+  "h": "ea0d6c27"
  },
  {
   "key": "CharacterName/好味神厨",
-  "zh": "好味神厨",
-  "en": "Tasty Chef",
-  "ru": "Шеф-кудесник"
+  "ru": "Шеф-кудесник",
+  "h": "aa51ded3"
  },
  {
   "key": "CharacterName/卢恩的委托",
-  "zh": "月下守墓人",
-  "en": "The Gravekeeper Under the Moon",
-  "ru": "Смотритель кладбища под луной"
+  "ru": "Смотритель кладбища под луной",
+  "h": "c824c314"
  },
  {
   "key": "CharacterName/不知名的男人",
-  "zh": "不知名的男人",
-  "en": "Unknown Man",
-  "ru": "Незнакомец"
+  "ru": "Незнакомец",
+  "h": "b32bb4a9"
  },
  {
   "key": "CharacterName/幽灵猫",
-  "zh": "幽灵猫",
-  "en": "Ghost Cat",
-  "ru": "Кот-призрак"
+  "ru": "Кот-призрак",
+  "h": "c0f7bd7b"
  },
  {
   "key": "CharacterName/幽灵甲",
-  "zh": "幽灵甲",
-  "en": "Ghost A",
-  "ru": "Призрак А"
+  "ru": "Призрак А",
+  "h": "dded3b0d"
  },
  {
   "key": "CharacterName/幽灵乙",
-  "zh": "幽灵乙",
-  "en": "Ghost B",
-  "ru": "Призрак Б"
+  "ru": "Призрак Б",
+  "h": "0786e797"
  },
  {
   "key": "CharacterName/空白",
-  "zh": "???",
-  "en": "???",
-  "ru": "???"
+  "ru": "???",
+  "h": "2d86c2a6"
  },
  {
   "key": "CharacterName/鱼霸的委托",
-  "zh": "鱼霸的委托",
-  "en": "Finlord's Task",
-  "ru": "Заказ Рыбарона"
+  "ru": "Заказ Рыбарона",
+  "h": "7c378b11"
  },
  {
   "key": "CharacterName/xx的委托",
-  "zh": "佳酿仙人",
-  "en": "Wine Fairy",
-  "ru": "Винный небожитель"
+  "ru": "Винный небожитель",
+  "h": "2f512e3d"
  },
  {
   "key": "CharacterName/担心的父母",
-  "zh": "担心的父母",
-  "en": "Worried Parents",
-  "ru": "Встревоженные родители"
+  "ru": "Встревоженные родители",
+  "h": "8ea419e3"
  },
  {
   "key": "CharacterName/公司",
-  "zh": "公司",
-  "en": "Company",
-  "ru": "Компания"
+  "ru": "Компания",
+  "h": "7a199499"
  },
  {
   "key": "CharacterName/安娜",
-  "zh": "安娜",
-  "en": "Anna",
-  "ru": "Анна"
+  "ru": "Анна",
+  "h": "0dc3c11c"
  },
  {
   "key": "CharacterName/回家的人",
-  "zh": "回家的人",
-  "en": "The One Who Returned Home",
-  "ru": "Вернувшийся домой"
+  "ru": "Вернувшийся домой",
+  "h": "64ab1687"
  },
  {
   "key": "CharacterName/神秘的声音",
-  "zh": "神秘的声音",
-  "en": "Mysterious Voice",
-  "ru": "Таинственный голос"
+  "ru": "Таинственный голос",
+  "h": "04f5955d"
  },
  {
   "key": "CharacterName/马文的委托",
-  "zh": "厉害的马文",
-  "en": "Marwin the Great",
-  "ru": "Великолепный Марвин"
+  "ru": "Великолепный Марвин",
+  "h": "6c9724ad"
  },
  {
   "key": "CharacterName/邦尼服装店老板",
-  "zh": "邦尼服装店老板",
-  "en": "Owner of Bonnie Clothing Store",
-  "ru": "Хозяин магазина одежды «Бонни»"
+  "ru": "Хозяин магазина одежды «Бонни»",
+  "h": "f1ddf271"
  },
  {
   "key": "CharacterName/快来薅家纺店老板",
-  "zh": "快来薅家纺店老板",
-  "en": "Owner of Hurry-to-Grab Home Textiles",
-  "ru": "Хозяин текстиля «Налетай!»"
+  "ru": "Хозяин текстиля «Налетай!»",
+  "h": "b1a8fe78"
  },
  {
   "key": "CharacterName/乾坤杂货铺店长",
-  "zh": "乾坤杂货铺店长",
-  "en": "Manager of Qiankun General Store",
-  "ru": "Управляющий лавкой «Цянькунь»"
+  "ru": "Управляющий лавкой «Цянькунь»",
+  "h": "8c985dc6"
  },
  {
   "key": "CharacterName/齿轮灯具店老板",
-  "zh": "齿轮灯具店老板",
-  "en": "Owner of Gear Lighting Store",
-  "ru": "Хозяин светильников «Шестерёнка»"
+  "ru": "Хозяин светильников «Шестерёнка»",
+  "h": "4d45cd08"
  },
  {
   "key": "CharacterName/三木家具店老板",
-  "zh": "三木家具店老板",
-  "en": "Owner of Miki Furniture Store",
-  "ru": "Хозяин мебельного «Мики»"
+  "ru": "Хозяин мебельного «Мики»",
+  "h": "c24df844"
  },
  {
   "key": "CharacterName/不高兴电器店老板",
-  "zh": "不高兴电器店老板",
-  "en": "Owner of Grumpy Appliances",
-  "ru": "Хозяин техники «Бука»"
+  "ru": "Хозяин техники «Бука»",
+  "h": "874797ca"
  },
  {
   "key": "CharacterName/举铁书屋营业员",
-  "zh": "举铁书屋营业员",
-  "en": "Clerk at Iron-Lifting Bookstore",
-  "ru": "Продавец «Книжной качалки»"
+  "ru": "Продавец «Книжной качалки»",
+  "h": "57c7bf0a"
  },
  {
   "key": "CharacterName/米拉",
-  "zh": "米拉",
-  "en": "Mira",
-  "ru": "Мира"
+  "ru": "Мира",
+  "h": "0ba9f288"
  },
  {
   "key": "CharacterName/护士",
-  "zh": "护士",
-  "en": "Nurse",
-  "ru": "Медсестра"
+  "ru": "Медсестра",
+  "h": "7f5f3c36"
  },
  {
   "key": "CharacterName/小鱼",
-  "zh": "小鱼",
-  "en": "Fishie",
-  "ru": "Рыбка"
+  "ru": "Рыбка",
+  "h": "eaf16a7c"
  },
  {
   "key": "CharacterName/打工人",
-  "zh": "打工人",
-  "en": "Employee",
-  "ru": "Работяга"
+  "ru": "Работяга",
+  "h": "079711ea"
  },
  {
   "key": "CharacterName/鱼人",
-  "zh": "鱼人",
-  "en": "Finlord",
-  "ru": "Рыбарон"
+  "ru": "Рыбарон",
+  "h": "23d8eb61"
  },
  {
   "key": "CharacterName/伊恩",
-  "zh": "伊恩",
-  "en": "Ian",
-  "ru": "Иэн"
+  "ru": "Иэн",
+  "h": "fb4b101b"
  },
  {
   "key": "CharacterName/白老太",
-  "zh": "白老太",
-  "en": "Lady Bai",
-  "ru": "Бабушка Бай"
+  "ru": "Бабушка Бай",
+  "h": "16419a25"
  },
  {
   "key": "CharacterName/老奶奶病人",
-  "zh": "老奶奶病人",
-  "en": "Grandma patient",
-  "ru": "Пациентка-бабушка"
+  "ru": "Пациентка-бабушка",
+  "h": "9e6c26ae"
  },
  {
   "key": "CharacterName/老爷爷病人",
-  "zh": "老爷爷病人",
-  "en": "Grandpa patient",
-  "ru": "Пациент-дедушка"
+  "ru": "Пациент-дедушка",
+  "h": "0a5ced83"
  },
  {
   "key": "CharacterName/白猫",
-  "zh": "白猫",
-  "en": "White Kitten",
-  "ru": "Белая кошечка"
+  "ru": "Белая кошечка",
+  "h": "21020a1b"
  },
  {
   "key": "CharacterName/古德曼古德豪斯",
-  "zh": "古德曼·古德豪斯",
-  "en": "Goodman Goodhouse",
-  "ru": "Гудмен Гудхаус"
+  "ru": "Гудмен Гудхаус",
+  "h": "cdfead61"
  },
  {
   "key": "CharacterName/爱机斯坦的爷爷",
-  "zh": "爱机斯坦的爷爷",
-  "en": "EinSmart's Grandpa",
-  "ru": "Дедушка Умнштейна"
+  "ru": "Дедушка Умнштейна",
+  "h": "99ea7932"
  },
  {
   "key": "CharacterName/章鱼",
-  "zh": "章鱼",
-  "en": "Octopus",
-  "ru": "Осьминог"
+  "ru": "Осьминог",
+  "h": "c10a60e4"
  },
  {
   "key": "CharacterName/自动收银台",
-  "zh": "自动收银台",
-  "en": "Automatic Checkout Counter",
-  "ru": "Касса самообслуживания"
+  "ru": "Касса самообслуживания",
+  "h": "2d2ff131"
  },
  {
   "key": "CharacterName/招财点单猫",
-  "zh": "招财点单猫",
-  "en": "Lucky Waiter Cat",
-  "ru": "Кот-зазывала"
+  "ru": "Кот-зазывала",
+  "h": "e31623ac"
  },
  {
   "key": "CharacterName/顾客",
-  "zh": "顾客",
-  "en": "Guest",
-  "ru": "Посетитель"
+  "ru": "Посетитель",
+  "h": "face83ee"
  },
  {
   "key": "CharacterName/雪女",
-  "zh": "雪女",
-  "en": "Yuki-onna",
-  "ru": "Юки-онна"
+  "ru": "Юки-онна",
+  "h": "3250e77c"
  },
  {
   "key": "CharacterName/面具妖",
-  "zh": "鬼面具",
-  "en": "Hannya Mask",
-  "ru": "Маска Хання"
+  "ru": "Маска Хання",
+  "h": "50db7a12"
  },
  {
   "key": "CharacterName/锦",
-  "zh": "锦",
-  "en": "Jinn",
-  "ru": "Цзинь"
+  "ru": "Цзинь",
+  "h": "fd745761"
  },
  {
   "key": "CharacterName/河童",
-  "zh": "河童",
-  "en": "Kappa",
-  "ru": "Каппа"
+  "ru": "Каппа",
+  "h": "75b82037"
  },
  {
   "key": "CharacterName/贞子",
-  "zh": "贞子",
-  "en": "Sadako",
-  "ru": "Садако"
+  "ru": "Садако",
+  "h": "70670f13"
  },
  {
   "key": "CharacterName/狸猫",
-  "zh": "狸猫",
-  "en": "Tanuki",
-  "ru": "Тануки"
+  "ru": "Тануки",
+  "h": "a17fd948"
  },
  {
   "key": "CharacterName/宝箱怪",
-  "zh": "宝箱怪",
-  "en": "Mimic Chest",
-  "ru": "Сундук-мимик"
+  "ru": "Сундук-мимик",
+  "h": "fd5d51c7"
  },
  {
   "key": "CharacterName/大头",
-  "zh": "大头",
-  "en": "Mr. Big-Head",
-  "ru": "Головастик"
+  "ru": "Головастик",
+  "h": "5e7103ea"
  },
  {
   "key": "CharacterName/外星人",
-  "zh": "外星人",
-  "en": "E.T.",
-  "ru": "Пришелец"
+  "ru": "Пришелец",
+  "h": "28f1d0b4"
  },
  {
   "key": "CharacterName/达摩",
-  "zh": "达摩",
-  "en": "Daruma",
-  "ru": "Дарума"
+  "ru": "Дарума",
+  "h": "fbcb283a"
  },
  {
   "key": "CharacterName/红色灯笼",
-  "zh": "红色灯笼",
-  "en": "Red Lantern",
-  "ru": "Красный фонарь"
+  "ru": "Красный фонарь",
+  "h": "664539a8"
  },
  {
   "key": "CharacterName/黑色灯笼",
-  "zh": "黑色灯笼",
-  "en": "Black Lantern",
-  "ru": "Чёрный фонарь"
+  "ru": "Чёрный фонарь",
+  "h": "e24126c9"
  },
  {
   "key": "CharacterName/异常图鉴",
-  "zh": "异常图鉴",
-  "en": "Abnormal Collection",
-  "ru": "Каталог аномалий"
+  "ru": "Каталог аномалий",
+  "h": "a909604d"
  },
  {
   "key": "CharacterName/异常马克",
-  "zh": "异常马克",
-  "en": "Abnormal Mark",
-  "ru": "Аномальный Марк"
+  "ru": "Аномальный Марк",
+  "h": "3f898719"
  },
  {
   "key": "CharacterName/流浪汉",
-  "zh": "流浪汉",
-  "en": "The Homeless",
-  "ru": "Бродяга"
+  "ru": "Бродяга",
+  "h": "bb476099"
  },
  {
   "key": "CharacterName/手机",
-  "zh": "???",
-  "en": "???",
-  "ru": "???"
+  "ru": "???",
+  "h": "2d86c2a6"
  },
  {
   "key": "CharacterName/雅琳",
-  "zh": "雅琳",
-  "en": "A-Rin",
-  "ru": "Арин"
+  "ru": "Арин",
+  "h": "3d6e793d"
  },
  {
   "key": "CharacterName/大福",
-  "zh": "大福",
-  "en": "Mochi",
-  "ru": "Моти"
+  "ru": "Моти",
+  "h": "515c3dd9"
  },
  {
   "key": "CharacterName/波波",
-  "zh": "波波",
-  "en": "Bobo",
-  "ru": "Бобо"
+  "ru": "Бобо",
+  "h": "ca855f11"
  },
  {
   "key": "CharacterName/雷茜船长",
-  "zh": "雷茜船长",
-  "en": "Captain Lacy",
-  "ru": "Капитан Лэйси"
+  "ru": "Капитан Лэйси",
+  "h": "772c07c2"
  },
  {
   "key": "CharacterName/小玛尼",
-  "zh": "小玛尼",
-  "en": "Marni Jr.",
-  "ru": "Марни-младший"
+  "ru": "Марни-младший",
+  "h": "f2c3f669"
  },
  {
   "key": "CharacterName/小玛尼的侄女",
-  "zh": "小玛尼的侄女",
-  "en": "Marni Jr.'s Niece",
-  "ru": "Племянница Марни-младшего"
+  "ru": "Племянница Марни-младшего",
+  "h": "e176213e"
  },
  {
   "key": "CharacterName/来自过去的声音",
-  "zh": "来自过去的声音",
-  "en": "Voices from the Past",
-  "ru": "Голоса из прошлого"
+  "ru": "Голоса из прошлого",
+  "h": "b553102e"
  },
  {
   "key": "CharacterName/迷你玛尼",
-  "zh": "迷你玛尼",
-  "en": "Mini Marni",
-  "ru": "Мини-Марни"
+  "ru": "Мини-Марни",
+  "h": "0b9947f2"
  },
  {
   "key": "CharacterName/节日大使",
-  "zh": "节日大使",
-  "en": "Holiday Ambassador",
-  "ru": "Посол праздников"
+  "ru": "Посол праздников",
+  "h": "59764096"
  }
 ]

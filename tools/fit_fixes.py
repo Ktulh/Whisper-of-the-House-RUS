@@ -1,7 +1,7 @@
 """One-off layout fixes: Russian strings that overflow fixed-size text boxes in the game
 (found on playtest screenshots). Run again after `export.py` if translation files are regenerated."""
 import json, os
-from common import TRANSLATION_DIR
+from common import load_cat, save_cat
 
 FIXES = {
     "Mail": {
@@ -31,8 +31,7 @@ FIXES = {
 }
 
 for cat, fixes in FIXES.items():
-    path = os.path.join(TRANSLATION_DIR, f"{cat}.json")
-    data = json.load(open(path, encoding="utf-8"))
+    data = load_cat(cat, need_source=False)   # only key/ru/h are touched; no original text needed
     seen = set()
     for e in data:
         if e["key"] in fixes:
@@ -40,6 +39,4 @@ for cat, fixes in FIXES.items():
             e["ru"] = fixes[e["key"]]
             seen.add(e["key"])
     assert seen == set(fixes), set(fixes) - seen
-    with open(path, "w", encoding="utf-8", newline="\n") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1)
-        f.write("\n")
+    save_cat(cat, data)

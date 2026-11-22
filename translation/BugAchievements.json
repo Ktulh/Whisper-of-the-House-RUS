@@ -1,590 +1,492 @@
 [
  {
   "key": "BugAchievements/BUG_NAME_1",
-  "zh": "嘎嘎",
-  "en": "Quack Quack",
-  "ru": "Кря-кря"
+  "ru": "Кря-кря",
+  "h": "eba46dd8"
  },
  {
   "key": "BugAchievements/BUG_DESC_1",
-  "zh": "你捏了捏鸭子",
-  "en": "You squeezed the duck",
-  "ru": "Вы сжали уточку"
+  "ru": "Вы сжали уточку",
+  "h": "7df192c0"
  },
  {
   "key": "BugAchievements/BUG_NAME_2",
-  "zh": "陌生脚印",
-  "en": "Strange Footprints",
-  "ru": "Чужие следы"
+  "ru": "Чужие следы",
+  "h": "b98edf0b"
  },
  {
   "key": "BugAchievements/BUG_DESC_2",
-  "zh": "你在新家发现了顽固的污渍",
-  "en": "You spotted stubborn stains in her new home",
-  "ru": "Вы заметили въевшиеся пятна в её новом доме"
+  "ru": "Вы заметили въевшиеся пятна в её новом доме",
+  "h": "7455d878"
  },
  {
   "key": "BugAchievements/BUG_NAME_3",
-  "zh": "藏匿的房间",
-  "en": "Hidden Room",
-  "ru": "Скрытая комната"
+  "ru": "Скрытая комната",
+  "h": "acb888ce"
  },
  {
   "key": "BugAchievements/BUG_DESC_3",
-  "zh": "你找到了一个没人来过的地方",
-  "en": "You found a place no one had been before",
-  "ru": "Вы нашли место, где ещё никто не бывал"
+  "ru": "Вы нашли место, где ещё никто не бывал",
+  "h": "9cc10249"
  },
  {
   "key": "BugAchievements/BUG_NAME_4",
-  "zh": "雪落",
-  "en": "Snowfall",
-  "ru": "Снегопад"
+  "ru": "Снегопад",
+  "h": "199387e9"
  },
  {
   "key": "BugAchievements/BUG_DESC_4",
-  "zh": "你用魔法降下了一场雪",
-  "en": "You used magic to make it snow",
-  "ru": "Вы вызвали снегопад с помощью магии"
+  "ru": "Вы вызвали снегопад с помощью магии",
+  "h": "153452ff"
  },
  {
   "key": "BugAchievements/BUG_NAME_5",
-  "zh": "摇滚起来",
-  "en": "Rock On",
-  "ru": "Зажигай!"
+  "ru": "Зажигай!",
+  "h": "8f0c9100"
  },
  {
   "key": "BugAchievements/BUG_DESC_5",
-  "zh": "你弹响了第一声低音",
-  "en": "You struck your first bass note",
-  "ru": "Вы сыграли свою первую басовую ноту"
+  "ru": "Вы сыграли свою первую басовую ноту",
+  "h": "85f61a55"
  },
  {
   "key": "BugAchievements/BUG_NAME_6",
-  "zh": "谁在里面",
-  "en": "Who's Inside",
-  "ru": "Кто там внутри?"
+  "ru": "Кто там внутри?",
+  "h": "f76ebca1"
  },
  {
   "key": "BugAchievements/BUG_DESC_6",
-  "zh": "你试图打开紧闭的冰柜",
-  "en": "You tried to open the locked freezer",
-  "ru": "Вы попытались открыть запертую морозилку"
+  "ru": "Вы попытались открыть запертую морозилку",
+  "h": "9d49e1ae"
  },
  {
   "key": "BugAchievements/BUG_NAME_7",
-  "zh": "毛巾猫",
-  "en": "Cat in the Towel",
-  "ru": "Кот в полотенце"
+  "ru": "Кот в полотенце",
+  "h": "72d5c9ab"
  },
  {
   "key": "BugAchievements/BUG_DESC_7",
-  "zh": "你发现毛巾里长出了一只猫",
-  "en": "You found a cat in a towel",
-  "ru": "Вы нашли кота в полотенце"
+  "ru": "Вы нашли кота в полотенце",
+  "h": "eacc523f"
  },
  {
   "key": "BugAchievements/BUG_NAME_8",
-  "zh": "奶香甜筒",
-  "en": "Milky Cone",
-  "ru": "Молочный рожок"
+  "ru": "Молочный рожок",
+  "h": "4a8b67ce"
  },
  {
   "key": "BugAchievements/BUG_DESC_8",
-  "zh": "你制作了清凉又甜蜜的冰激凌",
-  "en": "You made sweet, chilly ice cream",
-  "ru": "Вы приготовили сладкое и освежающее мороженое"
+  "ru": "Вы приготовили сладкое и освежающее мороженое",
+  "h": "9664fccc"
  },
  {
   "key": "BugAchievements/BUG_NAME_9",
-  "zh": "抚摸骷髅",
-  "en": "Pet the Skull",
-  "ru": "Погладить черепушку"
+  "ru": "Погладить черепушку",
+  "h": "d723abf1"
  },
  {
   "key": "BugAchievements/BUG_DESC_9",
-  "zh": "你让骷髅发出了舒适的呜呜声",
-  "en": "You made the skeleton sigh with comfort",
-  "ru": "Вы заставили скелет блаженно вздохнуть"
+  "ru": "Вы заставили скелет блаженно вздохнуть",
+  "h": "c66aec90"
  },
  {
   "key": "BugAchievements/BUG_NAME_10",
-  "zh": "无限烘焙",
-  "en": "Infinite Baking",
-  "ru": "Бесконечная выпечка"
+  "ru": "Бесконечная выпечка",
+  "h": "a0a51eeb"
  },
  {
   "key": "BugAchievements/BUG_DESC_10",
-  "zh": "你发现了烤焦面包的秘密",
-  "en": "You discovered the secret of burnt bread",
-  "ru": "Вы раскрыли секрет подгоревшего хлеба"
+  "ru": "Вы раскрыли секрет подгоревшего хлеба",
+  "h": "9280b13f"
  },
  {
   "key": "BugAchievements/BUG_NAME_11",
-  "zh": "这样晒着舒服",
-  "en": "A Comfy Sunbath",
-  "ru": "Солнечные ванны"
+  "ru": "Солнечные ванны",
+  "h": "be14a943"
  },
  {
   "key": "BugAchievements/BUG_DESC_11",
-  "zh": "你看见那棵树在阳光里舞蹈",
-  "en": "You watched the tree dancing in the sun",
-  "ru": "Вы видели, как дерево танцует на солнце"
+  "ru": "Вы видели, как дерево танцует на солнце",
+  "h": "e37fd6e1"
  },
  {
   "key": "BugAchievements/BUG_NAME_12",
-  "zh": "魔法实验成功",
-  "en": "Magic Experiment Success",
-  "ru": "Магический эксперимент удался"
+  "ru": "Магический эксперимент удался",
+  "h": "2f2cfebe"
  },
  {
   "key": "BugAchievements/BUG_DESC_12",
-  "zh": "你让扫把找到了新的姿态",
-  "en": "You helped the broom find a new pose",
-  "ru": "Вы помогли метле найти новую позу"
+  "ru": "Вы помогли метле найти новую позу",
+  "h": "21002a4e"
  },
  {
   "key": "BugAchievements/BUG_NAME_13",
-  "zh": "彩色时空",
-  "en": "Colorful Celebration",
-  "ru": "Разноцветный праздник"
+  "ru": "Разноцветный праздник",
+  "h": "c10625af"
  },
  {
   "key": "BugAchievements/BUG_DESC_13",
-  "zh": "你点燃了一场小型派对",
-  "en": "You sparked a little party",
-  "ru": "Вы устроили маленькую вечеринку"
+  "ru": "Вы устроили маленькую вечеринку",
+  "h": "d25b6657"
  },
  {
   "key": "BugAchievements/BUG_NAME_14",
-  "zh": "救援",
-  "en": "Rescue",
-  "ru": "Спасение"
+  "ru": "Спасение",
+  "h": "6a5da714"
  },
  {
   "key": "BugAchievements/BUG_DESC_14",
-  "zh": "你看起来比他更惊讶",
-  "en": "You looked more shocked than him",
-  "ru": "Вы удивились даже сильнее, чем он"
+  "ru": "Вы удивились даже сильнее, чем он",
+  "h": "576bf8ef"
  },
  {
   "key": "BugAchievements/BUG_NAME_15",
-  "zh": "不在这里",
-  "en": "Somewhere Else",
-  "ru": "Где-то не здесь"
+  "ru": "Где-то не здесь",
+  "h": "03d6cb1c"
  },
  {
   "key": "BugAchievements/BUG_DESC_15",
-  "zh": "你知道有人正努力维系着与世界的联系",
-  "en": "You knew someone was holding on to the world",
-  "ru": "Вы поняли, что кто-то изо всех сил держится за этот мир"
+  "ru": "Вы поняли, что кто-то изо всех сил держится за этот мир",
+  "h": "564ad5e3"
  },
  {
   "key": "BugAchievements/BUG_NAME_16",
-  "zh": "超立方体",
-  "en": "Hypercube",
-  "ru": "Гиперкуб"
+  "ru": "Гиперкуб",
+  "h": "467ca9ce"
  },
  {
   "key": "BugAchievements/BUG_DESC_16",
-  "zh": "你理解不了那几何展开又折叠",
-  "en": "You couldn't grasp the folding geometry",
-  "ru": "Вы так и не постигли эту складывающуюся геометрию"
+  "ru": "Вы так и не постигли эту складывающуюся геометрию",
+  "h": "f462a148"
  },
  {
   "key": "BugAchievements/BUG_NAME_17",
-  "zh": "回忆",
-  "en": "The Memory",
-  "ru": "Воспоминание"
+  "ru": "Воспоминание",
+  "h": "54df3b73"
  },
  {
   "key": "BugAchievements/BUG_DESC_17",
-  "zh": "你打开了旧日的时光胶囊",
-  "en": "You opened an old time capsule",
-  "ru": "Вы открыли старую капсулу времени"
+  "ru": "Вы открыли старую капсулу времени",
+  "h": "14f08fee"
  },
  {
   "key": "BugAchievements/BUG_NAME_18",
-  "zh": "薛定谔的树",
-  "en": "Schrödinger's Tree",
-  "ru": "Дерево Шрёдингера"
+  "ru": "Дерево Шрёдингера",
+  "h": "2f4d38b0"
  },
  {
   "key": "BugAchievements/BUG_DESC_18",
-  "zh": "你发现一棵又死又活的树",
-  "en": "You found a tree both dead and alive",
-  "ru": "Вы нашли дерево, которое одновременно живо и мертво"
+  "ru": "Вы нашли дерево, которое одновременно живо и мертво",
+  "h": "24354730"
  },
  {
   "key": "BugAchievements/BUG_NAME_19",
-  "zh": "上车了",
-  "en": "Get on the Bus",
-  "ru": "Поехали!"
+  "ru": "Поехали!",
+  "h": "3abab5f0"
  },
  {
   "key": "BugAchievements/BUG_DESC_19",
-  "zh": "你登上公交车，开启一段未知旅程",
-  "en": "You got on the bus and began a journey",
-  "ru": "Вы сели в автобус и отправились в неизвестность"
+  "ru": "Вы сели в автобус и отправились в неизвестность",
+  "h": "d0b45fb8"
  },
  {
   "key": "BugAchievements/BUG_NAME_20",
-  "zh": "还有光源",
-  "en": "There's Light",
-  "ru": "Свет ещё горит"
+  "ru": "Свет ещё горит",
+  "h": "3c9e2793"
  },
  {
   "key": "BugAchievements/BUG_DESC_20",
-  "zh": "你看见那盏孤单的灯依旧亮着",
-  "en": "You saw the lonely lamp still shining",
-  "ru": "Вы увидели, что одинокая лампа всё ещё горит"
+  "ru": "Вы увидели, что одинокая лампа всё ещё горит",
+  "h": "33057b0e"
  },
  {
   "key": "BugAchievements/BUG_NAME_21",
-  "zh": "阴阳两隔",
-  "en": "Afterlife",
-  "ru": "По ту сторону"
+  "ru": "По ту сторону",
+  "h": "9be97faf"
  },
  {
   "key": "BugAchievements/BUG_DESC_21",
-  "zh": "你发现了那块介于存在于不存在之间的墓碑",
-  "en": "You uncovered a gravestone caught between being and not",
-  "ru": "Вы нашли надгробие, застрявшее между бытием и небытием"
+  "ru": "Вы нашли надгробие, застрявшее между бытием и небытием",
+  "h": "15f9c929"
  },
  {
   "key": "BugAchievements/BUG_NAME_22",
-  "zh": "克隆",
-  "en": "Clone",
-  "ru": "Клон"
+  "ru": "Клон",
+  "h": "d8cdb573"
  },
  {
   "key": "BugAchievements/BUG_DESC_22",
-  "zh": "你怀疑时间是否绕了个圈",
-  "en": "You wondered if time had looped",
-  "ru": "Вы задумались, не пошло ли время по кругу"
+  "ru": "Вы задумались, не пошло ли время по кругу",
+  "h": "8cc47e88"
  },
  {
   "key": "BugAchievements/BUG_NAME_23",
-  "zh": "调查的尽头",
-  "en": "Final Clue",
-  "ru": "Последняя улика"
+  "ru": "Последняя улика",
+  "h": "bc83849f"
  },
  {
   "key": "BugAchievements/BUG_DESC_23",
-  "zh": "你看到了他用报纸拼出的神秘留言",
-  "en": "You spotted his secret note made from newspaper scraps",
-  "ru": "Вы заметили его тайное послание из газетных вырезок"
+  "ru": "Вы заметили его тайное послание из газетных вырезок",
+  "h": "28bb82a3"
  },
  {
   "key": "BugAchievements/BUG_NAME_24",
-  "zh": "另一幅画",
-  "en": "Another Painting",
-  "ru": "Другая картина"
+  "ru": "Другая картина",
+  "h": "c9ae385a"
  },
  {
   "key": "BugAchievements/BUG_DESC_24",
-  "zh": "你点上香，让画布显现出隐藏的图案",
-  "en": "You lit incense and revealed hidden art",
-  "ru": "Вы зажгли благовония, и на холсте проступил скрытый рисунок"
+  "ru": "Вы зажгли благовония, и на холсте проступил скрытый рисунок",
+  "h": "de7460da"
  },
  {
   "key": "BugAchievements/BUG_NAME_25",
-  "zh": "神笔马良",
-  "en": "Magic Brush",
-  "ru": "Волшебная кисть"
+  "ru": "Волшебная кисть",
+  "h": "4cfab967"
  },
  {
   "key": "BugAchievements/BUG_DESC_25",
-  "zh": "你握住笔，随手一挥便是一幅佳作",
-  "en": "You held the brush and made a masterpiece in a stroke",
-  "ru": "Вы взяли кисть и одним взмахом создали шедевр"
+  "ru": "Вы взяли кисть и одним взмахом создали шедевр",
+  "h": "4f1acb6f"
  },
  {
   "key": "BugAchievements/BUG_NAME_26",
-  "zh": "失色",
-  "en": "Faded",
-  "ru": "Утраченные краски"
+  "ru": "Утраченные краски",
+  "h": "f7390fdb"
  },
  {
   "key": "BugAchievements/BUG_DESC_26",
-  "zh": "你让一个人恢复了色彩",
-  "en": "You restored someone's colors",
-  "ru": "Вы вернули кому-то краски"
+  "ru": "Вы вернули кому-то краски",
+  "h": "b3e6f0f2"
  },
  {
   "key": "BugAchievements/BUG_NAME_27",
-  "zh": "热心市民",
-  "en": "Good Citizen",
-  "ru": "Гражданская сознательность"
+  "ru": "Гражданская сознательность",
+  "h": "b39c340b"
  },
  {
   "key": "BugAchievements/BUG_DESC_27",
-  "zh": "你修好了路面",
-  "en": "You fixed the road",
-  "ru": "Вы починили дорогу"
+  "ru": "Вы починили дорогу",
+  "h": "697f4e03"
  },
  {
   "key": "BugAchievements/BUG_NAME_28",
-  "zh": "空白的呼叫",
-  "en": "Blank Call",
-  "ru": "Пустой звонок"
+  "ru": "Пустой звонок",
+  "h": "b7f017c1"
  },
  {
   "key": "BugAchievements/BUG_DESC_28",
-  "zh": "你拿起了没有任何号码的电话",
-  "en": "You picked up a phone with no number",
-  "ru": "Вы сняли трубку телефона, у которого нет номера"
+  "ru": "Вы сняли трубку телефона, у которого нет номера",
+  "h": "7d1a2fce"
  },
  {
   "key": "BugAchievements/BUG_NAME_29",
-  "zh": "彩虹糖",
-  "en": "Rainbow Candy",
-  "ru": "Радужные конфеты"
+  "ru": "Радужные конфеты",
+  "h": "0b2bc9a9"
  },
  {
   "key": "BugAchievements/BUG_DESC_29",
-  "zh": "你淋到了彩色的雨",
-  "en": "You walked through colorful rain",
-  "ru": "Вы попали под разноцветный дождь"
+  "ru": "Вы попали под разноцветный дождь",
+  "h": "fa7f3486"
  },
  {
   "key": "BugAchievements/BUG_NAME_30",
-  "zh": "比心",
-  "en": "Heart",
-  "ru": "Сердечко"
+  "ru": "Сердечко",
+  "h": "2a37335e"
  },
  {
   "key": "BugAchievements/BUG_DESC_30",
-  "zh": "你收到了水井里递来的爱心",
-  "en": "You received a heart from the well",
-  "ru": "Вы получили сердечко из колодца"
+  "ru": "Вы получили сердечко из колодца",
+  "h": "1530f30c"
  },
  {
   "key": "BugAchievements/BUG_NAME_31",
-  "zh": "暗中监视",
-  "en": "Surveillance",
-  "ru": "Скрытое наблюдение"
+  "ru": "Скрытое наблюдение",
+  "h": "bbe7fb32"
  },
  {
   "key": "BugAchievements/BUG_DESC_31",
-  "zh": "你注意到了长颈鹿的不同寻常",
-  "en": "You noticed something odd about the giraffe",
-  "ru": "Вы заметили, что с жирафом что-то не так"
+  "ru": "Вы заметили, что с жирафом что-то не так",
+  "h": "882acee5"
  },
  {
   "key": "BugAchievements/BUG_NAME_32",
-  "zh": "预备建筑工",
-  "en": "Trainee Builder",
-  "ru": "Строитель-стажёр"
+  "ru": "Строитель-стажёр",
+  "h": "47f49453"
  },
  {
   "key": "BugAchievements/BUG_DESC_32",
-  "zh": "你面对巨大的塔吊，毫不畏惧",
-  "en": "You stand before the massive crane, fearless.",
-  "ru": "Вы без страха стоите перед огромным башенным краном."
+  "ru": "Вы без страха стоите перед огромным башенным краном.",
+  "h": "aa40aba5"
  },
  {
   "key": "BugAchievements/BUG_NAME_33",
-  "zh": "延续",
-  "en": "Fulfill the Will",
-  "ru": "Исполненная воля"
+  "ru": "Исполненная воля",
+  "h": "323b967a"
  },
  {
   "key": "BugAchievements/BUG_DESC_33",
-  "zh": "你替她做完了那件事",
-  "en": "You finished the task for her",
-  "ru": "Вы закончили это дело за неё"
+  "ru": "Вы закончили это дело за неё",
+  "h": "d8d7979b"
  },
  {
   "key": "BugAchievements/BUG_NAME_34",
-  "zh": "双人床",
-  "en": "Double Bed",
-  "ru": "Двуспальная кровать"
+  "ru": "Двуспальная кровать",
+  "h": "3d75ee7a"
  },
  {
   "key": "BugAchievements/BUG_DESC_34",
-  "zh": "你把那块不肯松动的床板拆了下来",
-  "en": "You pried up the stubborn floorboard",
-  "ru": "Вы отодрали упрямую доску"
+  "ru": "Вы отодрали упрямую доску",
+  "h": "e5b19c73"
  },
  {
   "key": "BugAchievements/BUG_NAME_35",
-  "zh": "异界之花",
-  "en": "Alien Flower",
-  "ru": "Цветок из иного мира"
+  "ru": "Цветок из иного мира",
+  "h": "6020ca77"
  },
  {
   "key": "BugAchievements/BUG_DESC_35",
-  "zh": "你种出了一朵格外高大的花",
-  "en": "You grew a flower taller than all others",
-  "ru": "Вы вырастили цветок выше всех остальных"
+  "ru": "Вы вырастили цветок выше всех остальных",
+  "h": "55336451"
  },
  {
   "key": "BugAchievements/BUG_NAME_36",
-  "zh": "守护童心",
-  "en": "Keep the Child's Heart",
-  "ru": "Вечное детство"
+  "ru": "Вечное детство",
+  "h": "5ccf2c1f"
  },
  {
   "key": "BugAchievements/BUG_DESC_36",
-  "zh": "你找到了小时候梦里的那盏灯",
-  "en": "You found the lamp from your childhood dream",
-  "ru": "Вы нашли лампу из детского сна"
+  "ru": "Вы нашли лампу из детского сна",
+  "h": "f873da0c"
  },
  {
   "key": "BugAchievements/BUG_NAME_37",
-  "zh": "胡乱涂抹",
-  "en": "Random Doodle",
-  "ru": "Каракули"
+  "ru": "Каракули",
+  "h": "4f8ef08c"
  },
  {
   "key": "BugAchievements/BUG_DESC_37",
-  "zh": "你在涂鸦本上乱涂乱画",
-  "en": "You scribbled wildly in the doodle book",
-  "ru": "Вы от души почеркали в альбоме для рисования"
+  "ru": "Вы от души почеркали в альбоме для рисования",
+  "h": "9b0be071"
  },
  {
   "key": "BugAchievements/BUG_NAME_38",
-  "zh": "物尽其用",
-  "en": "Nothing Wasted",
-  "ru": "Ничто не пропадёт"
+  "ru": "Ничто не пропадёт",
+  "h": "aba570db"
  },
  {
   "key": "BugAchievements/BUG_DESC_38",
-  "zh": "你用旧木板拼了一个新架子",
-  "en": "You built a new shelf from old planks",
-  "ru": "Вы смастерили новую полку из старых досок"
+  "ru": "Вы смастерили новую полку из старых досок",
+  "h": "e414f12a"
  },
  {
   "key": "BugAchievements/BUG_NAME_39",
-  "zh": "一锤定音",
-  "en": "Hammer",
-  "ru": "Одним ударом"
+  "ru": "Одним ударом",
+  "h": "ab7b8ea4"
  },
  {
   "key": "BugAchievements/BUG_DESC_39",
-  "zh": "你挥下的锤子正好砸中了冒头的地鼠",
-  "en": "You swung the hammer and nailed the mole",
-  "ru": "Вы взмахнули молотком и попали точно по кроту"
+  "ru": "Вы взмахнули молотком и попали точно по кроту",
+  "h": "fce365fb"
  },
  {
   "key": "BugAchievements/BUG_NAME_40",
-  "zh": "凌晨四点",
-  "en": "4 A.M.",
-  "ru": "4 часа утра"
+  "ru": "4 часа утра",
+  "h": "042091a5"
  },
  {
   "key": "BugAchievements/BUG_DESC_40",
-  "zh": "你看见了凌晨四点的篮球",
-  "en": "You spotted a basketball at 4 a.m.",
-  "ru": "Вы увидели баскетбольный мяч в четыре утра"
+  "ru": "Вы увидели баскетбольный мяч в четыре утра",
+  "h": "5994f806"
  },
  {
   "key": "BugAchievements/BUG_NAME_41",
-  "zh": "猫帮",
-  "en": "Cat Gang",
-  "ru": "Кошачья банда"
+  "ru": "Кошачья банда",
+  "h": "10e6b2b4"
  },
  {
   "key": "BugAchievements/BUG_DESC_41",
-  "zh": "你发现没有人能抵抗喵喵",
-  "en": "You learned no one can resist a meow",
-  "ru": "Вы узнали, что перед «мяу» не устоит никто"
+  "ru": "Вы узнали, что перед «мяу» не устоит никто",
+  "h": "d3fe43fd"
  },
  {
   "key": "BugAchievements/BUG_NAME_42",
-  "zh": "乾坤",
-  "en": "Qiankun",
-  "ru": "Цянькунь"
+  "ru": "Цянькунь",
+  "h": "8540f668"
  },
  {
   "key": "BugAchievements/BUG_DESC_42",
-  "zh": "你遇见了一个道士",
-  "en": "You met a Taoist priest",
-  "ru": "Вы встретили даосского монаха"
+  "ru": "Вы встретили даосского монаха",
+  "h": "b3b50ddb"
  },
  {
   "key": "BugAchievements/BUG_NAME_43",
-  "zh": "冰镇饮料",
-  "en": "Iced Beverage",
-  "ru": "Ледяной напиток"
+  "ru": "Ледяной напиток",
+  "h": "cd4b69ed"
  },
  {
   "key": "BugAchievements/BUG_DESC_43",
-  "zh": "你发现了第一台能真正打开的冰箱",
-  "en": "You discovered the first fridge that can be opened",
-  "ru": "Вы нашли первый холодильник, который действительно открывается"
+  "ru": "Вы нашли первый холодильник, который действительно открывается",
+  "h": "7b945e4e"
  },
  {
   "key": "BugAchievements/BUG_NAME_44",
-  "zh": "公园奇妙夜",
-  "en": "Park Wonders",
-  "ru": "Ночь в парке"
+  "ru": "Ночь в парке",
+  "h": "5e588100"
  },
  {
   "key": "BugAchievements/BUG_DESC_44",
-  "zh": "你发现雕塑偷偷动了一下",
-  "en": "You saw the statue sneak a move",
-  "ru": "Вы заметили, как статуя тайком пошевелилась"
+  "ru": "Вы заметили, как статуя тайком пошевелилась",
+  "h": "58afbd7d"
  },
  {
   "key": "BugAchievements/BUG_NAME_45",
-  "zh": "绣球",
-  "en": "Stone Ball of the Lion",
-  "ru": "Шар каменного льва"
+  "ru": "Шар каменного льва",
+  "h": "b555368c"
  },
  {
   "key": "BugAchievements/BUG_DESC_45",
-  "zh": "你发现了一尊打盹的石狮子",
-  "en": "You spotted a dozing stone lion",
-  "ru": "Вы обнаружили дремлющего каменного льва"
+  "ru": "Вы обнаружили дремлющего каменного льва",
+  "h": "55ef688a"
  },
  {
   "key": "BugAchievements/BUG_NAME_46",
-  "zh": "灯塔",
-  "en": "Lighthouse",
-  "ru": "Маяк"
+  "ru": "Маяк",
+  "h": "e3a579ba"
  },
  {
   "key": "BugAchievements/BUG_DESC_46",
-  "zh": "你点亮了灯塔，迷途的船找到了方向",
-  "en": "You lit the lighthouse, and lost ships found their way",
-  "ru": "Вы зажгли маяк, и заблудшие корабли нашли дорогу"
+  "ru": "Вы зажгли маяк, и заблудшие корабли нашли дорогу",
+  "h": "99472601"
  },
  {
   "key": "BugAchievements/BUG_NAME_47",
-  "zh": "启航",
-  "en": "Set Sail",
-  "ru": "Отплытие"
+  "ru": "Отплытие",
+  "h": "d98bee4f"
  },
  {
   "key": "BugAchievements/BUG_DESC_47",
-  "zh": "你派了一艘船，出去寻找新的故事",
-  "en": "You sent a ship to chase new stories",
-  "ru": "Вы отправили корабль на поиски новых историй"
+  "ru": "Вы отправили корабль на поиски новых историй",
+  "h": "ccabcec4"
  },
  {
   "key": "BugAchievements/BUG_NAME_48",
-  "zh": "小巷回声",
-  "en": "The Alley",
-  "ru": "Эхо переулка"
+  "ru": "Эхо переулка",
+  "h": "a01b01ea"
  },
  {
   "key": "BugAchievements/BUG_DESC_48",
-  "zh": "你找到了一条真的很窄的巷子",
-  "en": "You found a really narrow alley",
-  "ru": "Вы нашли очень-очень узкий переулок"
+  "ru": "Вы нашли очень-очень узкий переулок",
+  "h": "ab3ceeec"
  },
  {
   "key": "BugAchievements/BUG_NAME_49",
-  "zh": "预备消防员",
-  "en": "Backup Firefighter",
-  "ru": "Пожарный в запасе"
+  "ru": "Пожарный в запасе",
+  "h": "db5a13c6"
  },
  {
   "key": "BugAchievements/BUG_DESC_49",
-  "zh": "你顺手修好了消防栓",
-  "en": "You fixed the fire hydrant on the way",
-  "ru": "Вы мимоходом починили пожарный гидрант"
+  "ru": "Вы мимоходом починили пожарный гидрант",
+  "h": "49edd9be"
  }
 ]

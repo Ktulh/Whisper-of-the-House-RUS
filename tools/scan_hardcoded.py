@@ -3,8 +3,8 @@ import UnityPy, glob, os, re, json, struct, collections
 from common import *
 G = game_data_dir()
 en_set = set()
-for p in glob.glob(os.path.join(TRANSLATION_DIR, "*.json")):
-    for e in json.load(open(p, encoding="utf-8")): en_set.add(e["en"].strip())
+for cat in all_cats():
+    for e in load_cat(cat): en_set.add(e["en"].strip())
 files = [os.path.join(G, f) for f in os.listdir(G) if (f.endswith(".assets") or re.fullmatch(r"level\d+", f))]
 files += glob.glob(G + r"\StreamingAssets\aa\BuildTarget\*.bundle")
 STR = re.compile(rb"(?s)(.{4})")

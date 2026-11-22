@@ -1,7 +1,10 @@
-"""Export text terms from the original resources.assets into translation/<Category>.json.
+"""Export text terms from the original resources.assets.
+
+Writes translation/<Category>.json (published: key, ru, h) and extracted/source/<Category>.json
+(local only: the game's original zh/en text, never committed).
 
 Existing "ru" values are preserved, so re-export after a game update keeps finished work
-and flags changed source strings (en changed -> ru moved to "ru_old", ru emptied).
+and flags changed source strings (hash of en changed -> ru moved to "ru_old", ru emptied).
 """
 import json, os, shutil, sys
 import UnityPy
@@ -38,14 +41,14 @@ def main():
             e = {"key": t["term"], "zh": t["langs"][LANG_ZH], "en": t["langs"][LANG_EN], "ru": ""}
             prev = old.get(t["term"])
             if prev:
-                if prev["en"] == e["en"]:
+                # published files keep only a hash of the original; older full files still carry the text
+                prev_h = prev.get("h") or (src_hash(prev["en"]) if "en" in prev else None)
+                if prev_h == src_hash(e["en"]):
                     e["ru"] = prev.get("ru", "")
                 elif prev.get("ru"):
                     e["ru_old"] = prev["ru"]
             out.append(e)
-        with open(path, "w", encoding="utf-8", newline="\n") as f:
-            json.dump(out, f, ensure_ascii=False, indent=1)
-            f.write("\n")
+        save_cat(cat, out)   # published (key/ru/h) + local source (key/zh/en)
         print(f"{cat:22} {len(out)}")
 
 

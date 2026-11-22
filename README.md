@@ -81,7 +81,7 @@ Steam при обновлении может вернуть английский
 Требуется Python 3.12 и `pip install UnityPy`.
 
 ```
-python tools/export.py                 # выгрузить строки игры в translation/*.json (сохраняет готовый перевод)
+python tools/export.py                 # выгрузить строки из вашей копии игры (сохраняет готовый перевод)
 python tools/batches.py make|merge|check  # нарезка на пакеты для перевода, слияние, проверка тегов
 python tools/make_payload.py           # собрать installer/ru.tsv
 python tools/build_release.py          # собрать zip для Releases в dist/
@@ -94,7 +94,9 @@ python tools/make_test_variants.py <папка>   # сломанные копи�
 powershell -File tools/test_installer.ps1 -Variants <папка> -Original extracted/original/resources.assets -Work <рабочая папка>
 ```
 
-* `translation/*.json` — исходники перевода: `{"key", "zh", "en", "ru"}`; редактируется только `ru`.
+* `translation/*.json` — сам перевод: `{"key", "ru", "h"}`; редактируется только `ru`, `h` — короткий хеш оригинала
+  (по нему `export.py` замечает, что после обновления игры строка изменилась). Оригинальные тексты игры в репозитории
+  не хранятся: `export.py` собирает их локально из вашей копии игры в `extracted/source/` (папка не коммитится).
 * `translation/GLOSSARY.md` — глоссарий имён, мест и терминов.
 * Игра использует I2 Localization; русский текст записывается в колонку английского языка
   (у русского Steam игра по умолчанию включает английский).
