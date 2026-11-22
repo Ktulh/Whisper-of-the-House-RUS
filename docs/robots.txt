@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ktulh.github.io/Whisper-of-the-House-RUS/sitemap.xml

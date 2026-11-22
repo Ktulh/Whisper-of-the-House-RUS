@@ -24,6 +24,7 @@ def main():
     with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:  # Python sets the UTF-8 name flag
         for f in FILES:
             z.write(os.path.join(ROOT, "installer", f), f"{folder}/{f}")
+        z.write(os.path.join(ROOT, "LICENSE"), f"{folder}/LICENSE.txt")
         z.writestr(f"{folder}/ПРОЧТИ МЕНЯ.txt", README_TXT.replace("\n", "\r\n").encode("utf-8-sig"))
     print(out, os.path.getsize(out), "bytes")
 
